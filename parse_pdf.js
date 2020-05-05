@@ -44,9 +44,9 @@ function parse(inputFile, outputFile) {
             const o = parseVals(line)
             // console.log(o)
     
-            if(lastPatient && o.forename && !o.surname && !o.address) {
+            if(lastPatient && o.firstname && !o.lastname && !o.address) {
                 
-                o.surname = lastPatient.surname
+                o.lastname = lastPatient.lastname
                 o.address = lastPatient.address
                 o.localHealthOffice = lastPatient.localHealthOffice
             }
@@ -55,19 +55,25 @@ function parse(inputFile, outputFile) {
             return o
         })
     
-        const strings = []
-        const header = Patient.fields.map(f => f.name).join("\t")
-        strings.push(header)
+        const patients = patientData.map(o => new Patient(o))
+        
+        // const strings = []
+        // const header = Patient.fields.map(f => f.name).join("\t")
+        // strings.push(header)
     
     
     
-        patientData.forEach(d => {
-            const line = Patient.fields.map(f => d[f.name]||'').join("\t")
-            strings.push(line)
-        })
+        // patientData.forEach(d => {
+        //     const line = Patient.fields.map(f => d[f.name]||'').join("\t")
+        //     strings.push(line)
+        // })
     
-    
-        fs.writeFileSync(outputFile, strings.join('\n'))
+
+
+        const tsv = Patient.createTable(patients)
+
+        fs.writeFileSync(outputFile, tsv)
+        
     
         
     });
@@ -76,8 +82,12 @@ function parse(inputFile, outputFile) {
 }
 
 
-parse("./data/77929_202004_PL.pdf", `./output/77929_202004_PL.pdf.csv`)
-parse("./data/77929_202004_PL-4.pdf", `./output/77929_202004_PL-4.pdf.csv`)
+parse("./data/77929_202004_PL.pdf", `./output/77929_202004_PL.pdf.tsv`)
+parse("./data/77921_202004_PL-4.pdf", `./output/77921_202004_PL-4.pdf.tsv`)
+parse("./data/Practice_B_incomplete_Socrates/77627_202004_PL.pdf", `./output/77627_202004_PL.pdf.tsv`)
+parse("./data/Practice_B_incomplete_Socrates/83108_202004_PL.pdf", `./output/83108_202004_PL.pdf.tsv`)
+
+
 
 
 function parseRows(rows) {
@@ -151,16 +161,16 @@ function parsePage(p,i ) {
         dispensingPatient: 17.642,
         maritalStatus: 18.807,
         asthmaReg: 20.477,
-        forename: 21.775,
+        firstname: 21.775,
         cardNumber: 26.63 ,
         ppsNumber:  30.008 ,
         is70: 33.7,
         dateOfBirth: 34.035,
         expiryDate: 36.9 ,
-        sex: 40.413,
+        gender: 40.413,
         cardType: 41.82,
-        patientCategory: 43.275,
-        patientCategoryExpiryDate: 44.605
+        category: 43.275,
+        categoryExpiryDate: 44.605
     }
 
     
@@ -181,8 +191,8 @@ function parsePage(p,i ) {
 
     
     if(o.addressAndName) {
-        const [surname, ...addressBits] = (o.addressAndName).split(",").map(t => t.trim())
-        o.surname = surname
+        const [lastname, ...addressBits] = (o.addressAndName).split(",").map(t => t.trim())
+        o.lastname = lastname
         o.address = addressBits.map(t => t.trim()).join(", ").replace(/, \$/,'')
         delete o.addressAndName
     }

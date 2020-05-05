@@ -2,7 +2,7 @@ const DateRegex = /[0-3][0-9]\/[0-1][0-9]\/[12][90][0-9][0-9]/
 
 const fields = [
     {   
-        name: "surname" ,
+        name: "lastname" ,
         required: true
     }, 
     {   
@@ -26,7 +26,7 @@ const fields = [
         regex: /Y|N/
     },
     {   
-        name: "forename" ,
+        name: "firstname" ,
         required: true
     }, 
  
@@ -50,7 +50,7 @@ const fields = [
         type:  DateRegex
     }, 
     {   
-        name: "sex",
+        name: "gender",
         regex: /MF/
     },
     {   
@@ -58,23 +58,40 @@ const fields = [
         regex: /MC|DVC/
     }, 
     {   
-        name: "patientCategory",
+        name: "category",
         regex: /000|899|901|902|903|904|905|906|907|908|909|910|911|912|913|914|915|916/
     },
     {
-        name:"patientCategoryExpiryDate",
+        name:"categoryExpiryDate",
         regex: DateRegex
-    }
+    },
+    {
+        name:'phone'
+    },
+    {
+        name:'mobilephone'
+    },
+    {
+        name:'email'
+    },
 ]
 
 class Patient {
 
-    constructor(o) {
+    constructor(_o) {
+        const o = {..._o}
         fields.forEach(({name}) => {
             if(name in o) {
                 this[name] = o[name]
+                delete o[name]
             }
         })
+
+        this.unusedData = {...o}
+
+        if(Object.keys(this.unusedData).length) {
+            console.log("unused keys", Object.keys(this.unusedData))
+        }
     }
 
     validate() {
@@ -97,24 +114,29 @@ class Patient {
         return errs
     }
 
+    toRow() {
+        const row = []
+        fields.forEach(f => {
+            const val = (this[f.name]||"").toString()
+            row.push(val)
+        })
+        return row
+    }
+
 }
 
 
-// [ { text: 'Ã\'BRIAIN , 7 HIGFIELD , ENNIS ROAD ,  , CO LIMERICK',
-//        x: 1.175 },
-//      { text: '23', x: 16.295 },
-//      { text: 'N', x: 17.642 },
-//      { text: 'MÃIRÃN', x: 21.775 },
-//      { text: 'A409492A', x: 26.63 },
-//      { text: '9344761A', x: 30.008 },
-//      { text: '*', x: 33.7 },
-//      { text: '29/11/1940', x: 34.035 },
-//      { text: '31/07/2021', x: 36.9 },
-//      { text: 'M', x: 40.413 },
-//      { text: 'MC', x: 41.82 },
-//      { text: ' 000', x: 43.275 } ] }
+
 Patient.fields = fields
 
+Patient.createTable = (patients) => {
+    const lines = patients.map(p =>  p.toRow().join("\t"))    
+    
+    const header = Patient.fields.map(f => f.name).join("\t")
+    lines.unshift(header)
+    
+    return lines.join("\n")
+}
 
 
 module.exports = Patient
