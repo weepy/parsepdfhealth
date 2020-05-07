@@ -1,16 +1,19 @@
 const fs = require('fs')
-const parsePDF = require('../parsepdf.js')
-const Patient = require('../Patient.js')
+const parsePDF = require('../src/parsepdf.js')
+const Patient = require('../src/Patient.js')
 
-function parseA2(practiceId, inputFile, outputFile) {
+function parseGenericPdf(practiceId, inputFile, outputFile) {
+  
     parsePDF(inputFile, (patientData) => {
         const patients = patientData.map(o => new Patient({practiceId, ...o}))
           
         const csv = Patient.createTable(patients)
+        
+        console.log("created ", patients.length, " rows")
         
         fs.writeFileSync(outputFile, csv)
     })
     
 }
 
-module.exports = parseA2
+module.exports = parseGenericPdf

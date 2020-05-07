@@ -35,8 +35,35 @@ function convertCategory(o) {
     
 }
 
+function convertFullName(o) {
+
+    if(o.fullName.match(",")) {
+        const bits = o.fullName.split(",").map(t=>t.trim())
+        o.firstname = bits[1]
+        o.lastname = bits[0]        
+    }
+    else {
+        const [firstname, ...rest] = o.fullName.split(" ").map(t=>t.trim())
+        o.firstname = firstname
+        o.lastname = rest.join(" ")
+    }
+
+    delete o.fullName
+}
+
+function convertGMSNumberAndReview(o) {
+    // SORT gmsNumberAndReview
+    if(o.gmsNumberAndReview) {
+        const bits = o.gmsNumberAndReview.replace(/\s+/g,' ').split(" ")
+        o.cardNumber = bits[0]
+    }
+    delete o.gmsNumberAndReview
+}
+
 module.exports = {
     convertAddress,
     convertDateOfBirth,
-    convertCategory
+    convertCategory,
+    convertFullName,
+    convertGMSNumberAndReview
 }

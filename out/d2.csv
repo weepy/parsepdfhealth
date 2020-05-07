@@ -1,0 +1,1358 @@
+practiceId,lastname,address,firstname,cardNumber,ppsNumber,dateOfBirth,gender,cardType,category,phone,phone2,email,registrationDate,uniqueId
+D,Costello,"Killeely More, Kilcolgan, Co. Galway",Michael,R81134,,13/04/1969,M,,,,,,,001240
+D,Kelly,"Croi Nua, Rosary Lane, Taylors Hill, Galway",Patrick,5781041A,,23/10/1944,M,,,,,,,0000066
+D,O'Toole,"31 St Joseph Avenue, Henry Street, Galway",Nicole,5808717D,,29/01/2007,F,,,,,,,0000084
+D,Higgins,"17 McDonagh Avenue, Mervue, Galway",Jemma,U867924D,,29/12/2006,F,,,,,,,0000035
+D,McCall,"4 Dr Mannix Road, Salthill, Galway",David,5822990A,,21/09/1929,M,,,,,,,0000060
+D,Mleczko,"40 An Tornóg, Headford Road, Galway",Maciej,E909972A,,02/04/1974,M,,,,,,,0000129
+D,Mamsa,"5 Ros Aitinn, Upper Clybaun Rd, Galway",Aaisha,5835885e,,22/02/2007,F,,,,,,,0000134
+D,Morgan,"12 Lough Atalia Grove, Renmore, Galway",Mary,5851510A,,05/11/1944,F,,,,,,,0000120
+D,CHKHEIDZE GLOWACKA,"44 Cnoc an Oir, Rahoon, Galway",Izabela,0E40465C,,29/01/2007,F,,,,,,,0000085
+D,Hanley,"65 Thornog, Headford Road, Galway",Shane,5807395D,,01/02/2007,M,,,,,,,0000091
+D,COSTELLO,"Ballybrone, Waterview, Turloughmore, Co.Galway",Leah,5852307E,,18/12/2006,F,,,,,,,0000031
+D,Gill,"Ballagh, Bushypark, Galway",Ronan,S966834A,,20/04/1940,M,,,,,,,006109
+D,Walsh,"17 Beechwood Park, Ballybane",Kenneth,5837617A,,11/07/1986,M,,,,,,,006112
+D,Brady,"Bothar Bui, Inverin, Co.Galway",Ava,5816071D,,24/10/2006,F,,,,,,,006098
+D,FLAHERTY,"17 DAVIS RD, SHANTALLA, GALWAY",Martin,R392832A,,22/05/1959,F,,,,,,,006074
+D,McDonagh,"Bunawen, Ballyconneely, Co. Galway",Anne,U759105A,,19/01/1962,F,,,,,,,006090
+D,Barry,"83 Dun na Carraige, Blackrock, Salthill, Galway",Kevin,5811448A,,01/12/1947,M,,,,,,,0000023
+D,Elizabeth Wallace,"57 Maoilin, Ballymoneen Road, Galway",Mia,5792063C,,18/12/2006,F,,,,,,,0000027
+D,Sangha,"44 Manor Court, Knocknacarra, Galway",Bakhshish,5819270A,,15/01/1958,M,,,,,,,0000003
+D,Clune,"45 Inishannagh Pk., Newcastle, Galway",Colin,5844384D,,08/11/2006,M,,,,,,,006118
+D,Kelly,"48 Inishannagh Park, Newcastle, Galway",Joseph,5818932A,,19/03/1945,M,,,,,,,006166
+D,Sammon,"201 Castlelawn Heights, Headford Road, Galway",Mary,0F33445A,,30/07/1947,F,,,,,,,0000155
+D,O'Gorman,"Gortcloonmore, Claregalway, Co.Galway",Jennifer,5830373A,,10/10/1990,F,,,,,,,0000446
+D,Mannion,"14 Davis Road, Shantalla, Galway",Martin,5794158A,,23/02/1953,M,,,,,,,0000449
+D,QUINN,"66 Inishannagh Park, Newcastle, GALWAY",Nathan,M159934D,,19/08/2007,M,,,,,,,0000403
+D,Waldron,"4 Cluain Fada, Headford Road, Galway",Alan,5842500B,,06/10/1964,M,,,,,,,0000395
+D,Healy,"9 Colemans Road, Shantalla, Galway",Evan,W087489C,,08/08/2007,M,,,,,,,0000398
+D,Nevin,"116 Dangan Hrights, Newcastle, Galway",Tessie,U942048A,,26/06/1950,F,,,,,,,0000581
+D,Haran,"84 Forster Court, Eyre Square, Galway",Derrick,0S69904A,,06/10/1964,M,,,,,,,0000594
+D,Colleran,"Mincloon, Rahoon, Galway",Jessica,5851926C,,10/11/2007,F,,,,,,,0000568
+D,Smyth,"10 Michael Collins Road, Mervue, Galway",Coley,,,24/10/1963,M,,,,,,,0000506
+D,Kennedy,"4 Killcais, Clybaun Road, Galway",Niall,5825371A,,08/10/1972,M,,,,,,,0000531
+D,Burke,"35 Maunsells Park, Galway",Thomas,D282087E,,19/04/2007,M,,,,,,,0000220
+D,Faherty,"20 Parnell Avenue, Mervue, Galway",Bridie,5789361B,,09/10/1925,F,,,,,,,0000221
+D,Burke,"The Bungalow, 86 Old Seamus Quirke Road, Galway",Kathleen,5829095A,,11/05/1938,F,,,,,,,0000211
+D,Holland,"Kilcoona, Headford, Co. Galway",Tracy,5785777B,,03/12/1962,F,,,,,,,0000172
+D,Ojehonmon,"33 Binn Bhan, Cappagh Road, Galway",Daniel,5836648A,,10/03/2007,M,,,,,,,0000179
+D,MACPHILBIN,"31 McDara Road, Shantalla, Galway.",Patrick,5844344A,,25/03/1944,M,,,,,,,0000346
+D,Kelleher,"55 Maunsells Park, Taylors Hill, Galway",Colette,0C03673A,,14/05/1947,F,,,,,,,0000354
+D,Fitzgerald,"7 Tor Bui, Cappagh Rd., Galway",Emily,0D60598C,,14/05/2007,F,,,,,,,0000263
+D,McNulty,"10 Droim Chaoin, Bishop O'Donnell Road, Galway",Kevin,5848814A,,25/10/1959,M,,,,,,,0000226
+D,Faherty,"20 Parnell Avenue, Mervue, Galway",Thomas,5789361A,,18/11/1926,M,,,,,,,0000233
+D,Tsaturova,"2 Bru na Mara, Fort Lorenzo, Galway",Robert,5802310A,,28/01/1963,M,,,,,,,006070
+D,Furey,"78 The Meadows, Ballybrit, Galway",Danielle,A869536A,,30/01/1996,F,,,,,,,005728
+D,Kelly,"17 Rian Luachra, Ballybane, Galway",Natasha,5833963A,,10/10/1990,F,,,,,,,005734
+D,Thomas Connolly,"9 Grattan Terrace, Salthill, Galway",Alexander,8062315C,,08/08/2005,M,,,,,,,005705
+D,O'Brien,"17 Monivea Park, Ballybane, Galway",Anna,5828961A,,25/07/1951,F,,,,,,,005698
+D,Wilkens,"Cregboy, Claregalway, Co, Galway",Clare,W494865A,,12/08/1940,F,,,,,,,005701
+D,BINUYO,"145 Tur Uisce, Doughiska, Merlin Park, Galway",Suad,1D29998B,,01/06/2006,F,,,,,,,005764
+D,Faherty,"Roscahill, Co.Galway",Thomas,G863262A,,14/02/1941,M,,,,,,,005765
+D,Mannion,"Ballydotia, Belclare, Tuam, Co.Galway",Enda,0J99802A,,15/12/1990,M,,,,,,,005755
+D,Moran,"Roscahill, Galway",Declan,D400050A,,04/08/1995,M,,,,,,,005742
+D,Egan,"71 Fana Burca, Knocknacarra, Galway",Conor,0K79543A,,29/04/2002,M,,,,,,,005748
+D,McCarthy,"15 Churchfields, Salthill, Galway",Kieran,5818041A,,30/06/1945,M,,,,,,,005620
+D,DONOFRIO,"39 Clybaun Court, Knocknacarra, Galway",Ethan,5783609E,,07/04/2006,M,,,,,,,005635
+D,O'Connell,"Pollnarooma West, Galway",Brian,E321255B,,08/04/1947,M,,,,,,,005619
+D,Fitzpatrick,"24 Rockbarton Park, Salthill, Galway",Emer,0Y41626A,,27/06/1973,F,,,,,,,005611
+D,Garvey,"Ballagh, Bushypark, Galway",Cathal,0M99811A,,23/04/1948,M,,,,,,,005616
+D,Wyer,"16 Crescent View, Riverside, Galway",Luke,D831132C,,19/04/2006,M,,,,,,,005665
+D,Malcolm,"87 Claremont Park, Circular Road, Galway",Ian,A716797A,,16/11/1978,M,,,,,,,005685
+D,Wyer,"16 Crescent View, Riverside, Galway",Karen,D831132A,,05/12/1974,F,,,,,,,005664
+D,Ruboneka,"84 Manor Court, Knocknacarra, Galway",Rosemary,5814532A,,04/09/1981,F,,,,,,,005649
+D,Moran,"69 Cuirt na hAbhainn, Lakeview, Claregalway, Co. Galway",Jack,R238419A,,11/04/2000,M,,,,,,,005654
+D,Hogenkamp,"49 Glenard Crescent, Salthill, Galway",Anja,U437976B,,09/05/1967,F,,,,,,,005779
+D,KORKURT,"32 Droim Oir, Knocknacarra, GALWAY",Safiye,5799973B,,15/12/1960,F,,,,,,,005937
+D,King,"Apt 2 Newtownsmith, Galway",Margaret,S931644A,,06/03/1945,F,,,,,,,005954
+D,John Heffernan,"143 Botharmore, Galway",Michael,M300696A,,31/07/1950,M,,,,,,,005931
+D,Herwood,"Mullacuttla, Claregalway, Co.Galway",Michael,5840453A,,12/06/1941,M,,,,,,,005913
+D,Salwa MABASA,"382 Tirellan Heights, Headford Road, Galway",Alisha,5835885E,,20/08/2006,F,,,,,,,005930
+D,Tsaturova,"2 Bru na Mara, Fort Lorenzo, Rahoon, Galway",Mareta,5802310B,,02/09/1960,F,,,,,,,006016
+D,Martin NEE,"66 CARN ARD, CIRCULAR RD, GALWAY",Anthony,W344394A,,15/06/1984,M,,,,,,,006054
+D,Lynch,"8 Racecourse Lawn, Ballybrit, Galway",Colm,5779040D,,16/09/2006,M,,,,,,,006003
+D,KORKURT,"32 Droim Oir, Knocknacarra, GALWAY",Tilbe,G020916A,,30/03/1997,F,,,,,,,005962
+D,Robert Hart,"24 Rockbarton Park, Salthill, Galway",Eoghan,R432702E,,14/09/2006,M,,,,,,,005992
+D,Zakharova,"91 Ros Ard, Cappagh Road, Galway",Yuliya,5805753D,,08/06/1998,F,,,,,,,005804
+D,Mamagulishvili,"18 Glenburen Park, Tuam Rd, Galway",Lia,B201240A,,10/11/1972,F,,,,,,,005836
+D,Martin,"3 Kylemore Park, Taylors Hill, Galway",Tom,S966123A,,28/02/1945,F,,,,,,,005797
+D,Kersten Sohn,"49 Glenard Crescent, Salthill, Galway",Anton,E050616A,,04/11/2000,M,,,,,,,005780
+D,Sohn,"49 Glenard Crescent, Salthill, Galway",Gundo,U437976A,,24/04/1967,M,,,,,,,005781
+D,Hynes,"89 Ballinfoyle Park, Headford Road, Galway",Ethan,8239185D,,20/07/2006,M,,,,,,,005896
+D,Atuokwu,"19 The Paddocks, Ballybrit, Galway",Divine,5813841D,,23/07/2006,M,,,,,,,005906
+D,Sohn,"49 Glenard Crescent, Salthill, Galway",Judaith,1I42355A,,22/12/2003,F,,,,,,,005895
+D,Egan,"71 Fana Burca, Knocknacarra, Galway",Cian,5833760F,,07/07/2006,M,,,,,,,005842
+D,FLAHERTY,"17 DAVIS ROAD, SHANTALLA, GALWAY",Patrick,B676305A,,27/08/1955,M,,,,,,,005857
+D,O'DONNELL,"13 Crestwood, Coolagh Rd, Galway",J.P.,5802368A,,19/03/1933,M,,,,,,,0001391
+D,Ahearne,"48 Tulach Ard, Rahoon, Galway.",Claire,5853237A,,22/04/1996,F,,,,,,,0001402
+D,Nicole Bradley-Duffy,"119 Upper Newcastle, Galway",Emma,S400014B,,05/08/2009,F,,,,,,,0001387
+D,Parker,"Pillagh, Moycullen, Co. Galway",Cerys,5785608C,,27/08/2009,F,,,,,,,0001379
+D,Camara,"41 Belvedere Road, Dublin 1",Nene-Bollele,5835207A,,20/05/1962,F,,,,,,,0001385
+D,Carolan,"72 Liosmore, Cappagh Road, Galway",Roisin,5843536A,,30/09/2009,F,,,,,,,0001420
+D,Garvey,"232 Boireann Beag, Roscam, Galway",Charlie,S671958B,,13/10/2009,M,,,,,,,0001421
+D,O'Flynn,"An Fhormna, Inish Oirr, Aran Islands, Co. Galway",Annette,5847918A,,05/01/1975,F,,,,,,,0001413
+D,Devlin,"73 Clareview Park, Ballybane, Galway",Keith,5840480A,,06/03/1970,M,,,,,,,0001403
+D,O'Kennedy,"Drumcooley, Edenderry, Co. Galway",Margaret,5832183A,,24/10/1938,F,,,,,,,0001407
+D,Hayden,"33 White Oaks, Clybaun Road, Galway",Mark,5847101A,,20/12/2006,M,,,,,,,0001242
+D,Vardanyan,"30 Leas na Mara, Knocknacarra, Galway",Annie,0A58123B,,04/05/2009,F,,,,,,,0001252
+D,Kenny,"32 Rockbarton Rd., Galway.",Brendan,A105067A,,04/08/1939,M,,,,,,,0001227
+D,O'Conaola,"West Village, Inis Oirr, Aran Islands, Co. Galway",Dara,R084078A,,07/11/1945,M,,,,,,,0001218
+D,Hayden,"33 White Oaks, Clybaun Road, Galway",Brian,5847102A,,21/07/2008,M,,,,,,,0001226
+D,Atuokwu,"19 The Paddocks, Ballybrit, Galway",Nathan,5813841E,,04/08/2009,M,,,,,,,0001336
+D,Kennedy,"23 Grattan Court, Lower Salthill, Galway",Daniel,1D31420A,,18/07/2009,M,,,,,,,0001374
+D,Ni Chonaola,"14 Baile an tSagairt, An Spideal, Co. Galway",Lasairfhiona,5851579A,,15/07/1972,F,,,,,,,0001333
+D,Mosalishvili,"143 Dun na Carraige, Salthill, Galway",Lizi,5798164C,,02/06/2009,F,,,,,,,0001284
+D,Lavelle,"55 The Green, College Road, Galway",Lorna,F397582A,,20/07/1983,F,,,,,,,0001320
+D,Kelly Daly,"119 Manor Court, Western Distributor Road, GALWAY",Wayne,5798724D,,18/10/2009,M,,,,,,,0001423
+D,Ryan,"10 St. Anthony's Tce, Bohermore, Galway",Martin,8362637A,,07/06/1935,M,,,,,,,0001653
+D,Fox,"Robinhill, Monument Road, Menlo, Galway",Joseph,R570204A,,19/03/1943,M,,,,,,,0001655
+D,McDonagh,"21 Lus Leana, Headford Road, Galway",Patrick,U382230A,,02/08/1985,M,,,,,,,0001649
+D,Kafarska,"146 Ros Caoin, Roscam, Galway.",Sylwia,B620775A,,02/04/1984,F,,,,,,,0001620
+D,Wallace,"57 Maoilin, Ballymoneen Road, Galway",Milly,5792063D,,06/04/2010,F,,,,,,,0001643
+D,BALAZOVA,"29 The Meadows, Ballybrit, Galway",Vivienne,R191682C,,01/09/2010,F,,,,,,,0001745
+D,Greaney,"10 Greenview Heights, Newcastle, Galway.",Abigail,5799744C,,10/09/2010,F,,,,,,,0001755
+D,Lynch,"8 Racecourse Lawn, Ballybrit, Galway",Deirdre,5779040F,,24/08/2010,F,,,,,,,0001737
+D,O'Grady,"4 Blackthorn Park, Renmore, Galway.",Conor,5852261A,,04/06/2010,M,,,,,,,0001680
+D,Tess Hajduk,"51 Cnoic an Oir, Letteragh Road, Rahoon, Galway",Erica,G177192C,,22/06/2010,F,,,,,,,0001688
+D,Uwamenye,"46 An Sean Bhaile, Doughiska, Galway",Ciara,5814899E,,28/11/2009,F,,,,,,,0001478
+D,CROWLEY,"56 GLENBHAN ESTATE, BALLYBANE, GALWAY",Lee,5799161E,,11/11/2009,M,,,,,,,0001481
+D,DOLAN,"14 An Logan, Western Distributor Road, Galway.",Lauren,E238716A,,13/09/1978,F,,,,,,,0001462
+D,Maher,"59 Manor Court, Knocknacarra, Galway",Pat,0Y26146A,,11/01/1949,M,,,,,,,0001442
+D,CROWLEY,"56 GLENBHAN ESTATE, BALLYBANE, GALWAY",Holly,5799161D,,11/11/2009,F,,,,,,,0001453
+D,Brady,"Mincloon, Rahoon, Galway",Henry,5839560A,,15/10/1984,M,,,,,,,0001615
+D,O'Kennedy,"8 Shantalla Place, Rahoon, Galway",Joseph,5842730A,,05/06/1964,M,,,,,,,0001617
+D,Wyer,"16 Crescent View, Riverside, Galway",Peter,0T95833A,,09/10/1948,M,,,,,,,0001573
+D,Fahy,"9 Costello Road, Shantalla, Galway",Chris,0K66430A,,15/02/1948,M,,,,,,,0001507
+D,Fulton Swannock,"34 Fana Bui, Ballymoneen Road, GALWAY",Callum,5850208D,,18/01/2010,M,,,,,,,0001559
+D,Rigney,"9 Cuirt Roisin, Cappagh Road, Galway.",Monique,D644580A,,30/01/1982,F,,,,,,,0001206
+D,Arsic,"107 Coillte Mhuirlinn, Ballybane, Galway",Vlado,5785877A,,15/03/1965,M,,,,,,,0000798
+D,lavelle,"53 The Green, College Road, Galway",Amy,0V59068A,,16/01/2003,F,,,,,,,0000806
+D,Kelly,"17 Rian Luachra, Ballybane, Galway",Kacie,5833963C,,26/05/2008,F,,,,,,,0000797
+D,Lynch,"8 Racecourse Lawn, Ballybrit, Galway",Padraig,5779040E,,17/03/2008,M,,,,,,,0000744
+D,Uwamenye,"46 An Sean Bhaile, Doughiska, Galway",Ryan,5814899D,,26/05/2008,M,,,,,,,0000793
+D,O'Connor,"Corcullen, Co. Galway",Marian,5845826A,,27/04/1945,F,,,,,,,0000862
+D,Hansberry,"187 Baile an Choiste, Headford Road, Galway",Tomas,M437306C,,02/07/2008,M,,,,,,,0000868
+D,Kelly,"119 Manor Court, Knocknacarra, Galway",Gary,5798724C,,21/02/2007,M,,,,,,,0000829
+D,Michael Aden,"63 Rosan Glas, Rahoon, Galway",Frida,5797087G,,24/05/2008,F,,,,,,,0000808
+D,Holland,"Kilcoona, Headford, Co. Galway",Martin,5785777A,,16/06/1953,M,,,,,,,0000824
+D,Lois Gilroy,"59 Dangan Heights, Newcastle, Galway",Mia,5785533C,,11/12/2007,F,,,,,,,0000633
+D,Gilroy,"59 Dangan Heights, Newcastle, Galway",Nichola,5785533A,,07/03/1981,F,,,,,,,0000656
+D,Greaney,"24 Fana Bui, Ballymoneen Road, Galway.",Luka,5830102D,,20/12/2007,M,,,,,,,0000621
+D,SWANNOCK,"34 Fana Bui, Ballymoneen Road, GALWAY",Dylan,5850208C,,26/11/2007,M,,,,,,,0000604
+D,Moore,"87, Knocknacarra pk., Galway",Oscar,D580896D,,20/12/2007,M,,,,,,,0000619
+D,Hynes,"Ballymoneen Road, Knocknacarra, Galway",Patricia,R519507A,,08/03/1946,F,,,,,,,0000699
+D,Corcoran,"16 Fursey Road, Shantalla, Galway",Edward,U261900A,,09/02/1969,M,,,,,,,0000709
+D,ONEILL,"8 HENRY ST, GALWAY",Gerard,U698067A,,29/04/1974,M,,,,,,,0000691
+D,Flynn,"20 Ruxton Court, Dominick Street, Galway.",Molly,5839136D,,15/01/2008,F,,,,,,,0000661
+D,BRENNAN,"4 ROCKHILL AVENUE, SALTHILL, GALWAY",Seamus,U922545A,,21/04/1944,M,,,,,,,0000670
+D,Garvey,"Ballagh, Bushypark, Galway",Mary,S830763A,,01/10/1943,F,,,,,,,0000869
+D,Waldron,"4 Cluain Fada, Headford  Rd ., Galway",Christopher,5842500C,,08/01/2009,M,,,,,,,0001086
+D,Harutyunyan,"72 Riasc na Ri, Old Rahoon Road, Galway",Mariana,5806274D,,15/02/2009,F,,,,,,,0001124
+D,Aslanyan,"15A Lenaboy Avenue, Salthill, Galway.",Armine,5833900A,,11/02/1980,F,,,,,,,0001080
+D,Ukage,"39 An Sean Bhaile, Doughiska, Galway",Godswill,0K27253C,,08/01/2009,M,,,,,,,0001075
+D,Griffin,"Ashling, Gentian Hill, Knocknacarra, Galway",Barry,5833040A,,19/08/1967,M,,,,,,,0001076
+D,Walsh,"21 Bothar Waithman, Ballybane, Galway.",Sean,G121986A,,24/11/1981,M,,,,,,,0001163
+D,Furey,"Carheeny, Claregalway, Galway.",Nathan,U343530A,,07/09/1989,M,,,,,,,0001202
+D,Petrosyan,"15A Lenaboy Avenue, Salthill, Galway",Viktoria,5833900C,,24/02/2009,F,,,,,,,0001148
+D,Kennedy,"23 Grattan Court, Lower Salthill, Galway",Adam,1D31420B,,23/02/2004,M,,,,,,,0001137
+D,Mosulishvili,"143 Dun na Carraige, Salthill, Galway",Natela,5798164A,,06/07/1984,F,,,,,,,0001147
+D,CODYRE,"Heather View, Mincloon, Rahoon, Galway",Abbey,8104018J,,23/07/2008,F,,,,,,,0000889
+D,Hart,"24 Rockbarton Park, Salthill, Galway",Alban,R432702C,,23/08/2008,M,,,,,,,0000928
+D,Dempsey,"41 Grangemore, Bishop O'Donnell Road, Galway",Michael,5850240E,,21/07/2008,M,,,,,,,0000888
+D,Pritchard,"Woodlawn, Ballinasloe, Co. Galway",Michael,8160996A,,25/09/1958,M,,,,,,,0000880
+D,Feeney,"15 Gort an Dun, Oranhill, Oranmore, Galway",Maura,0C38620A,,19/06/1957,F,,,,,,,0000883
+D,Black,"23 Fana Bui, Ballymoneen Road, Knocknacarra, Galway",Gary,5789264B,,01/07/1966,M,,,,,,,0000972
+D,Burke,"35 Maunsells Park, Galway",Orlaith,D282087F,,06/01/2009,F,,,,,,,0001074
+D,King,"6 Fursey Road, Shantalla, Galway",Jason,1E04681A,,04/08/1982,M,,,,,,,0000964
+D,Hart,"24 Rockbarton Park, Galway",Russell,R432702B,,26/12/1970,M,,,,,,,0000953
+D,Alana O'Gorman,"Gortcloonmore, Claregalway, Co.Galway",Ava,5830373C,,09/09/2008,F,,,,,,,0000958
+D,Connolly,"194 Laurel Park, Newcastle, Galway, Galway",Mary,5841646A,,07/12/1985,F,,,,,,,004321
+D,Conneely,"6 Ros Geal, Millers Lane, Rahoon, Galway",Colie,5814113A,,03/10/1956,M,,,,,,,004322
+D,Esther Akanni,"145 Coillte Mhuirline, Ballybane, Galway",Adeiyi,5785599D,,09/12/2004,F,,,,,,,004295
+D,Brennan,"21 Davis Road, Shantalla, Galway",Ciara,S400329A,,14/12/1980,F,,,,,,,004216
+D,Colbert,"Eleta, Lower Taylors Hill, Galway",Dominic,W098469A,,18/10/1934,M,,,,,,,004223
+D,McInnes,"Liosagurrane, Moycullen, Co. Galway",John,U659340A,,06/02/1976,M,,,,,,,004371
+D,Harutyun,"72 Riasc na Ri, Old Rahoon Road, Galway",Harutyunyan,5806274A,,26/05/1972,M,,,,,,,004379
+D,O'Halloran,"10 Garrai Coirce, Upper Clybaun Road, Knocknacarra, Galway",Pat,U170937A,,02/06/1969,M,,,,,,,004359
+D,Noone,"10 Lios Ealtan, Nile Lodge, Galway",Katherine,A215452A,,01/12/1940,F,,,,,,,004324
+D,King Burke,"78 Cluain Dara, Knocknacarra, Galway.",Jackie,B909522a,,30/11/1957,F,,,,,,,004348
+D,Peikrishvili,"79 Gleann Dara, Bishop O'Donnell Road, Galway",Luka,5836481C,,16/11/2004,M,,,,,,,004189
+D,Griffin,"1 Riasc na Ri, Old Rahoon Road, Galway",Roger,5824060A,,20/10/1956,M,,,,,,,004190
+D,McLucas,"3 Upper Fairhill Road, Claddagh, Galway",Anne,0K28189A,,11/02/1947,F,,,,,,,004188
+D,Rebollini,"Derryvokeel, Peterswell, Co.Galway",Bernadette,5816874A,,15/03/1955,F,,,,,,,004153
+D,Waldron,"4 Cluain Fada, Headford  Rd ., Galway",Therese,5842500A,,16/11/1965,F,,,,,,,004172
+D,Costello,"48 Grattan Park, Salthill, Galway",Annette,5833702A,,24/02/1942,F,,,,,,,004214
+D,Hogan,"Stradbally North, Clarinbridge, Co. Galway",Kevin,0S43678A,,05/04/1955,M,,,,,,,004215
+D,Long,"5 Claddagh Quay, Galway",Anne,5832186A,,10/09/1935,F,,,,,,,004203
+D,Jackson,"Killaguile, Roscahill, Co.Galway",Nicole,1I74998A,,15/01/1992,F,,,,,,,004193
+D,O'Sullivan,"68 Droim Chaoin, Bishop O'Donnell Road, Galway",John,5849925A,,28/01/1972,M,,,,,,,004199
+D,Petrosyan,"72 Riasc na Ri, Old Rahoon Road, Galway",Armine,5806274B,,11/05/1977,F,,,,,,,004380
+D,McGurrin,"6 Cedarwood Close, Highfield Park, Galway.",Eamon,5795521A,,18/03/1962,M,,,,,,,004457
+D,Hanley,"Rathglas, New Inn, Ballinasloe, Co. Galway.",Kayleigh,0S58897A,,17/06/1991,F,,,,,,,004482
+D,Connolly,"12 McDara Road, Shantalla, Galway",Caroline,8062315A,,12/01/1964,F,,,,,,,004456
+D,Raja,"52 Tirellan Heights, Headford Road, Galway",Maleaha,W013113A,,28/04/1989,F,,,,,,,004448
+D,Greaney,"Aille, Barna, Co. Galway",John,,,09/04/1963,M,,,,,,,004450
+D,GLOWACKA,"44 Cnoc an Oir, Rahoon, Galway",Marta,0E40465B,,12/12/1984,F,,,,,,,004544
+D,McCluskey,"117 Castlelawn Heights, Terryland, Headford Road, Galway",Danielle,G222030A,,03/06/1996,F,,,,,,,004552
+D,Connolly,"63 Oldfield, Kingston, Galway",Martin,U213057A,,22/09/1942,M,,,,,,,004538
+D,Obayagbona,"46 An Sean Bhaile, Doughiska, Galway",Harrison,0I44839A,,10/09/2002,M,,,,,,,004503
+D,Marin-Cudraz,"Cnocan Glas, Spiddal, Co. Galway",Benoit,W495927A,,17/11/1956,M,,,,,,,004504
+D,Ashot Vardanyan,"30 Leas na Mara, Ballymoneen Road, Galway",David,0A58123C,,17/12/2003,M,,,,,,,004385
+D,Shine,"Sequoia, Menlo, Galway",Ted,A634348B,,17/05/1952,M,,,,,,,004390
+D,Vardanyan,"30 Leas na Mara, Ballymoneen Road, Galway",Ilena,E051921A,,13/11/2000,F,,,,,,,004384
+D,Vardanyan,"30 Leas na Mara, Ballymoneen Road, Galway",Eduard,5800397A,,03/09/1976,M,,,,,,,004381
+D,Vardanyan,"30 Leas na Mara, Ballymoneen Road, Galway",Marine,0A58123A,,09/02/1981,F,,,,,,,004382
+D,Obayagbona,"46 An Sean Bhaile, Doughiska, Galway",Blessing,5814899A,,16/05/1974,F,,,,,,,004430
+D,Naseer Raja,"52 Tirellan Heights, Headford Road, Galway",Amtal,5812034A,,01/01/1970,F,,,,,,,004447
+D,Kenny,"10 Maigh Nua, Doughiska, Galway",Robert,U789813A,,24/09/1971,M,,,,,,,004424
+D,Clarke,"17 Glenard Avenue, Galway.",John,5820188A,,26/09/1933,M,,,,,,,004393
+D,Lawless,"10 Radharc na Farraige, Ballymoneen Road, Galway",David,R468891A,,13/06/2000,M,,,,,,,004395
+D,Carr,"22 Michael Collins Road, Galway",Deirdre,U700155A,,31/12/1967,F,,,,,,,004129
+D,Aherne,"48 Tulach Ard, Rahoon, Galway",Theodora,5830133A,,12/10/1957,F,,,,,,,003919
+D,O'Toole,"31 St Joseph Avenue, Henry Street, Galway",Gerard,5808717A,,19/04/1975,M,,,,,,,003938
+D,Madden,"26 Claremont Park, Rahoon, Galway",Kathleen,5852923B,,30/11/1960,F,,,,,,,003850
+D,Fahy,"9 Costello Road, Shantalla, Galway",Christopher,5829437A,,03/01/1969,M,,,,,,,003842
+D,Colgan,"18 Rocklands Avenue, Ballybane, Galway",Phil,5809637B,,09/04/1949,F,,,,,,,003844
+D,Glynn,"14 Baile an Choiste, Headford Road, Galway",Trevor,G575973A,,21/08/1974,M,,,,,,,003986
+D,Bradley,"121 Upper Newcastle, Galway",Michael,D732177A,,06/11/1939,M,,,,,,,003993
+D,Langdon,"10 St. Nicholas Rd., Claddagh, Galway.",Pat,5772224A,,12/04/1966,M,,,,,,,003980
+D,Quinn,"34 Drom Oir, Clybaun Road, Galway",Teresa,A049645A,,18/09/1942,F,,,,,,,003953
+D,Roache,"Ballinamona, Shrule, Co. Mayo",Bridie,M208633A,,06/02/1961,F,,,,,,,003967
+D,Glynn,"10 Maunsells Road, Galway",Bryde,R075033B,,02/11/1944,F,,,,,,,003739
+D,Colgan,"18 Rocklands Avenue, Ballybane, Galway",Joe,5809637A,,11/12/1950,M,,,,,,,003747
+D,Fahy,"9 Costello Road, Shantallla, Galway",Rita,0K66430B,,23/09/1949,F,,,,,,,003716
+D,O'Gorman,"Gortcloonmore, Claregalway, Co.Galway",Caroline,D119673A,,11/08/1965,F,,,,,,,003703
+D,McKiernan,"Carheens, Belclare, Tuam, Co. Galway",Joshua,E874260B,,27/07/2004,M,,,,,,,003705
+D,Burke,"35 Maunsells Park, Galway",Anna,0K84394A,,02/04/2002,F,,,,,,,003808
+D,Bone,"29 Wood End Way, Aldridge, Walsall Wesst, England",Harold,1234567a,,09/04/1952,M,,,,,,,0004140
+D,Neary,"4 Forster Park, Salthill, Galway",Fiona,R216396A,,24/06/1967,F,,,,,,,003791
+D,Power,"59 Cruachan Park, Rahoon, Galway",Monica,B255285A,,02/11/1941,F,,,,,,,003768
+D,O'Dowd,"88 Prospect Hill, Galway",Mary,Y563112A,,13/09/1945,F,,,,,,,003785
+D,Malcolm,"87 Claremont Park, Circular Road, Galway",Lloyd,1E04510A,,03/10/1975,M,,,,,,,004003
+D,Lally,"316 Boireann Bheag, Roscam, Galway",Ian,5834776A,,29/01/1973,M,,,,,,,004080
+D,Fitzpatrick,"4 Colmcille Road, Shantalla, Galway",Jerry,5807774A,,01/07/1940,M,,,,,,,004096
+D,McDonagh,"65 Inishannagh Park, Galway",Richard,5837341A,,28/12/1981,M,,,,,,,004061
+D,O'Toole,"31 St Joseph Avenue, Henry Street, Galway",Patrick,5808717C,,12/10/2004,M,,,,,,,004045
+D,Wallace,"57 Maoilin, Ballymoneen Road, Galway",Lorraine,5792063A,,10/02/1966,F,,,,,,,004053
+D,Martin,"Hazel Grove, Collinamuck, Roscahill, Co. Galway",Sandra,5839417A,,20/06/1970,F,,,,,,,004115
+D,Killeen,"11 Oldfield, Kingston, Galway",Rod,S912609A,,21/04/1943,M,,,,,,,004126
+D,Wallace,"Lettra, Rahoon, Galway",Bridie,D206928A,,13/04/1941,F,,,,,,,004114
+D,Devlin,"25 PARKLANDS, ATHENRY, Galway",Ryan,G285363A,,08/06/1994,M,,,,,,,004100
+D,Noone,"22 Beechwood Park, Ballybane, Galway.",William,Y199035A,,24/03/1945,M,,,,,,,004110
+D,Brady,"Mincloon, Rahoon, Galway",Alan,G235854A,,06/12/1990,M,,,,,,,004019
+D,Murphy,"123 Castle Park, Ballybane",Aine,B000909A,,09/08/1941,F,,,,,,,004022
+D,Kenny,"4 Walshes Terrace, Woodquay, Galway",Cecily,M366093A,,14/10/1938,F,,,,,,,004018
+D,Tierney,"Mincloon, Rahoon, Galway",Michael,5819954A,,19/12/1936,M,,,,,,,004010
+D,Heaslip,"1 Earls Island, Salmon Weir, Galway",Mary,U503244A,,09/03/1945,F,,,,,,,004013
+D,McCluskey,"117 Castlelawn Heights, Terryland, Headford Road, Galway",Carmel,G132759B,,05/07/1957,F,,,,,,,004037
+D,O'Toole,"31 St Joseph Avenue, Henry Street, Galway",Louise,5808717B,,23/11/1976,F,,,,,,,004044
+D,Fahy,"c/o Rebecca O'Flaherty, Ballydotia, Belclare, Tuam, Co.Galway",Anthony,5815301A,,18/07/1946,M,,,,,,,004030
+D,Slyne,"14 Tudor Close, Ballymoneen Road, Galway",Denis,W276993A,,20/12/1944,M,,,,,,,004026
+D,Fitzgerald,"31 Ard na Mara, Salthill, Galway",Therese,U656145A,,06/04/1944,F,,,,,,,004029
+D,MURPHY,"4 CLADDAGH QUAY, GALWAY",Patrick,0F09496A,,03/12/1945,M,,,,,,,004565
+D,Wyer,"16 Crescent View, Riverside, Galway",Mary,1C10243A,,29/05/1949,F,,,,,,,005331
+D,Jones,"5 Ardoon, Salthill, Galway",James,0G71542A,,01/12/1947,M,,,,,,,005349
+D,KISSANE,"3 GLENARD AVE, SALTHILL, GALWAY",Maureen,5791395B,,19/09/1941,F,,,,,,,005328
+D,Murphy,"123 Castle Park, Ballybane",Thomas,B694710A,,01/03/1949,M,,,,,,,005299
+D,Moore,"153, Clochog, Oranmore, Co. Galway",Anthony,0P95005A,,23/11/1985,M,,,,,,,005327
+D,Casserly,"22 Hollygrove, Renmore, Galway",Tommy,5837432A,,16/08/1957,M,,,,,,,005367
+D,O'Flaherty,"Ballydoite, Belclare, Tuam, Co. Galway",Mia,5805616E,,29/12/2005,F,,,,,,,005402
+D,Fahy,"9 Costello Road, Shantallla, Galway",Aoife,0R53893A,,19/06/1995,F,,,,,,,005364
+D,Mulkerrins,"6 Cluain Mhor, Clybaun Road, Galway",Louise,5811591A,,27/07/1967,F,,,,,,,005356
+D,Mulkerrins,"6 Cluain Mhor, Clybaun Road, Galway",Aimee,W060327A,,28/10/1998,F,,,,,,,005358
+D,BRENNAN,"4 ROCKHILL AVENUE, SALTHILL, GALWAY",Margaret,U922545B,,23/02/1946,F,,,,,,,005203
+D,CROWLEY,"56 GLENBHAN ESTATE, BALLYBANE, GALWAY",Lauren,5799161C,,08/10/2005,F,,,,,,,005207
+D,Coyne,"107 Ros Ard, Cappagh Road, Galway",Christina,W356202A,,03/03/1999,F,,,,,,,005198
+D,Zura GLOWACKI,"44 Cnoc an Oir, Rahoon, Galway",Armando,0E40465D,,27/09/2005,M,,,,,,,005185
+D,Ruffley,"111 Claremont Park, Galway",Jason,0C91936A,,13/01/1980,M,,,,,,,005197
+D,Joyce-Glynn,"68 Ashleigh Grove, Knocknacarra, Galway",Mary,S972864A,,26/12/1944,F,,,,,,,005284
+D,DEVLIN,"96 PORTACARRON, KNOCKNACARRA, GALWAY",Shane,0R75178A,,30/10/2002,M,,,,,,,005286
+D,Jake Brady,"Bothar Bui, Inverin, Galway.",Jared,5816071C,,25/10/2005,M,,,,,,,005274
+D,LAWAL,"82 Sruthan Merlin, Ballybane, Galway.",Fadilah,0C15265A,,27/07/2001,F,,,,,,,005253
+D,Ogbemudia,"203 Fearann Ri, Doughiska, Galway",Christian,E572103D,,06/10/2005,M,,,,,,,005261
+D,Cullen,"26 Tone Avenue, Mervue, Galway",Glendy,5821595A,,24/12/1958,M,,,,,,,005407
+D,Finegan,"76 Manor Court, Knocknacarra, Galway",Ann,5777628B,,03/03/1942,F,,,,,,,005550
+D,Ndwigah,"51 Cnoic an Oir, Letteragh Road, Rahoon, Galway",Fridah,G177192B,,23/09/1976,F,,,,,,,005562
+D,Jennings,"Liosagurrane, Moycullen, Co. Galway",Noelle,U659340B,,14/12/1980,F,,,,,,,005544
+D,Scanlon,"Ashview, Creggcarragh, Cregmore, Claregalway",Dara,B227682C,,20/02/2006,M,,,,,,,005534
+D,Lally,"44 Linn Bui, Old Rahoon Road, Galway",Marian,0J25453A,,21/03/1954,F,,,,,,,005536
+D,Davoren,"Tooreeny, Moycullen, Co.Galway",Leanne,1B08047A,,19/07/1994,F,,,,,,,005580
+D,Quin,"42 Bru na Mara, Fort Lorenzo, Galway",Alan,5834064A,,19/09/1976,M,,,,,,,005607
+D,Devlin,"96 Portacarron, Knocknacarra, Galway",Orlaith,W110673A,,09/11/1998,F,,,,,,,005574
+D,Lomidze,"3 A New Street West, Henry Street, Galway, Galway",Hamlet,5803867A,,14/09/1967,M,,,,,,,005569
+D,Devlin,"96 Portacarron, Knocknacarra, Galway",Linda,8093962A,,21/11/1969,F,,,,,,,005573
+D,Lawless,"10 Radharc na Farraige, Ballymoneen Road, Galway",Jessica,D043407D,,09/01/2006,F,,,,,,,005428
+D,Greaney,"24 Fana Bui, Ballymoneen Road, Knocknacarra, Galway",Michael,5830102B,,02/05/1972,M,,,,,,,005446
+D,Atuokwu,"19 The Paddocks, Ballybrit, Galway",Samuel,5813841C,,07/11/2004,M,,,,,,,005420
+D,CONNEELY,"43 TULACH ARD, CIRCULAR ROAD, GALWAY",Ethan,5792228C,,17/12/2005,M,,,,,,,005408
+D,KEARNEY,"23 SEAMOUNT, SALTHILL, GALWAY",Sheila,5801648B,,12/12/1941,F,,,,,,,005409
+D,McDonagh,"30 Arbutus Avenue, Renmore, Galway",Michael,Y768348A,,26/09/1945,M,,,,,,,005483
+D,Mannion,"10 St Brendans Avenue, Woodquay, Galway",Eoin,X147216A,,21/12/1987,M,,,,,,,005501
+D,Sangha,"44 Manor Court, Knocknacarra, Galway",Sukhbir,5851207A,,24/03/1995,M,,,,,,,005482
+D,Connolly,"Cappagh Road, Barna, Galway",James,5846046A,,22/10/1945,M,,,,,,,005457
+D,Sangha,"44 Manor Court, Knocknacarra, Galway",Surinda,5819270B,,18/04/1967,F,,,,,,,005481
+D,Oluwanisola,"190 Fearann Ri, Doughiska, Galway",Oluwole,R545607A,,14/08/1965,M,,,,,,,005112
+D,Egan,"71 Fana Burca, Knocknacarra, Galway",Darragh,5833760E,,10/04/2005,M,,,,,,,004725
+D,Folan,"48 Dr. Mannix Rd, Salthill",Barbara,E459864A,,24/11/1946,F,,,,,,,004736
+D,Carroll,"Killeeneen, Craughwell, Co.Galway",Sean,B749313A,,02/03/1944,M,,,,,,,004721
+D,Arsic,"147 Coillte Mhuirlinne, Ballybane, Galway",Andelka,5785877B,,27/11/1968,F,,,,,,,004681
+D,Harutyunyan,"72 Riasc na Ri, Old Rahoon Road, Galway",Natalie,5806274C,,13/03/2005,F,,,,,,,004683
+D,McCormack,"5 Na Cuilini, Dr Mannix Road, Salthill, Galway",Nora,Y604503B,,28/10/1957,F,,,,,,,004809
+D,CURRAN,"Ballynahown, Furbo, Co. Galway",Derek,0A24778A,,24/01/1978,M,,,,,,,004816
+D,McSteen,"109 Lios an Uisce, Murrough, Merlin Park, Galway",Declan,5797549A,,12/01/1974,M,,,,,,,004795
+D,Brogan,"14 Maunsells Park, Taylors  Hill, Galway",Melissa,5812373A,,23/02/2000,F,,,,,,,004753
+D,Hessen,"Great Western House, Eyre Square",Abd-Alwahed,5810651A,,18/02/1986,M,,,,,,,004772
+D,Divilly,"10 Palmyra Avenue, Galway",Bernadette,5809595A,,29/01/1958,F,,,,,,,004584
+D,Arsic,"12 Coillte Mhuirlinne, Ballybane, Galway",Jelena,5818438A,,07/09/1990,F,,,,,,,004596
+D,McCluskey,"117 Castlelawn Heights, Terryland, Headford Road, Galway",John,G132759A,,08/09/1955,M,,,,,,,004578
+D,Joyce,"9 Cruachan Park, Rahoon Road, Galway",Kitty,5835983A,,22/10/1952,F,,,,,,,004569
+D,Rose Heneghan,"56 Wellpark Grove, Galway",Mary,E783342A,,20/06/1993,F,,,,,,,004574
+D,Furey,"78 The Meadows, Ballybrit, Galway",Chloe,5817860A,,09/07/1998,F,,,,,,,004650
+D,Moran,"46 DAVIS RD, SHANTALLA, GALWAY",Dermot,8098867B,,16/03/1972,M,,,,,,,004675
+D,COX,"20 Cluain fada, Headford Road, GALWAY",George,B365526A,,26/09/1989,M,,,,,,,004639
+D,O'Connell,"Bothar Bui, Inverin, Co.Galway",Judaith,5816071A,,22/08/1967,F,,,,,,,004628
+D,Darjania,"3A New Street West, Henry Street, Galway, Galway",Lamzira,5803867B,,07/09/1971,F,,,,,,,004633
+D,Poots,"Doire Lochain, Thoir, Furbo, Co. Galway",Ian,8326096A,,08/02/1967,M,,,,,,,004831
+D,KING,"65 Monalee Manor, Knocknacarra, GALWAY",Mark,1I34264A,,24/12/2003,M,,,,,,,004999
+D,Geraldine KING,"65 Monalee Manor, Knocknacarra, GALWAY",Kayla,5802459E,,07/07/2005,F,,,,,,,005000
+D,KING,"65 Monalee Heights, Knocknacarra, GALWAY",Geraldine,5802459A,,27/06/1981,F,,,,,,,004998
+D,Browne,"3 McDara Road, Shantalla, Galway",Gregory,5843162A,,07/04/1971,M,,,,,,,004967
+D,Lawless,"Toghermore, Tuam, Co. Galway",Patrick,D474534A,,19/03/1969,M,,,,,,,004974
+D,Heffernan,"102 Tudor Lawn, Galway",Margaret,R858798A,,17/10/1959,F,,,,,,,005065
+D,Hynes,"89 Ballinfoyle Park, Galway., Galway",Kenneth,8239185B,,09/11/1978,M,,,,,,,005092
+D,Wall,"6 New Road, Galway",Mary,M458257A,,17/04/1953,F,,,,,,,005039
+D,Martin KING,"65 Monalee Heights, Knocknacarra, Galway",Liam,5802459D,,07/07/2005,M,,,,,,,005001
+D,Grealish,"49 Oakfield, Oranmore, Co. Galway",Danny,0E03385A,,30/03/1955,M,,,,,,,005003
+D,Dempsey,"41 Grangemore, Bishop O'Donnell Road, Galway",Amanda,5850240B,,10/01/1967,F,,,,,,,004908
+D,Morrison-Noone,"8 Rosmeen Court, Lower Salthill, Galway",Kathryn,R806085B,,24/02/1955,F,,,,,,,004933
+D,Cunningham,"Temecula, Coolough Road, Menlo, Galway",Michael,S964359A,,04/10/1937,M,,,,,,,004873
+D,Anderson,"20 Cill o Seighin, Kilmaine Road, Ballinrobe, Mayo",Pauline,0H69571A,,19/06/1963,F,,,,,,,004833
+D,Connery,"47 Beach Court, Galway",Roy,B616932A,,26/05/1941,M,,,,,,,004840
+D,MORAN,"46 DAVIS RD, SHANTALLA, GALWAY",Hannah,8098867D,,27/06/2005,F,,,,,,,004962
+D,Carty,"6 Rockmount Road, Highfield park, Galway",Rita,S855099A,,05/06/1943,F,,,,,,,004964
+D,Burke,"7 Camilaun Park, Newcastle, Galway",Ronan,0B21889A,,16/08/2001,M,,,,,,,004961
+D,Markland,"48 Dalysfort Rd., Salthill, Galway",John,E883287A,,04/06/1947,M,,,,,,,004953
+D,Lynch,"8 Racecourse Lawn, Ballybrit, Galway",Ciaran,5779040C,,28/06/2005,M,,,,,,,004959
+D,Cahill,"26 Carn Ard, Rahoon, Galway",Martina,8059691B,,22/12/1983,F,,,,,,,0001767
+D,Ryan,"Liscananaun, Claregalway, Co. Gawlay",Emily,0A00136A,,25/01/2017,F,,,,,,,0003518
+D,Flaherty,"54 Cnoc na Rua, Moycullen, Galway",Peter,5852089A,,16/11/1993,M,,,,,,,0003544
+D,Hynes,"54 Cnoc an Rua, Moycullen, Co. Galway.",Alison,0E50140A,,16/07/1992,F,,,,,,,0003515
+D,Higgins,"54 Baily Point, Salthill, Galway",Patrick,E337185A,,16/12/2016,M,,,,,,,0003503
+D,Lally,"21 Mill Street, Galway",Adam,0I11503A,,21/12/2016,M,,,,,,,0003504
+D,Sheridan,"22 Gort Greine, Rahoon Road, Galway",Thomas,0K00145A,,24/05/2017,M,,,,,,,0003562
+D,Flaherty,"54 Cnoc an Rua, Moycullen, Galway",Jack,0E50140B,,29/06/2017,M,,,,,,,0003575
+D,Mortimer,"4 Crescent Green, Galway.",George,0P62533A,,01/05/1956,M,,,,,,,0003558
+D,McHale,"The Corner House, Killeen, Claregalway, Co. Galway",Abbie,0H89389A,,26/04/2017,F,,,,,,,0003551
+D,Carty,"40 Maoilin, Upper Ballymoneen Road, Galway",Harry,S239796A,,16/05/2015,M,,,,,,,0003554
+D,Banks,"Apt 5 461 Tirellan Hts, Headford Road, Galway",Elizabeth,5806019B,,10/12/1975,F,,,,,,,0003448
+D,Zibert,"Eglington Hotel, Galway",Orest,W144117D,,15/10/2016,M,,,,,,,0003460
+D,Banks,"Apt 5 461 Tirellan Hts, Headford Road, Galway",Kelvin,5806019C,,03/07/2012,M,,,,,,,0003447
+D,Arsic,"147 Coillte Mhuirlinne, Ballybane, Galway",Mateo,5818438C,,21/09/2016,M,,,,,,,0003444
+D,Arsic,"21 Casieal Thorlaigh, Doughiska, Galway",Mihailo,5818438D,,21/09/2016,M,,,,,,,0003445
+D,Savoi,"Apt 1 Killagoola, Moycullen, Co. Galway, H91 Y24E",Edward,0P94951B,,02/04/1973,M,,,,,,,0003495
+D,Gombarcek,"Ros Caoin, Roscam, Galway",Ben,E460611A,,23/10/2016,M,,,,,,,0003496
+D,King,"Ellen House, Mace, Annaghdown, Corrandulla",Arlan,5837055A,,22/05/1993,M,,,,,,,0003486
+D,King,"Ellen House, Mace, Annaghdown, Corrandulla",Denise,5801690B,,12/08/1964,F,,,,,,,0003470
+D,O'Malley,"162 Laurel Park, Newcastle",Aidah,E331353A,,16/11/2016,F,,,,,,,0003478
+D,O'Grady,"39 Gleann na Coille, Barna Road, Galway",Mary,0C90370A,,30/06/2017,F,,,,,,,0003588
+D,Hannon,"69 Fana Burca, Knocknacarra, Galway",Emma,0J38071A,,21/01/2018,F,,,,,,,0003688
+D,Staunton,"Doughiska, Galway",Caoileadh,1H87400A,,16/12/2017,F,,,,,,,0003690
+D,Fitzgerald,"74 Shantalla Road, Galway",Mia,0Y28495A,,08/12/2017,F,,,,,,,0003686
+D,Mair,"181 Cluain Riocard, Castlegar, Gawlay",Evie,0I11485A,,14/12/2017,F,,,,,,,0003668
+D,Dwane,"16 Driseog, Old Clybaun Road, Galway",Amelia,0U90073A,,16/01/2018,F,,,,,,,0003685
+D,Shepherd,"32 Linn Bhui, Galway",Indie,0H90757A,,27/12/2017,F,,,,,,,0003715
+D,Elgaraali,"Eglington Hotel, Salthill, Galway",Jana,E613071A,,08/03/2017,F,,,,,,,0003716
+D,Bueto,"Eglinton Hotel, Galway",Benedict,0J33580A,,17/05/2000,F,,,,,,,0003709
+D,Ekessi,"Eglington Hotel, Salthill, Galway",Marie,0J27937A,,22/12/1947,F,,,,,,,0003706
+D,Maganga Kalunga,"Eglinton Hotel, Salthill, Galway",Gisele,0J96976A,,21/06/1988,F,,,,,,,0003708
+D,Jane Martins,"Eglington Hotel, Galway.",Rita,0F53011A,,20/04/1996,F,,,,,,,0003625
+D,Bambeledi,"Eglington Hotel, Promenade, Galway",Rachel,0F53020A,,20/10/1986,F,,,,,,,0003628
+D,McDonagh,"134 Castelawn Heights, Headford Road, Galway",Cian,0E42940A,,23/08/2017,F,,,,,,,0003623
+D,McGauley,"Tullyvealnaslee, Oughterard, Galway",Rita,1J26704A,,14/07/2017,F,,,,,,,0003604
+D,Paes,"55 River Crest, Dublin Road, Tuam",Samuel,R494442A,,16/04/2016,M,,,,,,,0003608
+D,Burke,"Rathglass, New Inn, Ballinasloe, Co. Galway",Elsie,0S58897C,,30/11/2017,F,,,,,,,0003659
+D,Crowley Lydon,"18 Glenbawn, Ballybane, Gawlay",Michaela,B696609C,,15/10/2017,F,,,,,,,0003661
+D,Kafuku,"Eglington Hotel, Salthill, Galway.",Malale,0F53011C,,19/11/2017,F,,,,,,,0003654
+D,Ferguson,"Feidirnin, Clybaun Rd, Knocknacarra, Galway",Hubert,0F91603A,,30/03/1946,M,,,,,,,0003633
+D,Coyne,"70 Churchfields, Lower Salthill, Galway",Ivy,0R46531A,,13/11/2017,F,,,,,,,0003651
+D,De Burca Connolly,"16 Upper Canal Road, Galway",Ruby,0Z06598A,,30/04/2003,F,,,,,,,0003441
+D,Cogley,"11 Bowling Green, Galway",Catherine,5781613A,,10/03/1976,F,,,,,,,0003296
+D,Kolanczyk,"Freeport House, Barna, Co. Galway",Matthew,1C75358B,,10/03/2016,M,,,,,,,0003298
+D,Puglisi,"2 Lower Cross Street, Galway",Pasquale,R337068A,,27/08/1965,M,,,,,,,0003288
+D,Grehan,"23B Hawthorn Place, Clybaun Road, Galway",Daniel,E679824A,,15/02/2016,M,,,,,,,0003286
+D,Trabjerg,"11 Devon Court, Salthill, Galway",Kai,5796166D,,26/01/2016,M,,,,,,,0003287
+D,Cubbard,"St. John's, Palymra Ave, Galway",Michael,5776170B,,02/05/1959,M,,,,,,,0003314
+D,McEvaddy,"26 College Road, Galway, daughters no",Thomas,R811926A,,18/02/1946,M,,,,,,,0003339
+D,Burke,"Rathglass, Ballinasloe, Co. Galway.",Alan,0S58897B,,20/07/1989,M,,,,,,,0003307
+D,Sherlock,"101 Corrach Bui, Bishop O'Donnell Road, Galway",Michael,R611640A,,15/11/1975,M,,,,,,,0003303
+D,Campos,"127 Gleann Dara, Bishop O'Donell Road, Galway",Alice,0S28765A,,23/02/2016,F,,,,,,,0003305
+D,Dunne,"63 Rockfield Park, Rahoon, Galway",Eochaid,Y626472B,,22/09/2015,M,,,,,,,0003217
+D,O'Grady,"97 Grattan Park, Salthill, Galway",Se,Y353988A,,12/09/2015,M,,,,,,,0003218
+D,Dunne,"63 Rockfield Park, Rahoon, Galway",Ciaran,Y626472A,,22/09/2015,M,,,,,,,0003215
+D,Dugic,"161 An Fiodan, Doughiska, Galway",Nikolina,0T63883A,,02/10/1981,F,,,,,,,0003210
+D,McHale,"The Corner House, Killeen, Claregalway",Kate,Y445041A,,01/10/2015,F,,,,,,,0003211
+D,Kelly,"Ower West, Roscahill, Galway",Amy,Y907605A,,18/12/2015,F,,,,,,,0003255
+D,Burke,"53 Gort Greine, Rahoon, Galway.",Oisin,R208260A,,29/12/2015,M,,,,,,,0003260
+D,Lohan,"25 Cashelmara, Knocknacarra, Galway",Meabh,R830808C,,11/12/2015,F,,,,,,,0003252
+D,Burke,"136 Cartur Mor, Knocknacarra, Galway",Ailbhe,Y785655A,,08/10/2015,F,,,,,,,0003231
+D,Rowe,"68 Glenard Crescent, Galway.",Eloise,Y908667A,,10/11/2015,F,,,,,,,0003251
+D,White,"8 Rockhill Avenue, Salthill, Galway",Donal,5828617A,,20/04/1938,M,,,,,,,0003341
+D,Burke,"196 Rosan Glas, Rahoon, Galway",Emma,W295722A,,23/02/1999,F,,,,,,,0003415
+D,Coyne,"107 Ros Ard, Cappagh Road, Galway",Jackson,W356202C,,17/08/2016,M,,,,,,,0003425
+D,O Awoniran,"33 White Oaks, Clybaun Road, Galway",Obafemi,0H14896A,,11/01/2001,F,,,,,,,0003414
+D,Cunningham,"14 Oranview, Oranmore, Galway",Ethan,0H90001A,,30/07/2016,M,,,,,,,0003408
+D,Newell,"Cregduff, Corrandulla, Co. Galway",Caoimhe,E060678A,,10/08/2016,F,,,,,,,0003413
+D,Harutyunyan,"72 Riasc na Ri, Old Rahoon Road, Galway",Mark,5806274E,,19/09/2016,M,,,,,,,0003436
+D,De Burca,"16 Upper Canal Road, Galway",Miriam,G115164A,,07/01/1972,F,,,,,,,0003440
+D,Holian,"56 Wellpark Grove, Galway",Michael,E783342B,,10/09/2016,M,,,,,,,0003433
+D,Colleran,"Mincloon, Rahoon, Galway",Lucia,5851926E,,05/09/2016,F,,,,,,,0003429
+D,McHale,"55 The Green, Galway",Erica,E581022A,,30/06/2016,F,,,,,,,0003432
+D,Cubboard,"St. Johns, Palymra, Galway",Mary,5776170A,,25/06/1962,F,,,,,,,0003390
+D,Greaney,"10 Greenview Heights, Newcastle, GALWAY",Luke,5799744E,,29/05/2016,M,,,,,,,0003391
+D,Trowell,"12 Beal Srutha, Ballybane, Galway",Kieran,5795544A,,10/07/1956,M,,,,,,,0003374
+D,Walsh,"58 Lower Salthill, Galway",Niamh,R520479A,,21/05/2016,F,,,,,,,0003361
+D,Ugolini,"Apt 1, Killagoola, Moycullen, Co.Galway H91 Y24E",Simona,0P94951A,,26/06/1976,F,,,,,,,0003368
+D,Kolanczyk,"Apt 7 An Coirneal, Seapoint, Barna",Zygnunt,U063549B,,30/08/1977,M,,,,,,,0003397
+D,Sherlock,"101 Corrach Bui, Rahoon, Galway",Sasithorn,R611640B,,08/07/1977,F,,,,,,,0003398
+D,Shepherd,"32 Linn Bhui, Galway",Harper,R647307A,,28/06/2016,F,,,,,,,0003396
+D,Ritlop,"147 Coillte Mhuitlinne, Ballybane, Galway",Sasa,1J25210A,,17/05/1988,M,,,,,,,0003393
+D,Nelson,"86 Liosmore, Cappagh Road, Galway",Ruan,R820125A,,01/06/2016,M,,,,,,,0003394
+D,Lee,"101 Fana Burca, Knocknacarra, Galway",John,1C77572A,,10/03/1980,M,,,,,,,0003995
+D,Place,"209 Rosan Glas, Rahoon, Galway",Bonnie,1F64261A,,26/08/2019,F,,,,,,,0004006
+D,Ford,"37 Cruachan Park, Rahoon, Galway",Laura,R800730A,,11/07/1939,F,,,,,,,0003988
+D,O'Donnell,"Waratah, Knocknacarra Road, Galway",Aoibh,0Z47026a,,22/03/2019,F,,,,,,,0003973
+D,Hickey,"44 Tulach Ard, Circular Road, Galway",Jaxon,1E11197A,,19/07/2019,M,,,,,,,0003980
+D,O'Connell,"7 Costello Road, Shantalla, Galway",Thomas,5808485A,,01/01/1940,M,,,,,,,0004032
+D,Curran,"33 Ashe Road, Shantalla, Galway",Joseph,E458577A,,14/12/1951,M,,,,,,,0004034
+D,Glynn,"Caherglissane, Gort, Co. Galway",Holly,5771910A,,06/10/2019,F,,,,,,,0004026
+D,Redon,"19 Sailin, Wellpark, Galway",Noah,1F63577A,,29/08/2019,M,,,,,,,0004010
+D,Meaney,"100 Cartur Mor, Clybawn Rd, Knocknacarra, Galway",Rhys,1H55666A,,04/09/2019,M,,,,,,,0004012
+D,Dolan,"Knocknacarra, Galway",Jake,E238716B,,24/01/2010,M,,,,,,,0003926
+D,Martin,"28 Lui na Greine, Knocknacarra, Galway",Oliver,M412834A,,03/10/1964,M,,,,,,,0003932
+D,Dolan,"14 An Logan, Knocknacarra, Galway",Alexandra,0U67033A,,25/03/2003,F,,,,,,,0003907
+D,Gilmore,"5 Garrai Coirce, Clybaun Road, Galway",Aisling,8323887A,,08/11/1977,F,,,,,,,0003898
+D,O'Kane,"122 Baile an Choiste, Headford Road, Galway",Sharon,5821359A,,24/11/1971,F,,,,,,,0003899
+D,Vereijken,"9 Cedarwood Close, Highfield Park, Galway.",Hank,5810928A,,23/05/1957,M,,,,,,,0003970
+D,MCDonagh,"135 Castlelawn Heights, Galway",Fionn,1D30772A,,23/05/2019,M,,,,,,,0003971
+D,Muftau Idowu,"84 Ros Caoin, Roscam, Galway",Olalekan,1D87823A,,01/08/1944,M,,,,,,,0003960
+D,Quigley,"Frenchbrook, Kilmaine, Co. Mayo",Lauren,1F36217A,,09/04/2019,F,,,,,,,0003939
+D,Rafferty,"Rusheen Lodge, Barna Road, Galway",John,5795480A,,04/03/1932,M,,,,,,,0003944
+D,Mika,"161 An Fiodan, Doughiska, Galway",Matej,1I75466A,,28/09/2019,M,,,,,,,0004040
+D,(Iree) Otunola,"Eglington Hotel, Salthill, Galway",Oluwapemisire,1K32842A,,21/04/2017,F,,,,,,,0004085
+D,Cosgrave,"5 Alderbrook, Rockbarton Road, Salthill, Galway",Mary,OQ38809A,,21/11/2014,F,,,,,,,0004097
+D,Cosgrave,"5 Alderbrook, Rockbarton Road, Salthill, Galway",Kate,0Q38809B,,26/08/2017,F,,,,,,,0004079
+D,Yusuf,"Eglington Hotel, Salthill, Galway",Kazeem,1K85672A,,01/10/1978,M,,,,,,,0004076
+D,Wyer,"C/o Peter Wyer, Salthill, Galway.",Denise,1K68428A,,01/01/1953,F,,,,,,,0004077
+D,Fidels,"Eglighton Hotel, Salthill, Galway",Esther,W369738A,,15/04/1980,F,,,,,,,0004116
+D,Costello,"131 Clonsilla Road, Blanchardstown, Dublin 15",William,1988522A,,02/09/1936,M,,,,,,,0004123
+D,Cunai,"Eglington Hotel, Salthill, Galway",Klaudio,1J13402A,,01/09/2008,M,,,,,,,0004105
+D,Coyne,"2 Fursey Road, Shantella, Galway",Gabriel,E148023B,,29/08/1946,M,,,,,,,0004099
+D,Yusuf,"Eglington Hotel, Salthill, Galway",Rukayat,1K85672B,,20/06/1984,F,,,,,,,0004104
+D,Clune,"45 Inishannagh Park, Newcastle, Galway",Michael,5844384A,,12/09/1956,M,,,,,,,0004053
+D,Cleary,"163 Corrib Park, Newcastle, Galway",Florence,5838697A,,05/03/1949,F,,,,,,,0004055
+D,Jones,"33 White Oaks, Clybaun Road, Galway",Leo,D555219C,,21/02/2019,M,,,,,,,0004051
+D,Walsh,"12 St Augustine Street, Galway City",Carmel,5820569B,,05/09/1945,M,,,,,,,0004042
+D,Walsh,"12 Augustine Street, Galway",Kevin,1I21745A,,01/11/1941,M,,,,,,,0004043
+D,Otunola,"Eglington Hotel, Salthill, Galway",Vivian,1K32842b,,21/04/1981,F,,,,,,,0004072
+D,Baco,"Eglington Hotel, the Prom, Salthill, Galway",Erisa,K699982A,,02/07/1985,F,,,,,,,0004075
+D,Health Centric,"Ballally, Dublin",Centric,1234567A,,08/01/2020,M,,,,,,,0004071
+D,Dwane,"16 Driseog, Old Clybaun Road, Knocknacarra, Galway",Elena,1J26632A,,24/11/2019,F,,,,,,,0004056
+D,Jabulile Nkomo,"Eglington Hotel, Salthill, Galway",Priviledgesi,IE37720A,,24/11/2000,F,,,,,,,0004067
+D,Devlin,"122 Bailean Choiste, Headford Road, Galway.",Kian,5821359D,,03/08/2004,M,,,,,,,0003897
+D,Glynn,"19 The Orchard, Moylough, Ballinasloe, Galway",Cillian,0P48529A,,08/06/2018,M,,,,,,,0003781
+D,Hynes,"Apt 2 Sea Court, Gentian Hill, Knocknacarra",Victoria,0A64981A,,03/02/1995,F,,,,,,,0003787
+D,Persad,"67 Shantalla Road, Galway",Shastri,S370062D,,10/11/1979,M,,,,,,,0003780
+D,Keidia,"Frenhuille Lane, Eyre Square, Galway",Ivane,0K61246A,,14/11/1981,M,,,,,,,0003778
+D,Lydon,"18 GLNBHN, Ballybane, Galway",Gergory,B696609A,,08/05/1987,M,,,,,,,0003779
+D,McDonagh,"21 Davis Road, Shantalla, Galway",Shannon,0T94969A,,03/10/2018,F,,,,,,,0003814
+D,Keith Malcolm Trill,"87 Claremount park, Newcastle, Galway",Jamie,1K19108A,,23/09/2018,M,,,,,,,0003828
+D,Peikrishvili,"79 Gleann Dara, Rahoon, Galway",Miqael,5836481G,,27/09/2018,M,,,,,,,0003811
+D,O'Brien,"Rosewood House, Rockbarton, Galway",Riley,5848782C,,20/07/2018,F,,,,,,,0003800
+D,Kelly,"368 Boireann Beag, Roscam, Galway",Caoilfhionn,1E04834A,,24/08/2018,F,,,,,,,0003804
+D,Manning,"5 Leas na Coille, Ballybane, Galway.",Isabella,Y244188A,,03/07/2015,F,,,,,,,0003721
+D,McHale,"28 Cloch Ard, Bothar Stiofan, Knocknacarra, Galway",Noel,S424107B,,23/07/1982,M,,,,,,,0003722
+D,King,"5 Leas na Coille, Ballybane, Galway",Debbie,D508293A,,22/08/1991,F,,,,,,,0003720
+D,Elgaraali,"Eglington Hotel, Salthill, Galway",Jenan,E613071B,,08/03/2017,F,,,,,,,0003717
+D,Hickey,"Rose Cottage, Annaghadown, Shankill, Co. Galway",Regina,5776469A,,29/09/1973,F,,,,,,,0003719
+D,O'Malley,"36A Hawthorn Place, Clybaun Road, Galway",Aoibhe,1C97300A,,05/05/2018,F,,,,,,,0003757
+D,Bourke,"52 Henry Street, GALWAY",Eva,0I30826A,,27/07/1946,F,,,,,,,0003759
+D,Elgaraali,"Eglington Hotel, Salthill, Galway",Rodwan,R402759B,,12/02/1980,M,,,,,,,0003741
+D,Carty,"40 Maoilin, Upper Ballymoneen Road, Galway",Adam,0M99127A,,22/01/2018,M,,,,,,,0003729
+D,Elgaraali,"Eglington Hotel, Salthill, Galway",Mostafa,R402759A,,10/07/2015,M,,,,,,,0003740
+D,Mulvoy,"38 MacDara Road, Shantalla, Galway",Salvador,8333831A,,27/11/1952,M,,,,,,,0003836
+D,Hajduk,"51 Cnoic an Oir, Rahoon, Galway",Anthoni,G177192A,,12/06/1968,M,,,,,,,0003872
+D,Bowman,"173 Sli Gheal, Ballymoneen Road, Galway",Patricia,5804556A,,21/07/1970,F,,,,,,,0003873
+D,Mulkern,"109 Corrach Bui, Bishop O'Donnell Road, Galway",Pauline,W277227A,,05/05/1959,F,,,,,,,0003871
+D,Tomkins,"3 Beattystown, Fairhill, Galway",Brid,G174753A,,02/09/1947,F,,,,,,,0003866
+D,Hanlon,"23 An Sean Bhaile, Doughiska, Galway",Donal,B122013A,,19/02/1966,M,,,,,,,0003870
+D,Nishat,"Great Western house, Eyre Square, Gawlay",Hamid,R523170A,,04/05/1992,M,,,,,,,0003892
+D,Kukla,"130 Tirellan Heights, Headford Road, Galway",Gabriela,5827886A,,21/02/1968,F,,,,,,,0003895
+D,Higgins,"54 Baily Point, Salthill, Galway",Alexander,0Y66538A,,22/01/2019,M,,,,,,,0003886
+D,Lavelle,"11 Arus Guaire, Forster Court, Galway.",Bhani,5849633A,,15/11/1993,F,,,,,,,0003874
+D,Higgins,"54 Baily Point, Salthill, Galway",Theodore,0Y66538B,,22/01/2019,M,,,,,,,0003882
+D,Stallard Fitzpatrick,"25 Tor Bui, Cappagh Road, Knocknacarra, Galway",Isabella,0Z40744A,,30/11/2018,F,,,,,,,0003841
+D,Wanzek,"48 Ros Geal, Rahoon, Galway",Natan,OI32671A,,15/06/2015,M,,,,,,,0003846
+D,Woods,"3 The Square Inn, Tuam, Co. Galway",Kathleen,0U94222A,,14/09/1951,F,,,,,,,0003840
+D,Rafferty,"Gortmore, Rosscahill, Co. Galway",Alex,1I75376A,,15/11/2018,M,,,,,,,0003837
+D,Sweeney,"Tonemace, Corrandulla, Co. Galway",Tara,5786843C,,05/11/2011,F,,,,,,,0003839
+D,O'Kane,"122 Baile an Choiste, Castlegar, Galway",Kylie,E518364A,,14/06/1996,F,,,,,,,0003860
+D,Ndlovu,"Great Western Frenchvile Lane, Eure Square, Galway",Israel,0O93709A,,25/09/1974,M,,,,,,,0003864
+D,Salmi,"1 Linn Bhui, Knocknacarra, Galway",Joseph,0L51499A,,03/12/2017,M,,,,,,,0003859
+D,Sweeney,"Tonemace, Corandulla, Galwahy",Cillian,5786843D,,21/04/2007,M,,,,,,,0003848
+D,Kelly,"32 St Bridgets Terrace, Prospect Hill, Galway",Niamh,W259497A,,22/10/1991,F,,,,,,,0003855
+D,Killeen,"11 OIdfield, Kingston, Galway",Deirdre,S912609B,,07/07/1945,F,,,,,,,0003190
+D,Murphy,"85 Rockfield Park, Galway.",Thomas,5816812A,,14/07/1936,M,,,,,,,0002288
+D,Dillane,"Cartronlahan, Inverin, Co. Galway.",Mary,E631179A,,01/04/1974,F,,,,,,,0002294
+D,Philomena Murphy,"85 Rockfield Park, Rahoon, Galway.",Mary,5788693A,,07/05/1929,F,,,,,,,0002287
+D,McInnes,"Liosagurrane, Moycullen, Co. Galway",Ewan,U659340C,,20/03/2012,M,,,,,,,0002270
+D,Teimuraz,"11 The Crescent, Galway",Mosulishvili,5794600B,,06/05/1958,M,,,,,,,0002286
+D,Petrosyan,"15A Lenaboy Avenue, Salthill, Galway.",David,5833900D,,19/05/2012,M,,,,,,,0002382
+D,Hynes,"89 Ballinfoyle Park, Headford Road, Galway",William,8239185E,,14/07/2012,M,,,,,,,0002402
+D,Noone,"22 Beechwood Park, Ballybane, Galway",Brian,D343449A,,05/01/1982,M,,,,,,,0002355
+D,Peikrishvili,"79 Gleann Dara, Bishop O'Donnell Road, Galway",Kesaria,5836481E,,27/04/2012,F,,,,,,,0002323
+D,Turgan,"13 Emerson Avenue, Salthill, Galway",Seydi,G860994A,,11/01/1971,M,,,,,,,0002331
+D,Ryan,"Carrowbrowne, Headford Rd, Galway.",Rachel,S775314B,,12/12/2011,F,,,,,,,0002182
+D,Keane,"34 Tullach Ard, Circular Road, Galway",Conor,E741960B,,24/12/2011,M,,,,,,,0002187
+D,Hart,"24 Rockbarton Park, Salthill, Galway",Fionn,R432702D,,15/09/2011,M,,,,,,,0002175
+D,Mashasi,"72 Cartur Mor, Clybaun Road, Galway",Natalie,2602502F,,21/05/2009,F,,,,,,,0002168
+D,Mashasi,"72 Cartur Mor, Knocknacarra, Galway",Sasha,0D67969A,,08/10/2001,F,,,,,,,0002169
+D,Flanagan,"103 Inishannagh Park, Newcastle, Galway",Geraldine,0Y43165A,,09/10/1963,F,,,,,,,0002234
+D,Fox,"Robin Hill, Monument  Road, Menlo, Co. Galway",Renee,R570204B,,24/09/1942,F,,,,,,,0002249
+D,Mosulishvili,"143 Dun na Carraige, Salthill, Galway",Mzia,5794600A,,28/08/1964,F,,,,,,,0002230
+D,Healy,"An Luachan Beag, Menlo Village, Galway",Darragh,W087489D,,17/01/2012,M,,,,,,,0002206
+D,Hannah AKANNI,"145 Coillte Mhuirline, Ballybane, Galway",Aluwatobilola,5785599E,,18/01/2012,F,,,,,,,0002211
+D,Ni Chonaola,"Inis Oirr, Aran Islands, Co. Galway",Cuilfhionn,5851579C,,17/08/2012,F,,,,,,,0002407
+D,Jane Persad,"2 Rian Oisin, Cois Cuain, Salthill, Galway",Mary,S370062A,,29/05/2013,F,,,,,,,0002622
+D,Lee,"101 Fana Burca, Ballymoneen Road, Galway",Abigail,1C77572C,,06/05/2013,F,,,,,,,0002623
+D,Joyce,"An Fhornna, Inis Oirr, Aran Islands, Co. Galway",Caoimhin,5847918D,,03/05/2013,M,,,,,,,0002619
+D,Connolly,"194 Laurel Park, Newcastle, Galway",Summer,5841646C,,29/05/2013,F,,,,,,,0002616
+D,Joyce,"An Fhornna, Inis Oirr, Aran Islands, Co. Galway",Oran,5847918C,,03/05/2013,M,,,,,,,0002618
+D,Eliza Meaney,"100 Cartur Mor, Clybaun Road, GALWAY",Ruby,Y230283A,,13/06/2013,F,,,,,,,0002635
+D,Greaney,"24 Fana Bui, Ballymoneen Rd, Knocknacarra, Galway",Solair,5830102E,,17/06/2013,M,,,,,,,0002640
+D,Sheil,"106 Dun na Carraige, Salthill, Galway",Cillian,S313326B,,19/06/2013,M,,,,,,,0002633
+D,Peikrishvili,"79 Gleann Dara, Rahoon, Galway",Giorgi,5836481F,,28/05/1978,M,,,,,,,0002624
+D,Chkheidze,"44 Cnoc an Oir, Rahoon, Galway",George,0E40465A,,26/09/1985,M,,,,,,,0002629
+D,Mosulishvili,"143 Dun na Carraige, Salthill, Galway",Giorgi,5834409A,,03/12/1991,M,,,,,,,0002497
+D,O'Dochartaigh,"21 Moyola Park, Newcastle, Galway",Eoin,U474147A,,25/07/1941,M,,,,,,,0002499
+D,Connolly,"Gortacleva, Galway",Ann,Y563103A,,28/09/1945,F,,,,,,,0002480
+D,Power,"25 Lus Leanna, Ballinafoyle, Galway",Thomas,5817192A,,04/02/1953,M,,,,,,,0002454
+D,Hayes,"Saoirsinn, Rurbo",Alana,Y768069A,,28/08/2012,F,,,,,,,0002479
+D,Faherty,"Inver Rock, Ross Demesne, Rosscahill, Co. Galway",Grainne,G863262B,,20/01/1948,F,,,,,,,0002579
+D,OCONNOR,"123 Laurel Park, Newcastle, GALWAY",Bonnie,U324594C,,27/03/2013,F,,,,,,,0002604
+D,Vaux,"Boleybeg East, Barna, Galway",Matise,Y288324C,,26/02/2013,M,,,,,,,0002577
+D,Colohan,"99 Inishannagh Park, Newcastle, Galway",John,S915642A,,26/11/1943,M,,,,,,,0002513
+D,Donnellan,"96 Monalee Heights, Ballymoneen Road, Galway",Fiadh,S856017A,,30/03/2013,F,,,,,,,0002571
+D,Burke,"91 Sandyvale Lawn, Headford Road, Galway",Grace,5821916A,,28/04/1995,F,,,,,,,0002163
+D,Forde,"4 ROCKHILL AVENUE, SALTHILL, GALWAY",Lilyanna,5776528C,,27/02/2011,F,,,,,,,0001919
+D,Burke,"11 St. Marys Road, Galway",Frank,S943776A,,06/03/1940,M,,,,,,,0001928
+D,Cotter,"21 St. Helen's Street, Cookes Corker, Galway.",Kenneth,G935127A,,01/02/1972,M,,,,,,,0001883
+D,Colleran,"Mincloon, Rahoon",Rosanna,5851926D,,22/12/2010,F,,,,,,,0001869
+D,Swift,"2 Nile Lodge, Lower Salthill, Galway",Frances,1B46927A,,11/02/1942,F,,,,,,,0001872
+D,Flanagan,"59 Manor court, Knocknacarra, Galway., Galway.",Marguerite,5773317A,,04/02/1982,F,,,,,,,0001960
+D,Peikrishvili,"79 Gleann Dara, Bishop O'Donnell Road, Galway",Mea,5836481D,,20/04/2011,F,,,,,,,0001965
+D,Vallot,"91 Fana Burka, Knocnacarra, Galway",Bernadette,5850863A,,10/04/1958,F,,,,,,,0001954
+D,Flynn,"Coillte Mhuirlinn, Ballybane, Galway",Rosie,5839134A,,11/08/2002,F,,,,,,,0001929
+D,Gombarcek,"146 RosCaoin, Roscam, Galway.",Peter,B620775B,,13/07/1984,M,,,,,,,0001937
+D,Golden,"20B Hawthorn Place, Clybaun Road, Galway",Louis,R703044A,,02/11/2010,M,,,,,,,0001827
+D,Belle Rowe,"68 Glenard Cresent, Salthill, Galway",Layla,S233541B,,03/11/2010,F,,,,,,,0001830
+D,TRITTEN,"26 Carn Ard, Rahoon, GALWAY",Andrew,8059691C,,30/05/2006,M,,,,,,,0001812
+D,Maher,"59 Manor Court, Knocknacarra, Galway",Simon,5832686A,,24/11/1980,M,,,,,,,0001771
+D,TRITTEN,"26 Carn Ard, Rahoon, Galway.",Shannon,8059691D,,21/04/2008,F,,,,,,,0001805
+D,Carroll,"5 Fr. Griffin Place, Galway",John,A373501B,,22/07/1940,M,,,,,,,0001860
+D,Dunleavy,"25 Leas na Coille, Ballybane, Galway",Josh,M236335C,,13/01/2011,M,,,,,,,0001862
+D,Madden,"26 Claremont Park, Rahoon, Galway",Martin,5852923A,,02/01/1962,M,,,,,,,0001856
+D,O'Donnell,"27 Drisin, Ballymoneen Road, Galway",Laura,Y198675B,,21/12/2010,F,,,,,,,0001838
+D,O'Connor,"130 Laurel Park, Newcastle, Galway.",Mary,5800115C,,03/12/2010,F,,,,,,,0001839
+D,Lavelle,"55 The Green, College Rd, Galway",Aoife,F397582C,,03/12/2004,F,,,,,,,0001973
+D,Costello,"Ballybrone, Turloughmore, Co. Galway.",Peter,5852307A,,23/04/1966,M,,,,,,,0002102
+D,Walsh,"4 McDara Rd, Shantella, Galway",Kenneth,5837617A,,16/06/1967,M,,,,,,,0002105
+D,McGauley,"Tullyvealnaslee, Oughterard, Galway",James,1l51256a,,09/08/2011,M,,,,,,,0002099
+D,Mosulishvili,"143 Dun na Carraige, Salthill, Galway",Teimuraz,5794600B,,05/06/1958,M,,,,,,,0002097
+D,Colohan,"99 Innishannagh Park, Newcastle, Galway.",Noreen,S915642B,,16/04/1952,F,,,,,,,0002098
+D,Meaney,"52 The Maples, Salthill, Galway",Damien,A406171A,,21/11/1955,M,,,,,,,0002125
+D,Mashasi,"72 Cartur Mor, Clybaun Road, Galway.",Chelsea,2602502D,,18/07/2007,F,,,,,,,0002148
+D,Cahoon,"Inis Oirr, Aran Islands, Galway",Sam,5851579B,,25/05/1984,M,,,,,,,0002123
+D,Black,"23 Fana Bui, Ballymoneen Road, Galway .",Melissa,5789264C,,29/09/2011,F,,,,,,,0002118
+D,Yanachi,"11 Devon Court, Salthill, Galway",Mayo,5796166B,,14/05/1978,F,,,,,,,0002120
+D,Burke,"35 Maunsells Park, Galway.",Thomas,D282087A,,15/11/1968,M,,,,,,,0002001
+D,Colleran,"Mincloon, Rahoon",Seamus,5851926B,,02/07/1972,M,,,,,,,0002004
+D,Persad,"2 Rian Oisin, Cois Cuain, Salthill, Galway",Bobby,S370062B,,10/03/2011,M,,,,,,,0001977
+D,Cox,"307 Tirellan Heights, Galway",April,5805627C,,18/04/2010,F,,,,,,,0001975
+D,Pavic Fernades,"181 Rosan Glas, Rahoon, Galway.",Marina,R210699C,,17/05/1973,F,,,,,,,0001976
+D,Mashasi,"72 Cartur Mor, Clybaun Road, Galway",Nicole,2602502E,,21/05/2009,F,,,,,,,0002078
+D,Gombarcek,"146 Ros Caoin, Roscam, Doughiska, Galway",Nina,B620775C,,11/08/2011,F,,,,,,,0002094
+D,Gilroy,"59 Dangan Heights, Newcastle, Galway",Aaron,5785533D,,27/07/2011,M,,,,,,,0002076
+D,Mashasi,"72 Cartur Mor, Clybaun Road, Galway",Annie,2602502A,,02/08/1977,F,,,,,,,0002059
+D,KING,"65 Monalee Heights, Knocknacarra, Galway",Niall,5802459F,,24/06/2011,M,,,,,,,0002062
+D,Zibert,"Eglington Hotel, Salthill, Galway",Yulia,W144117B,,22/04/1982,F,,,,,,,0002981
+D,Mannion,"Shrue, Oughterard, Co. Galway",Evie,S233613A,,02/12/2014,F,,,,,,,0002994
+D,Zibert,"Eglington Hotel, Salthill, Galway",Mark,W144117C,,14/11/2006,M,,,,,,,0002980
+D,Kennedy,"Vista del Mar, Barna Road, Galway",Daire,0O68968A,,25/10/1989,M,,,,,,,0002975
+D,Ryan,"54 Corrach Bui, Rahoon, Galway",Eileen,M454863B,,27/06/1927,F,,,,,,,0002979
+D,Griffin,"112 Cimin Mor, Cappagh Road, Galway",Tyler,B458604C,,20/12/2014,M,,,,,,,0003009
+D,Julia King,"65 Monalee Manor, Galway",Isabelle,5802459G,,19/01/2015,F,,,,,,,0003028
+D,Cameron,"5 Fursey Road, Shantalla, Galway",Paul,F381370A,,26/11/1984,M,,,,,,,0003008
+D,Crowley,"56 Glenbhan Park, Ballybane, Galway",Calvin,0F84781A,,24/11/2014,M,,,,,,,0003001
+D,Ivory,"48 Henry Street, Galway",Onyelo,W488124D,,24/09/2014,M,,,,,,,0003004
+D,Garvey,"232 Boireann Beag, Roscam, Galway",Bailey,S671958A,,11/08/2014,M,,,,,,,0002942
+D,Gedevanashili,"119/121 Upper Salthill, Salthill, Galway",Manana,5806036B,,26/11/1960,F,,,,,,,0002951
+D,McInnes,"Liosagurrane, Moycullen, Co. Galway",Roisin,U659340D,,13/08/2014,F,,,,,,,0002941
+D,Dugic,"161 An Fidan, Doughiska, Galway",Aleksej,1J46288A,,04/10/2004,M,,,,,,,0002915
+D,CARRASCOSA,"13 St. Johns Terrace, Henry Street, Galway",Georgia,E396513B,,26/08/2014,F,,,,,,,0002924
+D,Urushadze,"119/121 Upper Salthill, Salthill, Galway",Daviti,5806036A,,21/10/1958,M,,,,,,,0002969
+D,Noone,"106 Ballinfoyle Park, Headford Road, Galway",Elaine,D906426A,,27/10/1991,F,,,,,,,0002974
+D,O'Reilly,"84 Fr. Burke Rd, Claddagh, Galway",Fia,S425997A,,28/09/2014,F,,,,,,,0002965
+D,O'Neill,"5 Fairhill Upper, Galway",Liam,U239661A,,17/07/1947,M,,,,,,,0002957
+D,Zibert,"The Eglington Hotel, Salthill, Gawlay",Denis,W144117A,,23/11/1981,M,,,,,,,0002963
+D,Burke,"Tunroe, Ornamore, Co. Galway",Margaret,M011805A,,01/01/1944,F,,,,,,,0003030
+D,Ivory,"48 Henry Street, Galway",Grace,W488124A,,24/07/1976,F,,,,,,,0003166
+D,Ivory,"48 Henry Street, Galway",James,W488124C,,18/07/2008,M,,,,,,,0003167
+D,Buquet,"1 Seashore Homes, Knocknacarra, Galway",Pierrick,8242801A,,19/11/1967,M,,,,,,,0003165
+D,Petrosyan,"15A Lenaboy Avenue, Salthill, Galway",Michael,5833900E,,30/04/2015,M,,,,,,,0003134
+D,Finnerty,"Knockroe, Craughwell, Co. Galway",Luke,R017892A,,18/08/2015,M,,,,,,,0003162
+D,Kaplan,"Apt 5, Middle Street Court, Middle Street, Galway",Hasmet,W340992A,,01/07/1963,M,,,,,,,0003179
+D,Maher,"59 Manor Court, Knocknacarra, Galway",Anne,0Y26146B,,17/08/1955,F,,,,,,,0003180
+D,Petrozziello,"Apt 1 Silver Seas, Cappagh Road, Galway",Aisha,Y249957A,,06/10/2013,F,,,,,,,0003177
+D,Hasmet,"5 Middle Street, Galway",Kaplin,W340992A,,01/07/1963,M,,,,,,,0003168
+D,Barrett,"Mincloon, Rahoon, Galway",Aine,Y907038A,,28/08/2015,F,,,,,,,0003175
+D,Eren Kaplan,"5 Middle Street, Galway",Kadir,E161145A,,26/12/2000,M,,,,,,,0003081
+D,Burke,"Rathglass, New Inn, Ballinasloe, Galway.",Rowan,0S58897D,,24/04/2015,M,,,,,,,0003091
+D,Kaplan,"5 Middle Street, Galway",Nuran,W340992B,,23/11/1966,F,,,,,,,0003070
+D,Hegarty,"17 Gleann na Coille, Barna Road, Galway",Sibeal,Y459630A,,05/03/2014,F,,,,,,,0003033
+D,Nicholson,"19 Oakwood, Athenry, Co. Galway",Seamus,B337833B,,03/04/1970,M,,,,,,,0003057
+D,Morgan,"Laragh, Attymon, Athenry, Co. Galway",Sebastian,S370908B,,15/05/2015,M,,,,,,,0003123
+D,McLoughlin,"Oldwood, Castle Ellen, Athenry, Co. Galway",Carmel,Y804807A,,29/08/1948,F,,,,,,,0003128
+D,Petrosyan,"15A Lenaboy Avenue, Salthill, Galway",Mary,5833900F,,30/04/2015,F,,,,,,,0003119
+D,Meaney,"100 Cartur Mor, Clybaun Road, Galway",Ben,W902169A,,29/04/2015,F,,,,,,,0003098
+D,Higgins,"54 Baily Point, Salthill, Galway",Amelie,S854046A,,27/04/2015,F,,,,,,,0003100
+D,Trill,"28 Grattan Close, Grattan park, Claremorris, Co. Mayo.",Eoin,W146934A,,19/06/1976,M,,,,,,,0002911
+D,Ryan,"110 Tur Uisce, Doughiska, Merlin Park, Gawlay",Eva,S396189B,,27/10/2013,F,,,,,,,0002720
+D,McDonagh,"21 Davis Road, Shantalla, Galway",Erin,S400329A,,02/11/2013,F,,,,,,,0002729
+D,Monaghan,"14 Woodlands, Lackagh, Co. Galway",Cian,R645156A,,18/10/2013,M,,,,,,,0002718
+D,Barrett,"Mincloon, Rahoon, Co. Galway.",Nick,S393975A,,13/10/2013,M,,,,,,,0002710
+D,Spain,"37 Ashleigh Grove, Knocknacarra, Galway",Jessica,S309528A,,16/10/2013,F,,,,,,,0002714
+D,Flynn,"113  Coillte, Merlin",Gerry,5839134A,,22/09/1956,M,,,,,,,0002777
+D,Morgan,"Laragh, Attymon, Athenry, Co. Galway",Sophia,S370908A,,16/08/2013,F,,,,,,,0002787
+D,Murphy,"13 Parnell Avenue, Mervue, Galway",Cormac,U534366D,,23/06/2010,M,,,,,,,0002743
+D,Crowley,"18 Glenbawn, Ballybane",Aleisha,5799161F,,30/09/2013,F,,,,,,,0002733
+D,Murphy,"13 Parnell Ave, Mervue, Galway",Ciara,U534366C,,04/10/2013,F,,,,,,,0002742
+D,Fuller,"The Gables, Upper Clybaun Road, Knocknacarra, Galway",Niamh,Y669528A,,14/06/2013,F,,,,,,,0002653
+D,Uwamenye,"46 An Sean Bhaile, Doughiska, Galway",Ethan,5814899G,,21/06/2013,M,,,,,,,0002666
+D,Burke,"53 Gort Greine, Rahoon, Galway.",Luke,S321588A,,16/07/2013,M,,,,,,,0002651
+D,Donohue,"33 Pinegrove, Moycullen, Galway",Noah,S423459B,,21/06/2013,M,,,,,,,0002641
+D,Tatanashvili,"7 Rockbarton Court, Salthill, Galway",Shota,0B88660A,,07/08/1983,M,,,,,,,0002646
+D,Newell,"Cregduff, Corrandulla, Co. Galway",Alannah,S429660B,,11/09/2013,F,,,,,,,0002685
+D,Osawaru,"46 An Sean Bhaile, Doughiska, Co. Galway",Aiseosa,G548190A,,08/07/1997,F,,,,,,,0002690
+D,Duffy,"117 Upper Newcastle, Galway",Paddy,S400014A,,09/09/2013,M,,,,,,,0002682
+D,Uwamenye,"46 An Sean Bhaile, Doughiska, Galway",Nathan,5814899F,,21/06/2013,M,,,,,,,0002667
+D,Lohan,"25 Cashelmara, Knocknacarra, Galway",Mollai,R830808B,,19/08/2013,M,,,,,,,0002671
+D,Selbach,"Mountain West, Derrydonnell, Oranmore, Gawlay",Daniele,R431253A,,20/09/1976,F,,,,,,,0002795
+D,Rowe,"68 Glenard Crescent, Galway",Rhys,S233541A,,24/06/2014,M,,,,,,,0002876
+D,Aisling Kielty,"3 Davis Road, Shantalla, Galway",Mara,Y341154A,,09/07/2014,F,,,,,,,0002885
+D,Trabjerg,"11 Devon Court, Salthill, Galway",Hanna,5796166C,,16/06/2014,F,,,,,,,0002872
+D,McGrath,"86 Manor Court, Knocknacarra, Galway",Helen,5773250A,,31/12/1970,F,,,,,,,0002863
+D,Jennings,"31 Cashel Court, Salthill, Galway",Jonathan,0I96877A,,06/09/1986,M,,,,,,,0002864
+D,Greaney,"10 Greenview Hgts, Newcastle, Gawlay",Martin,5799744D,,25/06/2014,M,,,,,,,0002895
+D,McWeeney,"4 Heather Hills, Barna, Galway",Alex,S490761A,,13/08/2014,M,,,,,,,0002907
+D,John Costello,"16B Ard na Gaoithe, Clybaun Rd, Galway.",Harry,S315675B,,24/06/2014,M,,,,,,,0002893
+D,Nelson,"86 Liosmor, Cappagh Road, Galway",Zara,S806472A,,16/07/2014,F,,,,,,,0002887
+D,Duffy,"46 Uilinn, Moycullen, co. Galway.",Layla,R519489A,,20/07/2014,F,,,,,,,0002891
+D,Daly,"119 Manor Court, Knocknacarra, GALWAY",Kayleigh,5798724E,,20/02/2014,F,,,,,,,0002831
+D,Griffin,"4 St. Dominicks Road, Galway",Martin,U607023A,,12/06/1947,M,,,,,,,0002833
+D,McHale,"55 The Green, College Road, Galway",Sophie,S424107A,,10/01/2014,F,,,,,,,0002819
+D,Murphy,"13 Parnell Ave, Mervue, galway",Colin,U534366B,,02/04/1975,M,,,,,,,0002797
+D,McGauley,"Tullyvealnaslee, Oughterard, Galway",May,S514386C,,07/03/2014,F,,,,,,,0002815
+D,O'Donnell,"27 Drisin, Ballymoneen Road, Galway",Ciara,Y198675A,,01/04/2014,F,,,,,,,0002860
+D,Cullen,"74 Walter Macken, Galway, Galway",John,D244548A,,26/03/1948,M,,,,,,,0002862
+D,Ryan,"Carrowbrown, Headford, Galway",James,S775314A,,28/04/2014,M,,,,,,,0002857
+D,O'Connor,"Garynagry, Roscahill, Co. Galway",Molly,S486144A,,22/03/2014,F,,,,,,,0002835
+D,Peaker,"15 Shantalla Place, Galway",Charlie,S240588A,,02/04/2014,M,,,,,,,0002847
+D,HYNES,"89 Ballinfoyle Park, Headford Road, Galway",MIA,8239185C,,11/08/2004,F,,,,,,,003702
+D,KELLY,"96 Baile an Choiste, Headford Road, GALWAY",EAMONN,M293916A,,13/10/1957,M,,,,,,,000684
+D,CROWLEY,"32 ASHE RD, SHANTALLA, GALWAY",EILEEN,M315189A,,10/05/1926,F,,,,,,,000689
+D,FLAHERTY,"CIRCULAR RD, RAHOON, GALWAY",PATRICK,M289528A,,17/03/1938,M,,,,,,,000683
+D,O'Toole,"3 SLIABH RUA, BALLYBANE, GALWAY",NOREEN,M268709A,,12/10/1962,F,,,,,,,000679
+D,BURKE,"66 Castlepark, Ballybane, GALWAY",NOLLAIG,M278208A,,25/03/1967,F,,,,,,,000681
+D,NORMAN,"24 ST NICHOLAS RD, FAIRHILL, CLADDAGH, GALWAY",MARY,M356799A,,12/10/1952,F,,,,,,,000701
+D,COSTELLO,"ST MARYS, PALMYRA AVE, GALWAY",JOSEPH,M365321A,,14/01/1938,M,,,,,,,000704
+D,NOLAN,"16 Cluain Fada, Headford road, Galway",THOMAS,M352130A,,14/02/1953,M,,,,,,,000700
+D,JOYCE,"5 HAWTHORN PLACE, CLYBAUN ROAD, KNOCKNACARRA, GALWAY",TERESA,M323149A,,11/10/1969,F,,,,,,,000690
+D,STANLEY,"185 AN SEAN BHAILE, DOUGHISKA, GALWAY",COLIN,M330099A,,29/02/1968,M,,,,,,,000692
+D,MACNALLY,"60 DROIM CHAOIN, BISHOP O DONNELL ROA, GALWAY",LINDA,M267362A,,11/11/1970,F,,,,,,,000678
+D,MURPHY,"38 FURSEY RD, SHANTALLA, GALWAY",BRIDIE,M213033A,,15/12/1927,F,,,,,,,000666
+D,GRIFFIN,"39 COLMCILLE RD, SHANTALLA, GALWAY",CATHY,M213777A,,22/07/1970,F,,,,,,,000667
+D,LALLY,"4 NEW STREET WEST, GALWAY",SEAN,M193695A,,05/02/1947,M,,,,,,,000661
+D,LEONARD,"142 Sli Gheal, Ballymoneen Road, Knocknacarra, Galway",CARMEL,M182030A,,01/10/1954,F,,,,,,,000656
+D,GREANEY,"46 CAMILLAUN PK, NEWCASTLE, GALWAY",MICHAEL,M184262A,,15/01/1957,M,,,,,,,000657
+D,CRONNOLLY,"25 Leas na Coille, Ballybane, Galway",MARTINA,M236335A,,26/11/1971,F,,,,,,,000674
+D,WALSH,"22 TULLACH ARD, RAHOON, GALWAY",ANTOINETTE,M246128A,,03/02/1971,F,,,,,,,000676
+D,O'Brien,"8 SAINT IGNATIUS TCE, FAIRHILL, CLADDAGH, GALWAY",RICHARD,M227336A,,27/09/1947,M,,,,,,,000672
+D,BURKE,"5 MAC DARA RD, SHANTALLA, GALWAY",MICHAEL,M215958A,,28/08/1947,M,,,,,,,000668
+D,ENGLISH,"17 MICHAEL COLLINS ROAD, MERVUE, GALWAY",PHILOMENA,M219988A,,22/06/1936,F,,,,,,,000670
+D,McMahon,"17 Dr. Mannix Rd., Galway.",Margaret,5821316A,,03/03/1937,F,,,,,,,000826
+D,Lalor,"Shangort, Tavnaghmore, Corofin, Co.Galway",Una,1F87058A,,18/09/1949,F,,,,,,,000834
+D,Gugeshashivili,"79 Gleann Dara, Bishop O'Donnell Road, Galway",Tekle,5836481A,,29/09/1986,F,,,,,,,000816
+D,Egan,"71 Fana Burca, Knocknacarra, Galway",Jennifer,5833760A,,03/11/1968,F,,,,,,,000782
+D,Greaney,"24 Fana Bui, Ballymoneen Road, Galway.",Irina,5830102A,,09/12/1975,F,,,,,,,000795
+D,ERAKPOWERI,"39 An Sean Bhaile, Doughiska, Galway",David,0R68995A,,09/10/2002,M,,,,,,,000846
+D,(Teresa) Tynan,"16 ASHE ROAD, SHANTALLA, GALWAY",Bernadette,8408440B,,04/11/1936,F,,,,,,,000876
+D,-Ejir ERAKPOWERI,"39 An Sean Bhaile, Doughiska, Galway",Henrient,E493281A,,20/03/2001,M,,,,,,,000844
+D,CONNEELY,"9 TULACH ARD, RAHOON, GALWAY",Siobhan,8144834B,,11/08/1959,F,,,,,,,000838
+D,CONNEELY,"9 TULACH ARD, RAHOON, GALWAY",Nicholas,8144834A,,30/05/1962,M,,,,,,,000841
+D,Corley,"Bishop O'Donnell Rd., Galway.",Eugene,5835793A,,16/05/1959,M,,,,,,,000777
+D,DOLAN,"9 UNIVERSITY PARK, GALWAY",CHRISTINE,M458494A,,03/02/1942,F,,,,,,,000720
+D,HERNON,"6 FURSEY RD, SHANTALLA, GALWAY",NOEL,M474619A,,20/12/1952,M,,,,,,,000723
+D,MELIA,"40 FURSEY RD, SHANTALLA, GALWAY",MICHAEL,M449134A,,12/07/1946,M,,,,,,,000719
+D,JOYCE,"14 MILL ST, GALWAY",FRANCES,M417836A,,29/03/1938,F,,,,,,,000712
+D,DRABENT,"3 Ceide House, Ros Geall, Rahoon, Galway",DAGMAR,M429249A,,19/10/1956,F,,,,,,,000713
+D,O'Connell,"22 Beach Court, Galway.",Michael,R834822A,,20/04/1946,M,,,,,,,000756
+D,Clarke,"17 Glenard Avenue, Galway.",Charlotte,5820188B,,08/08/1942,F,,,,,,,000773
+D,Healy,"Claremount, Oughterard, Co. Galway.",Carmel,G141714A,,28/02/1943,F,,,,,,,000751
+D,HARNEY,"35 CAMILLAUN PARK, NEWCASTLE, GALWAY",HELEN,M499123A,,12/08/1957,F,,,,,,,000727
+D,McKiernan,"Carheens, Belclare, Tuam, Co. Galway",Marcella,E874260A,,27/05/1971,F,,,,,,,000742
+D,HEALY,"40 Droim Chaoin, Bishop O'Donnell Road, Galway.",FLORENCE,8412103A,,23/01/1982,F,,,,,,,000580
+D,KING,"65 Monalee Manor, Knocknacarra, Galway",MARK,5802459B,,07/04/1978,M,,,,,,,000584
+D,GALLAGHER,"64 Costa na Mara, Coast road, Oranmore, Galway.",SHAUN,8398216A,,16/07/1969,M,,,,,,,000567
+D,D WALSH,"14 Claddagh Quay, Galway",PAT,U881361A,,07/04/1975,M,,,,,,,000560
+D,CONCANNON,"212 Corrib Pk., Newcastle, Galway .",GERALD,8378991A,,15/08/1950,M,,,,,,,000562
+D,MACDONAGH,"7 DAVIS RD, SHANTALLA, GALWAY",ANNIE,8509328A,,17/08/1937,F,,,,,,,000600
+D,ANTONIO,"23 Bushy Park Lawn, Circular Road, Galway",JOSE,9103724A,,20/11/1968,M,,,,,,,000605
+D,KELLY,"6 BEATTYSTOWN, GALWAY",TERESA,8483124A,,14/10/1925,F,,,,,,,000596
+D,DELANEY,"DE MONTFORT, 46 LR NEWCASTLE, GALWAY",MARY,8422303A,,29/05/1933,F,,,,,,,000585
+D,CONNEELY,"27 COLMCILLE RD, SHANTALLA, GALWAY",NORA,8464456A,,06/05/1934,F,,,,,,,000592
+D,CASEY,"24 FANA BURCA, BALLYMONEEN, GALWAY",CARLA,0G70381A,,12/04/1975,F,,,,,,,000559
+D,HENEGHAN,"79 DANGAN HEIGHTS, NEWCASTLE, GALWAY",TERESA,8347484A,,07/02/1948,F,,,,,,,000537
+D,KIDD,"Rockhaven, Rockwood, Claregalway, Galway",CLODAGH,8349266A,,25/08/1967,F,,,,,,,000538
+D,CONNOLLY,"51 O CONNAIRE RD, SHANTALLA, GALWAY",THERESA,8345430A,,06/04/1954,F,,,,,,,000534
+D,KELLY,"9 COLEMANS RD, SHANTALLA, GALWAY",DENIS,8329796A,,03/08/1947,M,,,,,,,000525
+D,CORCORAN,"16 FURSEY RD, SHANTALLA, GALWAY",KITTY,8344760A,,19/02/1932,F,,,,,,,000532
+D,ROONEY,"70 Na Blatha Creige, Upper Clybaun Road, Knocknacarra, Galway",JACQUELINE,8364397A,,14/11/1957,F,,,,,,,000551
+D,GANNON,"15 LUS LEANA, BALLINFOYLE, GALWAY",TIMOTHY,8368910A,,13/08/1951,M,,,,,,,000555
+D,BURKE,"25 ROCKMOUNT RD, HIGHFIELD PK, GALWAY",EILEEN,8361649A,,05/02/1923,F,,,,,,,000547
+D,WARD,"The Studio, Shankill, Anaghdown, Co. Galway",NUALA,8352062A,,21/12/1965,F,,,,,,,000542
+D,GRIFFIN,"39 COLMCILLE RD, SHANTALLA, GALWAY",MARTIN,8353417A,,15/11/1929,M,,,,,,,000543
+D,FLANNERY,"1 Curralee, Sandyvale Lawn, Headford Road, Galway",GISELE,M140141A,,31/07/1963,F,,,,,,,000642
+D,LEAHY,"56 An Sean Bhaile, Doughiska, Galway., phone no invalid",MARY,M140184A,,03/04/1967,F,,,,,,,000643
+D,RYAN,"24 COSTELLO RD, SHANTALLA, GALWAY",CHRISTOPHER,M125363A,,24/12/1925,M,,,,,,,000638
+D,Costello,"Ballybrone, Waterview, Turloughmore, Co.Galway",Lorraine,5852307B,,22/07/1969,F,,,,,,,000634
+D,DUGGAN,"13 BALLINFOYLE PARK, HEADFORD RD, GALWAY",MARGARET,M124596A,,05/06/1941,F,,,,,,,000637
+D,FINN,"20 ST DOMINICKS RD, CLADDAGH, GALWAY",LENA,M173767A,,19/11/1950,F,,,,,,,000652
+D,BYRNES,"C/O Margaret Thornton, Gurtenaire, Tynagh, Loughrea",PATRICK,M181115A,,20/04/1924,M,,,,,,,000654
+D,HORNIBROOK,"6 O FLAHERTYS RD, SHANTALLA, GALWAY",AGNES,M166353A,,07/02/1960,F,,,,,,,000649
+D,CROWLEY,"56 GLENBHAN ESTATE, BALLYBANE, GALWAY",GERALDINE,M151186A,,04/07/1969,F,,,,,,,000645
+D,QUINN,"66 Inishannagh Park, Newcastle, GALWAY",BEVERLEY,M159934A,,13/10/1976,F,,,,,,,000647
+D,SULLIVAN,"3 LUS LEANA, HEADFORD RD, GALWAY",MARGARET,0L76204A,,04/08/1949,F,,,,,,,000633
+D,MACPHILBIN,"31 MC DARA ROAD, SHANTALLA, GALWAY",GEORGE,M057295A,,10/06/1947,M,,,,,,,000619
+D,REID,"6 COLMCILLE RD, SHANTALLA, GALWAY",CHRISTY,U514818A,,30/12/1937,M,,,,,,,000620
+D,QUINN,"89 RENMORE PARK, GALWAY",DYMPNA,M037669A,,19/05/1924,F,,,,,,,000615
+D,O'Nuadhain,"41 Ashleigh Grove, Knocknacarra, Galway",MICEAL,R806085A,,02/07/1946,M,,,,,,,000607
+D,BRAY,"15 BEATTYSTOWN, FAIRHILL, GALWAY",FREDERICK,A142660A,,12/09/1937,M,,,,,,,000613
+D,MADDEN,"58 INNISHANNAGH PARK, NEWCASTLE, GALWAY",JOHN,M075366A,,14/11/1959,M,,,,,,,000625
+D,CONNOLLY,"51 CONNAIRE RD, SHANTALLA, GALWAY",EAMONN,M096274A,,07/12/1956,M,,,,,,,000631
+D,COSTELLO,"30 LIOSMOR, CAPPAGH ROAD, BARNA, GALWAY",MONICA,M074726A,,09/01/1940,F,,,,,,,000624
+D,TIERNEY,"203 CASTLELAWN HTS, HEADFORD RD, GALWAY",NOEL,M065379A,,01/01/1974,M,,,,,,,000621
+D,KELLY,"9 Cois na Mona, Bog Road, Oranmore, Galway.",FIONA,M065751A,,18/05/1959,F,,,,,,,000622
+D,Heffernan,"102 Tudor Lawn, Galway",Andrew,R858798B,,03/09/1959,M,,,,,,,001174
+D,Powell,"12 Cedarwood, Highfield Park, Galway",Joanne,A030097A,,07/02/1939,F,,,,,,,001177
+D,Ellicott,"Creggcarragh, Cregmore, Claregalway",Claire,B227682A,,28/09/1971,F,,,,,,,001167
+D,Ford,"22 Maunsells Park, Galway",Dympna,5823514A,,25/06/1937,F,,,,,,,001148
+D,Ryan,"41 Davis Road, Shantalla, Galway",Deborah,D291897A,,21/04/1981,F,,,,,,,001166
+D,Gill,"KILROANAN HOUSE, OAKLANDS, SALTHILL",Bridie,5776881B,,25/02/1925,F,,,,,,,001196
+D,Manning,"14 Clochran, Kilcloghans, Tuam, Co. Galway",Cyril,5795638A,,13/07/1970,M,,,,,,,001200
+D,Connell,"32 Chestnut Close, Lisbeg Lawn, Renmore, Galway",Jennifer,1I18712A,,05/01/1979,F,,,,,,,001192
+D,Grealy,"4   Bar na Carraige, Fort Lorenzo, Galway",Doreen,S928485A,,13/10/1942,F,,,,,,,001184
+D,Connell,"32 Chestnut Close, Lisbeg Lawn, Renmore, Galway",Rosemary,D759681A,,10/03/1955,F,,,,,,,001191
+D,Moldovan,"6 Cul Ard, Wellpark, Galway .",Raul,1B96922A,,01/07/2001,M,,,,,,,001145
+D,McNally,"18 Fursey Road, Shantalla",Ross,0F04312A,,06/03/1979,M,,,,,,,001108
+D,Bray,"15 Beattystown, Claddagh, Galway",Kay,A142660B,,22/11/1939,F,,,,,,,001110
+D,Kelly,"23 The Maples, Dr Mannix Road, Galway",Bernadette,5825762B,,01/10/1947,F,,,,,,,001106
+D,CURRAN,"16 GRATTAN PARK, GALWAY",Mary,A397837A,,28/11/1941,F,,,,,,,001084
+D,Manning,"65 Woodfield, Barna Rd, Galway., Galway",Geraldine,8235147A,,26/04/1966,F,,,,,,,001095
+D,Walshe,"49 Claremont, Rahoon, Galway",Agnes,5840010A,,03/08/1956,F,,,,,,,001123
+D,Moldovan,"6 Cul Ard, Wellpark, Galway .",Mircea,5800046A,,06/04/1969,F,,,,,,,001143
+D,Sweeney,"Tonemace, Corrandulla, Co. Galway",Suzanne,5786843B,,29/01/1970,F,,,,,,,001121
+D,Hernon,"22 Brackernagh, Ballinsloe, Co. Galway",John,D682173A,,08/06/1952,M,,,,,,,001116
+D,De Silva,"Taramuid, Clarenbridge, Co. Galway",Robert,5838962A,,16/09/1946,M,,,,,,,001117
+D,Higgins,"17 McDonagh Avenue, Mervue, Galway",Ruth,U867924A,,19/11/1971,F,,,,,,,001291
+D,Langdon,"93 Baile An Choiste, Headford Road, Galway",Noreena,8271186A,,02/05/1964,F,,,,,,,001306
+D,Powell,"12 Cedarwood, Highfield Park, Galway",Peter,A030097B,,23/05/1940,M,,,,,,,001290
+D,Griffin,"Gentian Hill, Knocknacarra, Co. Galway",Denis,5812292A,,13/09/1935,M,,,,,,,001261
+D,Walsh,"22 Tullach Ard, Circular Road, Galway",Chelsey,W048267A,,21/10/1998,F,,,,,,,001288
+D,BALAZ,"29 The Meadows, Ballybrit, Galway",Fabio,1B43795A,,02/06/2003,M,,,,,,,001326
+D,Burke,"Ardnasodan, Ballyglunin, Tuam, Co. Galway",Mark,8362203A,,12/06/1972,M,,,,,,,001331
+D,Balazova,"29 The Meadows, Ballybrit, Galway",Monika,R191682A,,05/10/1982,F,,,,,,,001325
+D,Cahill,"68 ShantallaRoad, Galway",Mabel,5833510A,,23/12/1938,F,,,,,,,001318
+D,Donoghue,"Briarhill, Castlegar, Galway",William,0P00667A,,19/06/1948,M,,,,,,,001321
+D,Lennon,"11 Hollygrove, Renmore, Galway",Martin,R822249B,,29/10/1946,M,,,,,,,001258
+D,Regan,"17 Ashe Road, Shantalla, Galway",Rita,1F36514A,,08/09/1944,F,,,,,,,001224
+D,Hanniffy,"2 Pearse Avenue, Mervue, Galway",Maura,M205995B,,29/06/1930,F,,,,,,,001227
+D,Tarpey,"163 Castlelawn Heights, Headford Road, Galway",Philomena,5814531A,,23/10/1945,F,,,,,,,001220
+D,Greaney,"46 Camillaun Park, Newcastle, Galway",Helen,M184262B,,08/11/1959,F,,,,,,,001211
+D,O'Connor,"24 Bowling Green, Galway",John,5815014A,,14/05/1944,M,,,,,,,001217
+D,Kavanagh,"19 Riverside, Woodquay, Galway",Mary,5838185B,,11/03/1931,F,,,,,,,001237
+D,Fitzpatrick,"5 Fursey Road, Shantalla, Galway",Terry,5805032A,,31/03/1962,M,,,,,,,001256
+D,Dempsey,"41 Grangemore, Bishop O'Donnell Road, Galway",Tom,5850240A,,24/02/1962,M,,,,,,,001242
+D,Minton,"19 Ocean Wave, Salthill, Galway",Denis,5813756A,,09/10/1935,M,,,,,,,001234
+D,Coyne,"107 Ros Ard, Cappagh Road, Galway",Karen,5798755A,,22/01/1968,F,,,,,,,001241
+D,Ziruk,"13 Gleann na Tra, Sandy road, Galway",Matthew,G047160A,,30/11/1947,M,,,,,,,000950
+D,Codyre,"Heather View, Mincloon, Rahoon, Galway",Margaret,8104018B,,22/06/1966,F,,,,,,,000955
+D,Downie,"Moutain South, Athenry, Co. Galway",Jenny,5843625A,,03/07/1972,F,,,,,,,000948
+D,Collins,"34 Glenview Drive, Galway.",Tony,5842894B,,18/05/1956,M,,,,,,,000942
+D,Flaherty,"CIRCULAR RD, RAHOON, GALWAY",Nonie,M289528B,,30/08/1941,F,,,,,,,000946
+D,Beswick,"Banrach, Ballinahown, Co. Galway.",Richard,Y442602A,,08/07/1943,M,,,,,,,000975
+D,Christie Nwokoma,"63 Rosan Glas, Rahoon, Galway",Nneoma,5797087B,,28/08/1974,F,,,,,,,000982
+D,Codyre,"Heather View, Mincloon, Rahoon, Galway",Erica,R465300A,,16/06/2000,F,,,,,,,000970
+D,Gavin,"40 Cuan Glas, Bishop O'Donnell Road, Galway",Caroline,8272816A,,26/11/1974,F,,,,,,,000960
+D,Codyre,"Heather View, Mincloon, Rahoon, Galway",Rebecca,1D64846A,,03/08/2003,F,,,,,,,000969
+D,MADDEN,"58 INNISHANNAGH PARK, NEWCASTLE, GALWAY",Dylan,0L01513A,,19/08/1997,M,,,,,,,000941
+D,Moore,"87, Knocknacarra pk., Galway",Orla,D580896A,,11/12/1962,F,,,,,,,000921
+D,Moore,"87, Knocknacarra pk., Galway",Fred,D580896B,,07/05/1967,M,,,,,,,000922
+D,NOLAN,"Apt 3 Dun Uisce, Pump Lane, Dominick Street, Galway",Tomas,B484407A,,29/05/1996,M,,,,,,,000915
+D,Wall,"42, The Meadows, Ballybrit, Galway",Sandra,B557883A,,23/08/1993,F,,,,,,,000903
+D,NOLAN,"16 Cluain Fada, Headford Road, Galway",Josephine,M352130B,,21/07/1961,F,,,,,,,000912
+D,MADDEN,"58 INNISHANNAGH PARK, NEWCASTLE, GALWAY",John,5817888A,,03/08/1990,M,,,,,,,000938
+D,MADDEN,"58 INNISHANNAGH PARK, NEWCASTLE, GALWAY",Lauren,E041310A,,28/11/2000,F,,,,,,,000939
+D,MADDEN,"58 INNISHANNAGH PARK, NEWCASTLE, GALWAY",Jennifer,M075366B,,27/07/1967,F,,,,,,,000936
+D,Moore,"87, Knocknacarra pk., Galway",James,W449631A,,28/08/1998,M,,,,,,,000924
+D,Browne,"3 Mc Dara Road, Shantalla, Galway",Eileen,5804613A,,01/07/1933,F,,,,,,,000926
+D,McCormack,"10 Rahylin Glebe, Ballbane, Galway.",James,B888066B,,10/10/1953,M,,,,,,,001037
+D,Dillon,"Pathway, Ballybane Rd, Galway",Yvonne,Y231606A,,04/09/1945,F,,,,,,,001051
+D,Connolly,"St. Bernards, Prospect, Athenry, Co. Galway",Leah,0V67402A,,27/08/2001,F,,,,,,,001034
+D,Duggan,"66 College Rd., Galway.",Jimmy,M192761A,,19/01/1930,M,,,,,,,001028
+D,Martin,"30 Tor Bui, Knocknacarra, Galway",Naoise,0P70426A,,27/07/1983,F,,,,,,,001029
+D,O'Farrell,"39 Clybaun Heights, Knocknacarra, Galway.",Agnes,W509769B,,22/04/1948,F,,,,,,,001076
+D,O'Farrell,"39 Clybaun Heights, Knocknacarra, Galway.",Bernard,W509769A,,13/12/1944,M,,,,,,,001077
+D,Geraghty,"301 Corrib Park, Newcastle, Galway",Esther,5830336A,,21/04/1946,F,,,,,,,001071
+D,Kelly,"Kilroe, 37 Dalysfort Road, Salthill, Galway",Catherine,8411271B,,15/07/1940,F,,,,,,,001060
+D,DONOFRIO,"39 Clybaun Court, Knocknacarra, Galway",Gerry,5783609B,,11/04/1962,M,,,,,,,001070
+D,Forde,"19 Criot na Mara, Quincentennial Drive, Salthill, Galway",Maureen,0Y03592A,,31/12/1949,F,,,,,,,001023
+D,AGWARAONYE,"63 Rosan Glas, Rahoon, Galway",Adanna,Y694026A,,23/12/1999,F,,,,,,,000987
+D,Higgins,"36 O'Connaire Road, Shantalla, Galway",Mary,D075123A,,28/11/1957,F,,,,,,,000989
+D,Aden,"63 Rosan Glas, Rahoon, Galway",Ogechi,R725931A,,23/01/1998,M,,,,,,,000986
+D,Sarah AGWARAONYE,"63 Rosan Glas, Rahoon, Galway",Amaka,0P44479A,,29/08/2002,F,,,,,,,000983
+D,Serberis,"204 Castle Park, Ballybane, GALWAY",Patrick,0D70273A,,19/10/2001,M,,,,,,,000984
+D,Hogan,"19 Portmore, Fishmarket, Galway",Margaret,S765675A,,22/03/1943,F,,,,,,,001000
+D,Little,"64 Knocknacarra Park, Galway",Rosemary,U233334A,,23/04/1947,F,,,,,,,001002
+D,TIERNEY,"203 Castlelawn Heights, Headford Road, Galway",Kathleen,A424738A,,11/03/1934,F,,,,,,,000994
+D,MACDONAGH,"47 ST JAMES CRESCENT, MERVUE, GALWAY",Mary,5785694B,,18/06/1941,F,,,,,,,000990
+D,CARRASCOSA Whelan,"1 Spire House, Shantalla, Galway",Oisin,E836937A,,29/06/2001,M,,,,,,,000992
+D,KISSANE,"3 GLENARD AVE, SALTHILL, GALWAY",JACK,5791395A,,20/11/1929,M,,,,,,,000194
+D,T FITZGERALD,"GLENARDE HOUSE, TAYLORS HILL, GALWAY",NOREEN,5791479A,,30/09/1924,F,,,,,,,000197
+D,GUERIN,"12 BROOKLAWN, KNOCKNACARRA RD, SALTHILL, GALWAY",BRENDAN,5791171A,,02/01/1930,M,,,,,,,000192
+D,SULLIVAN,"6 REDDINGTON RD, SHANTALLA, GALWAY",JOHN,5790905A,,05/01/1957,M,,,,,,,000188
+D,MACGRATH,"27 THE NURSERIES, TAYLORS HILL, CO GALWAY, IRELAND",FRANK,5790949A,,01/09/1931,M,,,,,,,000190
+D,MACGINTY,"MONKSFIELD HOUSE, 2 MONKSFIELD, SALTHILL, GALWAY",CLAIRE,5792199A,,26/08/1930,F,,,,,,,000210
+D,CONNOLLY,"KNOCKAUNCARRAGH, BARNA, CO GALWAY",JOHN,5792473A,,11/02/1934,M,,,,,,,000216
+D,J LOUGHNANE,"66 Walter Macken Place, Mervue, Galway",JOHN,5792118A,,05/06/1969,M,,,,,,,000207
+D,RICHARD QUAID,"30 KINGSTON, TAYLORS HILL, GALWAY",MICHAEL,5791615A,,28/01/1927,M,,,,,,,000199
+D,OSUNDE,"155 Coillte Mhuirlinne, Ballybane, Galway",ADESUWA,5791720A,,25/10/1970,F,,,,,,,000200
+D,O'Maille,"ELVA, 49 FR GRIFFIN RD, GALWAY, IRELAND",SAL,5790858A,,05/03/1925,F,,,,,,,000187
+D,KING,"189 BAILE AN CHOISTE, BOTHAR NA GCOISTE, HEADFORD RD, GALWAY",DONNA,5789018A,,04/09/1978,F,,,,,,,000155
+D,BROUDER,"23 DALTON DRIVE, SALTHILL, GALWAY",ANNE,5789661A,,11/10/1924,F,,,,,,,000166
+D,CURRAN,"16 GRATTAN PARK, GALWAY",Benny,5788831A,,06/10/1930,M,,,,,,,000150
+D,CASLEY,"26 ST JOHNS TERRACE, HENRY STREET, GALWAY",CAROL,5788134A,,28/01/1952,F,,,,,,,000145
+D,GERARD FOLAN,"38 Ard Alainn, Merlin Pk, Galway",PATRICK,5788278A,,09/11/1950,M,,,,,,,000147
+D,MACGRATH,"27 THE NURSERIES, TAYLORS HILL, CO GALWAY",ADDIE,5790532A,,23/01/1931,F,,,,,,,000178
+D,MURRAY,"1 DEVON COURT, SALTHILL, CO GALWAY",DYMPNA,5790765A,,09/05/1930,F,,,,,,,000182
+D,CONNOLLY,"St. Bernards, Prospect, Athenry, Co. Galway",DAWN,5790354A,,12/07/1984,F,,,,,,,000174
+D,HIGGINS,"CREGG, NILE LODGE, LR SALTHILL, GALWAY",NANETTE,5789700A,,06/01/1921,F,,,,,,,000167
+D,CANTRELL,"31 CARRAGH HILL, KNOCKNACARRA, GALWAY",RITA,5790083A,,02/07/1931,F,,,,,,,000172
+D,FLAHERTY,"43 OCONNAIRE ROAD, SHANTALLA, GALWAY",EAMONN,5796889A,,01/03/1958,M,,,,,,,000257
+D,AGWARAONYE,"26 Tudor Vale, Oranmore, Galway",NORBERT,1B66547A,,14/07/1962,M,,,,,,,000261
+D,Jolly,"39 An Sean Bhaile, Doughiska, Galway",CAROLINE,0K27253A,,10/02/1981,F,,,,,,,000255
+D,TRABJERG,"11 Devon Court, Lower Salthill, Galway",ANDERS,5796166A,,16/01/1976,M,,,,,,,000251
+D,CAIRNS,"253 CORRIB PARK, NEWCASTLE, GALWAY",SAMUEL,5796355A,,01/09/1964,M,,,,,,,000252
+D,P KENNY,"18 TUDOR LAWN, NEWCASTLE, GALWAY",BRIDIE,5798063A,,12/09/1932,F,,,,,,,000279
+D,WALSH,"6 DAVIS ROAD, SHANTALLA, GALWAY",PAUL,5798085A,,15/09/1953,M,,,,,,,000280
+D,BERNARD,"60 CLYBAWN HGTS, SALTHILL, GALWAY",NORA,5797920A,,29/08/1932,F,,,,,,,000277
+D,Diarmuid Moloney,"39 Dun an Mara, Renmore, Galway",Patrick,5797417A,,10/05/1979,M,,,,,,,000267
+D,BUSTEED,"10 Ocean Towers, Salthill, Galway, GALWAY",ROISIN,5797590A,,01/09/1932,F,,,,,,,000272
+D,MACMAHON,"17 DR MANNIX RD, SALTHILL, GALWAY",PATRICK,5795888A,,08/05/1932,M,,,,,,,000250
+D,BUSTEED,"10 Ocean Towers, Salthill, Galway., CO GALWAY",BRENDAN,5793066A,,12/04/1927,M,,,,,,,000225
+D,HIGGINS,"POLLNAROOMA WEST, KNOCKNACARRA, GALWAY",PHILOMENA,5794190A,,15/01/1932,F,,,,,,,000234
+D,GREANEY,"46 CAMILLAUN PK, NEWCASTLE, GALWAY",GAVIN,5792990A,,16/10/1985,M,,,,,,,000223
+D,NOONE,"24 Lus Leanna, Headford Road, Galway",STEPHEN,5792482A,,23/07/1943,M,,,,,,,000217
+D,BRUZAITE,"204 Castle Pk, Ballybane, GALWAY",JURATE,5792606A,,01/08/1973,F,,,,,,,000218
+D,O'Mahony,"20 Beechmount Park, Galway",BERNIE,5795540A,,14/03/1952,F,,,,,,,000245
+D,LEONARD,"2 TAYLORS HILL, GALWAY",LEO,5795886A,,14/01/1931,M,,,,,,,000249
+D,FAHY,"29 OCEAN TOWERS, SALTHILL, GALWAY",MARY,5795036A,,07/07/1930,F,,,,,,,000243
+D,O'Brien,"8 SAINT IGNATIUS TCE, FAIRHILL, CLADDAGH, GALWAY",CAROLINE,5794298A,,03/01/1986,F,,,,,,,000236
+D,PATRICIA AHERNE,"19 WOODLANDS GREEN, RENMORE, GALWAY",MARY,5794685A,,28/02/1930,F,,,,,,,000239
+D,MULVEY,"36 Ard Na Coiste, Headford Road, Castlegar, Galway",CLAIRE,0W10594A,,24/12/1977,F,,,,,,,000055
+D,SMITH,"32 Forster Court, Galway",MICHAEL,R922374A,,12/06/1937,M,,,,,,,000056
+D,JOHNSTON,"92 Inishannagh Pk., BISHOP ODONNELL ROAD, GALWAY",BRIDGET,5777657A,,05/12/1964,F,,,,,,,000052
+D,SULLIVAN,"6 REDDINGTON RD, SHANTALLA, GALWAY",MARGARET,5776899A,,05/09/1930,F,,,,,,,000045
+D,LENNON,"14 ARBUTUS AVE, RENMORE, GALWAY",ITA,5777312A,,11/07/1934,F,,,,,,,000049
+D,Oliver,"82 FR BURKE RD, CLADDAGH, GALWAY",THOMAS,5778970A,,04/01/1982,M,,,,,,,000065
+D,FULTON,"34 Fana Bui, Ballymoneen Road, GALWAY",ROBERT,5850208A,,24/08/1967,M,,,,,,,000066
+D,TRITTEN,"29 Tullach Ard, Rahoon, Galway",PAUL,5778837A,,22/11/1982,M,,,,,,,000063
+D,MADDEN,"22 ST MARYS RD, GALWAY",SEAN,5777846A,,16/11/1965,M,,,,,,,000057
+D,JOYCE,"SHAMROCK LODGE, SALTHILL, GALWAY",PATRICK,5778749A,,08/12/1946,M,,,,,,,000062
+D,BRENNAN,"5 Bruach na Mara, Knocknacarra Rd, GALWAY",ROISIN,5776528A,,16/03/1977,F,,,,,,,000041
+D,DANIELS,"Apt 2 117 Claremont Park, Rahoon, GALWAY",TERESA,5846096A,,29/01/1961,F,,,,,,,000014
+D,CUMMINS,"168 Corrib Park, Newcastle, Galway",JOHN,5772959A,,05/06/1948,M,,,,,,,000017
+D,FRENCH,"Apt 2, 39 St. Marys Road, GALWAY",SANDRA,5772329A,,13/05/1965,F,,,,,,,000012
+D,O'Kennedy,"8 Shantalla Place, Rahoon Road, Galway",Noel,5832183B,,06/12/1939,M,,,,,,,003838
+D,CALLANAN,"Caherglissane, Gort, Co. Galway",MIRIAM,5771910A,,11/12/1974,F,,,,,,,000009
+D,KENNY,"16 Sliabh Rioga, Letteragh Road, Rahoon, Galway",DONAL,5774831A,,23/01/1980,M,,,,,,,000034
+D,TRITTEN,"29 TULACH ARD, CIRCULAR ROAD, GALWAY",LUCY,5775929A,,14/05/1950,F,,,,,,,000040
+D,FLAHERTY,"13 CORRACH BUI, BISHOP O DONNELL RD, GALWAY",PHILOMENA,5774601A,,07/12/1962,F,,,,,,,000032
+D,MULHALL,"32 MICHAEL COLLINS ROAD, MERVUE, GALWAY",ANTONIA,U057330A,,04/08/1971,F,,,,,,,000027
+D,O'Connor,"99 Upper Newcastle, Galway",Mary,5774460A,,05/08/1931,F,,,,,,,000030
+D,Akanni,"145 Coillte Mhuirline, Ballybane, Galway",ANTHONY,5785599A,,05/11/1971,M,,,,,,,000118
+D,MACDONAGH,"47 ST JAMES CRESCENT, MERVUE, GALWAY",CHRISTOPHER,5785694A,,16/08/1941,M,,,,,,,000120
+D,MABASA,"382 Tirellan Heights, Headford Road, Galway",ABRAM,5835885B,,12/12/1969,M,,,,,,,000117
+D,LOUGHNANE,"114 CLAREVIEW PARK, BALLYBANE, GALWAY",RICHARD,5785045A,,29/01/1984,M,,,,,,,000111
+D,CARRASCOSA,"13 St. Johns Terrace, Henry Street, Galway",ALMUDENA,E396513A,,28/01/1975,F,,,,,,,000116
+D,SLATTERY,"44 KNOCKNACARRA PARK, SALTHILL, GALWAY",TESS,5787184A,,23/08/1934,F,,,,,,,000135
+D,BRENNAN,"35 Camillaun Park, Newcastle, Galway.",FERGUS,M499123B,,24/01/1960,M,,,,,,,000138
+D,SWEENEY,"Tonemace, Corrandulla, CO GALWAY",COLM,E141129A,,12/02/1972,M,,,,,,,000133
+D,PHILBIN,"11 Dalysfort Rd., Salthill, GALWAY",TERESA,5785832A,,16/10/1965,F,,,,,,,000123
+D,ANDERSON,"44 Greenfields Road, Newcastle, Galway",ISOBEL,5786770A,,05/09/1961,F,,,,,,,000132
+D,FLANAGAN,"Cnoc Sonas, Clynagh, Carraroe, Co. Galway",FREDA,5784159A,,17/05/1961,F,,,,,,,000105
+D,SWANNOCK,"34 Fana Bui, Ballymoneen Road, GALWAY",JENNIFER,5850208B,,07/11/1976,F,,,,,,,000073
+D,BURKE,"34 COLMCILLE RD, SHANTALLA, GALWAY",ATTRACTA,5781817A,,02/07/1962,F,,,,,,,000085
+D,KELLY,"40 NEW ROAD, GALWAY",PATRICK,5779833A,,27/11/1942,M,,,,,,,000071
+D,CUNNINGHAM,"51 Monivea Pk, Ballybane, Galway",JOHN,5779584A,,31/08/1962,M,,,,,,,000069
+D,NEWELL,"12 MADEIRA COURT, MILL STREET, GALWAY",MARGARET,5779807A,,12/06/1932,F,,,,,,,000070
+D,DONOFRIO,"39 Clybaun Court, Knocknacarra, Galway",EILEEN,5783609A,,24/06/1967,F,,,,,,,000101
+D,Glynn,"19 The Orchard, Moylough, Ballinasloe, Co. Galway",AGNES,5783944A,,22/06/1984,F,,,,,,,000104
+D,LAWLESS,"21 Beattystown, Fairhill, GALWAY",MARY,5783486A,,13/10/1942,F,,,,,,,000097
+D,LALLY,"65 SHANTALLA ROAD, GALWAY",NORA,5782045A,,14/10/1928,F,,,,,,,000086
+D,JOYCE,"14 MILL STREET, GALWAY",CLARE,5782735A,,09/03/1932,F,,,,,,,000090
+D,Codyre,"Heather View, Mincloon, Rahoon, Galway",NIALL,8104018A,,01/05/1967,M,,,,,,,000450
+D,HERNON,"1 DAVIS RD, SHANTALLA, GALWAY",TERESA,8106460A,,26/10/1962,F,,,,,,,000451
+D,MORAN,"46 DAVIS RD, SHANTALLA, GALWAY",JOANNE,5821673A,,15/12/1979,F,,,,,,,000449
+D,FOX,"Robinhill, MENLO, GALWAY",INGRID,8090149A,,18/04/1973,F,,,,,,,000445
+D,DEVLIN,"96 PORTACARRON, KNOCKNACARRA, GALWAY",JOHN,8093962B,,23/12/1960,M,,,,,,,000447
+D,O'BRIEN,"42 Na Blatha Creige, Clybaun Road, GALWAY",NOELLE,8157936A,,20/12/1965,F,,,,,,,000467
+D,HOSTY,"Ard na Greine, 72 Clybawn Hgts, Knocknacarra, Galway.",EDWARD,8161674A,,10/05/1980,M,,,,,,,000468
+D,CURRAN,"7 BEECHMOUNT RD, GALWAY",ELIZABETH,8140952A,,05/11/1931,F,,,,,,,000461
+D,MACVICKER,"45 The Bailey, Circular Road, GALWAY",DAVID,8120919A,,07/05/1968,M,,,,,,,000454
+D,BOWE,"27 LIAM MELLOWES TERRACE, BOHERMORE, GALWAY",DEIRDRE,8122911A,,26/05/1952,F,,,,,,,000455
+D,RYAN,"54 CORRACH BUI, RAHOON, GALWAY",PAULINE,G007713A,,12/07/1967,F,,,,,,,000444
+D,CONBOY,"8 BARRY AVE, MERVUE, GALWAY",ANNE,8038740A,,06/10/1956,F,,,,,,,000429
+D,O'Sullivan,"12 COSTELLO RD, SHANTALLA, GALWAY",PATRICK,8043779A,,17/03/1946,M,,,,,,,000431
+D,(Thomas) O'Brien,"8 ST IGNATIUS TCE, FAIRHILL, CLADDAGH, GALWAY",TJ,8031827A,,12/09/1967,M,,,,,,,000427
+D,O'ROURKE,"72 CORRIB PK, GALWAY",ANTHONY,A567397A,,31/03/1932,M,,,,,,,000419
+D,ENRIGHT,"18 LUSLEANA, HEADFORD RD, GALWAY",JAMES,8009988A,,24/05/1954,M,,,,,,,000420
+D,DONOGHUE,"39 SYCAMORE DRIVE, HIGHFIELD PARK, GALWAY",MARY,8067813A,,10/10/1935,F,,,,,,,000441
+D,RUFFLEY,"111 CLAREMONT PK, CIRCULAR RD, GALWAY",OLIVIA,8073031A,,27/06/1976,F,,,,,,,000443
+D,DAVIS,"11 SYLVAN CLOSE, FAIRLANDS PARK, NEWCASTLE, GALWAY",MARIE,8060940A,,19/02/1952,F,,,,,,,000438
+D,O'Sullivan,"68 DROIM CHAOIN, BISHOP O DONNELL ROA, GALWAY",MELISSA,5849925B,,05/11/1975,F,,,,,,,000432
+D,TRITTEN,"29 TULACH ARD, RAHOON, GALWAY",SIMON,8059691A,,11/04/1979,M,,,,,,,000437
+D,CLARKE,"68, Baile an Choiste, Headford Rd., Galway .",JOANNE,8275475A,,14/03/1962,F,,,,,,,000507
+D,MOLONEY,"20 LIAM MELLOWS TERRACE, BOHERMORE, GALWAY",WILLIAM,8277834A,,04/04/1953,M,,,,,,,000508
+D,MADDEN,"21 Costello Road, Shantalla, GALWAY",KEVIN,8275041A,,28/12/1974,M,,,,,,,000506
+D,TRILL,"34 ST NICHOLAS RD, CLADDAGH, GALWAY",ANN,8246041A,,05/01/1962,F,,,,,,,000500
+D,KING,"101 Fana Burca, Knocknacarra, Galway",CAROLINE,1C77572B,,27/02/1981,F,,,,,,,000504
+D,HOLLAND,"PROSPECT, MAREE, ORANMORE, CO GALWAY",PATRICK,8325677A,,12/01/1929,M,,,,,,,000522
+D,CASSIDY,"11 Sylvan Ave, Fairlands Park, Newcastle., Galway",TARA,8328625A,,23/05/1973,F,,,,,,,000524
+D,THORNTON,"64 Clareview Park, Ballybane, Galway",MARGARET,B897894A,,01/03/1960,F,,,,,,,000515
+D,BARRIE,"20 LIAM MELLOWS TERRACE, BOHERMORE, GALWAY",CECILIA,8287295A,,15/03/1954,F,,,,,,,000511
+D,COSTELLO,"30 Coill Clocha, Oranmore, Co. Galway",PAULINE,8297452A,,04/10/1941,F,,,,,,,000514
+D,MURRAY,"8 Sli Geal, Ballymoneen Road, Knocknacarra, GALWAY",WILLIAM,8237506A,,09/06/1956,M,,,,,,,000497
+D,MACHUGH,"33 WHITE OAKS, CLYBAUN ROAD, GALWAY",BRIDGET,8184062A,,04/09/1958,F,,,,,,,000477
+D,MADDEN,"21 TIRELLAN HEIGHTS, HEADFORD ROAD, GALWAY",IMELDA,8184976A,,29/03/1926,F,,,,,,,000478
+D,O'Brien,"Rosewood House, Rockbarton North, Salthill, Galway",MARTIN,8181721A,,24/06/1965,M,,,,,,,000475
+D,COYNE,"17 WHITEHALL CLOSE, LR ABBEYGATE ST, GALWAY",JULIA,8165726A,,01/11/1949,F,,,,,,,000469
+D,O'Connor,"55 COOGAN PARK, NEWCASTLE, GALWAY",REBECCA,0Z54568A,,15/10/1970,F,,,,,,,000471
+D,KELLY,"56 SHANTALLA RD, SHANTALLA, GALWAY",MARY,8219125A,,06/10/1967,F,,,,,,,000492
+D,KENNY,"26 Myles Park, Corofin, Co.Galway",NELLIE,8230471A,,15/10/1933,F,,,,,,,000494
+D,O'SHEA,"147 An Leargan, Ballymoneen Road, Galway",ROBERT,8203385A,,28/04/1953,M,,,,,,,000489
+D,MULLEN,"195 Baile an coiste, Headford Rd, Galway",JOHN,8195692A,,12/01/1951,M,,,,,,,000482
+D,TREACY,"78 Gleann Dara, Rahoon, Galway",Edmond,5853252A,,25/04/1970,M,,,,,,,000484
+D,Jones,"27 O'Conaire Road, Shantalla, GALWAY",James,5800375A,,20/10/1975,M,,,,,,,000337
+D,Parslow,"40 CARRIGEEN, CLYBAUN ROAD, KNOCKNACARRA, GALWAY",Loretta,5800679A,,02/03/1958,F,,,,,,,000344
+D,CORBETT,"GLENORNGY, THE PROMENADE, SALTHILL, GALWAY",KATHLEEN,5800365A,,05/10/1926,F,,,,,,,000336
+D,KORKURT,"32 Droim Oir, Knocknacarra, GALWAY",HALIL,5799973A,,01/01/1960,M,,,,,,,000328
+D,O'Connor,"130 Laurel Park, Newcastle, Galway.",CAROLINE,5800115A,,24/12/1986,F,,,,,,,000333
+D,KING,"COOLAGH, BRIAR HILL, CASTLEGAR, GALWAY",BRIDGET,5801544A,,16/06/1929,F,,,,,,,000356
+D,KEARNEY,"23 SEAMOUNT, SALTHILL, GALWAY",JOHN,5801648A,,18/05/1933,M,,,,,,,000359
+D,SHARKEY,"3 MURROUGH PARK, RENMORE, GALWAY",MARY,5801283A,,03/05/1939,F,,,,,,,000352
+D,CURRAN,"33 ASHE RD, SHANTALLA, GALWAY",BELINDA,5800812A,,08/01/1956,F,,,,,,,000346
+D,HICKEY,"108 RENMORE PARK, GALWAY",PATRICK,5800956A,,24/03/1933,M,,,,,,,000348
+D,PEDUN,"112 Cimin Mor, Cappagh Road, Galway",JANE,5799938A,,01/08/1970,F,,,,,,,000326
+D,GILLIGAN,"25 UPPER FAIRHILL RO, CLADDAGH, GALWAY CITY",SIMON,5798970A,,29/09/1986,M,,,,,,,000298
+D,COLBERT,"ELETTA, LWR TAYLORS HILL, GALWAY",DOREEN,R507618A,,12/09/1932,F,,,,,,,000299
+D,DALY,"119 Manor Court, Knocknacarra, GALWAY",THERESA,5798724A,,08/09/1986,F,,,,,,,000294
+D,BOYLE,"Croft House, Fairhill Road, The Claddagh, Galway",MAIREAD,5798490A,,04/09/1986,F,,,,,,,000290
+D,MACCARRA,"2 RENMORE CRESCENT, RENMORE, GALWAY",BRIDGET,5798628A,,28/05/1937,F,,,,,,,000292
+D,Greaney,"10 Greenview Heights, Newcastle, GALWAY",BERNADETTE,5799744A,,21/11/1986,F,,,,,,,000323
+D,GLOWACKA,"42 Sliabh Bhan, Ballybane, Galway",IZABELA,5799800A,,02/05/1960,F,,,,,,,000324
+D,DUFFY,"FORRAMOYLE WEST, BARNA, CO GALWAY",PATRICK,5799535A,,30/07/1932,M,,,,,,,000314
+D,Lydon,"18 GLENBHAN ESTATE, BALLYBANE, GALWAY",AMANDA,5799161A,,13/11/1986,F,,,,,,,000304
+D,Ogbemudia,"203 Fearann Ri, Doughiska, Galway",VIVIAN,E572103A,,08/09/1972,F,,,,,,,000312
+D,MCCARTHY,"33 OAKLANDS, SALTHILL, GALWAY",THERESE,5822335A,,02/10/1956,F,,,,,,,000403
+D,DEVENEY,"11 CLUAININ, SIOBHAN MC KENNA ROA, GALWAY",HELEN,E934506A,,20/04/1960,F,,,,,,,000406
+D,STOCKER,"15 CROSS ST, GALWAY",MARGARET,5821053A,,11/07/1934,F,,,,,,,000402
+D,CONNOLLY,"3 Corrib Park, Newcastle, Galway",MAURICE,5804091A,,28/05/1947,M,,,,,,,000398
+D,TOWERS,"Doonwood, Mountbellew, Co. Galway",ALEX,5804169A,,02/03/1971,M,,,,,,,000399
+D,GALLAGHER,"5 COOLE PARK, BOHERMORE, GALWAY",MARGARET,5852854A,,25/02/1961,F,,,,,,,000413
+D,COX,"20 CLUAIN FADA, HEADFORD RD, GALWAY",THOMAS,0G30736A,,13/03/1962,M,,,,,,,000418
+D,KEANE,"34 TULACH ARD, CIRCULAR ROAD, GALWAY",MONA,5845513A,,15/04/1948,F,,,,,,,000411
+D,LYDON,"AILLE, BARNA, CO GALWAY",MICHAEL,5837782A,,07/02/1935,M,,,,,,,000407
+D,WALLACE,"21/22 Foster Court, Galway",MARY,5842255A,,02/05/1964,F,,,,,,,000409
+D,SHAUGHNESSY,"36 GLENANAIL DRIVE, RIVERSIDE, GALWAY",BRENDAN,5804041A,,30/10/1941,M,,,,,,,000397
+D,HANNIFFY,"BALLINACOURTY, CLARINBRIDGE, CO GALWAY",FRANK,5802239A,,08/08/1965,M,,,,,,,000369
+D,ANDERSON,"DOUGHISKA, MERLIN PARK, GALWAY",MARTIN,5802486A,,29/11/1952,M,,,,,,,000370
+D,MADDEN,"21 COSTELLO ROAD, SHANTALLA, GALWAY",NIALL,U696159A,,30/04/1978,M,,,,,,,000363
+D,FALLON,"19 THE GREEN, COLLEGE RD, GALWAY",ELEANOR,5801734A,,29/08/1972,F,,,,,,,000361
+D,THORNTON,"17 Middle Street, Apt No 7, Galway",JOHN,5801919A,,15/11/1963,M,,,,,,,000362
+D,MANNION,"AASLEAGH, CIRCULAR ROAD, DANGAN, GALWAY",JOHN,5803560A,,04/06/1933,M,,,,,,,000387
+D,MANNING,"5 Leas na Coille, Ballybane, Galway",OLIVER,5803873A,,17/08/1984,M,,,,,,,000394
+D,BRASSIL,"ST IGNATIUS CHURCH, 26 SEA ROAD, GALWAY",PAUL,5802905A,,18/04/1934,M,,,,,,,000375
+D,BOYLE,"64 MONIVEA PARK, GALWAY",NOEL,5802618A,,21/12/1939,M,,,,,,,000373
+D,LALLY,"Coral Haven NH, Headford Road, Galway",ELIZABETH,5802644A,,21/04/1941,F,,,,,,,000374
+D,NOONE,"141 SEACREST, KNOCKNACARRA, GALWAY",Matthew,5812452A,,25/05/1989,M,,,,,,,002751
+D,O'Brien,"Rosewood House, Rockbarton, GALWAY",Rachel,5848782A,,11/11/1994,F,,,,,,,002752
+D,Regan,"1 Duirling, Roscam, Galway",Michael,1H42013A,,04/04/1950,M,,,,,,,002742
+D,Griffin,"41 Fr Burke Road, Galway",Mary,1F27073A,,13/04/1947,F,,,,,,,002719
+D,MACNALLY,"60 DROIM CHAOIN, BISHOP O DONNELL ROA, GALWAY",Darren,5829827A,,04/01/1992,M,,,,,,,002726
+D,O'Connor,"55 COOGAN PARK, NEWCASTLE, GALWAY",Philip,5835835A,,18/10/1991,M,,,,,,,002759
+D,O'Sullivan,"12 COSTELLO RD, SHANTALLA, GALWAY",Ann,8043779B,,05/10/1949,F,,,,,,,002764
+D,O'Connor,"123 Laurel Park, Galway, GALWAY",Laura,U324594A,,01/02/1990,F,,,,,,,002758
+D,O'Brien,"37 A LAUREL PARK, NEWCASTLE, GALWAY",Benjamin,W253773A,,23/01/1999,M,,,,,,,002753
+D,O'Brien,"8 SAINT IGNATIUS TCE, FAIRHILL, CLADDAGH, GALWAY",Mary,M227336B,,05/06/1948,F,,,,,,,002754
+D,Higgins,"17 McDonagh Avenue, Mervue, Galway",Alannah,U867924C,,14/04/2004,F,,,,,,,002674
+D,Ogbemudia,"203 Fearann Ri, Doughiska, Galway",Brooklyn,E572103B,,15/04/2004,M,,,,,,,002675
+D,Ororiode ERAKPOWERI,"39 An Sean Bhaile, Doughiska, Galway",Fiona,0K27253D,,29/03/2004,F,,,,,,,002673
+D,Concannon,"Lenarevagh, Barna, Galway",Patrick,S914229A,,06/02/1944,M,,,,,,,002670
+D,Vaughan,"122 Hazel Park, Galway",Catherine,B240147A,,18/06/1944,F,,,,,,,002671
+D,LAWAL,"82 Sruthan Merlin, Ballybane, Galway.",Abiodun,5790491B,,01/03/1969,F,,,,,,,002709
+D,LEE,"22 COLMCILLE RD, SHANTALLA, GALWAY",Bernadette,M296443B,,03/01/1946,F,,,,,,,002710
+D,KING,"189 BAILE AN CHOISTE, BOTHAR NA GCOISTE, HEADFORD RD, GALWAY",Daniel,E591957A,,26/04/2001,M,,,,,,,002704
+D,O'Neill,"11 Brinkwater House, Quincentennial Drive, Salthill, Galway",Dermot,5844667A,,13/03/1967,M,,,,,,,002683
+D,KEANE,"34 TULACH ARD, CIRCULAR ROAD, GALWAY",Melissa,E741960A,,10/06/1988,F,,,,,,,002696
+D,Edosa,"155 Coillte Mhuirlinne, Ballybane, Galway",Kimberly,D666207A,,29/12/1996,F,,,,,,,002765
+D,Burke,"Tygreenane, Barnaderg, Co.Galway",Mary,M433785B,,21/03/1936,F,,,,,,,002868
+D,TOWERS,"Doonwood, Mountbellew, Co. Galway",Patrick,5823409B,,31/10/1943,M,,,,,,,002869
+D,Casserley,"243 Corrib Park, Newcastle, Galway.",Brenda,W069399A,,09/07/1978,F,,,,,,,002846
+D,Henry,"The Grove, Dyke Road, Terryland",Ann,Y685314A,,03/06/1943,F,,,,,,,002825
+D,Coyne,"6 Carrick Road, Shantalla, Galway",Dara,5779184A,,06/03/1951,M,,,,,,,002842
+D,Hession,"11 Carrig Bhan, Menlo, Galway",Brian,W342027B,,06/11/1959,M,,,,,,,002911
+D,Folan,"Cregboy, Claregalway, Co.Galway",Caroline,0X35380A,,28/06/1976,F,,,,,,,002925
+D,O'Connor,"18 Illaunree Drive, Coolough Rd., Galway.",Harry,B843741A,,07/10/1941,M,,,,,,,002907
+D,Gilroy,"59 DANGAN HEIGHTS, NEWCASTLE",Daniel,5780173A,,22/09/1980,M,,,,,,,002894
+D,Dodd,"40 Drom chaoin, Bishop O'Donnell Road, Galway.",Vincent,8412103B,,17/02/1970,M,,,,,,,002902
+D,Banks,"59 Sraith Fhada, Doughiska Road, Galway, Galway",Andrew,5806019A,,04/10/1968,M,,,,,,,002796
+D,Davies,"113 Coillte Mhuirlinne, Ballybane, Galway",Gillian,5839136A,,10/02/1967,F,,,,,,,002797
+D,Dermody,"8 Loyola Place, Fr Griffin Road, Galway",Kathleen,5830131A,,19/01/1945,F,,,,,,,002779
+D,PEDUN,"112 Cimin Mor, Cappagh Road, Galway",Faith,B458604A,,29/05/1996,F,,,,,,,002766
+D,SMITH,"32 Forster Court, Galway.",Concepta,R922374B,,02/11/1953,F,,,,,,,002773
+D,Duggan,"187 Baile an Choiste, Headford Road, Galway",Denise,M437306A,,09/11/1978,F,,,,,,,002812
+D,McLoughlin,"Sailin, Gentian Hill, Galway",Noel,Y022698A,,13/12/1938,M,,,,,,,002823
+D,McKiernan,"Carheens, Belclare, Tuam, Co. Galway",Holly,0Q53875A,,20/09/2002,F,,,,,,,002807
+D,Davies,"113 Coillte Muirlinn, Ballybane, Galway.",Rosie,0P35929A,,12/08/2002,F,,,,,,,002798
+D,McKiernan,"Carheens, Belclare, Tuam, Co. Galway",Luke,W404865A,,15/04/1999,M,,,,,,,002806
+D,HERNON,"1 DAVIS RD, SHANTALLA, GALWAY",Michael,8106460B,,17/05/1958,M,,,,,,,002657
+D,Foley,"22 Slyvan Drive, Fairlands Park, Galway",Eithne,Y304335A,,27/01/1942,F,,,,,,,002456
+D,Rabbitte,"11 Sandyvale Lawn, Headford Road, Galway",Sadie,W129771A,,28/10/1944,F,,,,,,,002459
+D,Morris,"Gorterwulla, Oughterard, Co.Galway",Peter,0E41005A,,11/07/1947,M,,,,,,,002444
+D,Greaney,"Aille, Barna, Galway.",Nancy,0T09514A,,22/11/2002,F,,,,,,,002431
+D,O'Coinne,"Glenardeen, Taylors Hill, Galway",Anna,5815701A,,07/05/1937,F,,,,,,,002438
+D,Hynes,"Ballymoneen Road, Knocknacarra, Galway",Michael,S768051A,,11/09/1942,M,,,,,,,002480
+D,McNally,"18 Fursey Road, Shantalla",Mary,8147949A,,12/03/1948,F,,,,,,,002492
+D,MULVEY,"36 Ard Na Coiste, Headford Road, Castlegar, Galway",Ria,0H28513A,,05/01/2002,F,,,,,,,002468
+D,Madden,"Apt. 3, 39 St. Marys Road, Galway",Brendan,5807498A,,21/04/1963,M,,,,,,,002462
+D,FOX,"Monument Road, MENLO, GALWAY",Sandra,5824243A,,27/06/1984,F,,,,,,,002465
+D,Kelly,"48 Inishannagh Park, Newcastle, Galway",Sally,5818930A,,28/09/1951,F,,,,,,,002382
+D,Colleran,"Mincloon, Rahoon",Caroline,5851926A,,02/10/1978,F,,,,,,,002387
+D,COMMINS,"147 BOHERMORE, GALWAY",Richard,5806140A,,28/05/1948,M,,,,,,,002381
+D,Tuutu MABASA,"382 Tirellan Heights, Headford Road, Galway",Yumm,0O14077A,,01/07/2002,F,,,,,,,002365
+D,Fahy,"Cloonabina, Moycullen, Galway",Margaret,D290007A,,28/10/1958,F,,,,,,,002366
+D,Costello (Butler),"128 INISHANNAGH PARK, NEWCASTLE, GALWAY",Jamie,5852307D,,25/03/2004,M,,,,,,,002426
+D,Stokes,"7 The Orchard, Kingston, Galway",Josephine,5830705A,,11/08/1938,F,,,,,,,002429
+D,Wade,"33 Altan Apts, Western Distributor Rd, Galway",Rebekah,5846606C,,29/03/2004,F,,,,,,,002424
+D,McLoughlin,"25 Dalton Drive, Salthill, Galway",Margaret,R613791A,,26/11/1941,F,,,,,,,002397
+D,FLEMING,"26 Leas na Coille, Ballybane, Galway",Jack,0C62884A,,30/09/2001,M,,,,,,,002403
+D,Bidmus LAWAL,"82 Sruthan Merlin, Ballybane, Galway.",Folayemi,0Y99937A,,09/04/2003,M,,,,,,,002504
+D,FLAHERTY,"13 CORRACH BUI, BISHOP O DONNELL RD, GALWAY",Jack,0B99973A,,22/07/2001,M,,,,,,,002612
+D,FORDE,"4 Sean Garrai, Lackagh, Galway",Sheila,8351139B,,14/05/1950,F,,,,,,,002615
+D,Maloney,"53 BALLINFOYLE PK, HEADFORD RD, GALWAY",Laurence,5819211A,,14/10/1990,M,,,,,,,002608
+D,DONOFRIO,"39 Clybaun Court, Knocknacarra, Galway",Sean,W242577A,,02/01/1999,M,,,,,,,002603
+D,DONOFRIO,"39 Clybaun Court, Knocknacarra, Galway",Natalie,E169722A,,26/12/2000,F,,,,,,,002604
+D,HANNIFFY,"BALLINACOURTY, CLARINBRIDGE, CO GALWAY",Ronan,E267264A,,13/01/2001,M,,,,,,,002646
+D,HERNON,"6 FURSEY RD, SHANTALLA, GALWAY",Carmel,M474619B,,28/06/1957,F,,,,,,,002653
+D,Poil,"Inis Oirr, Oilean Aran, Co. Gaillimhe",Mairead,Y373329A,,16/06/1939,F,,,,,,,002632
+D,GANNON,"15 LUS LEANA, BALLINFOYLE, GALWAY",Mary,8368910B,,16/10/1945,F,,,,,,,002619
+D,GANNON,"15 LUS LEANA, BALLINFOYLE, GALWAY",Luke,5829857A,,19/06/1992,M,,,,,,,002621
+D,Moore,"3 Manor Avenue, Kingston, Galway",Peter,S917316A,,08/05/1941,M,,,,,,,002550
+D,BINUYO,"145 Tur Uisce, Doughiska, Merlin Park, Galway",Faridah,1F90739A,,10/02/2001,F,,,,,,,002557
+D,Kenny,"9 Threadneedle Rd., Galway.",Catherine,8202117B,,21/09/1938,F,,,,,,,002544
+D,Owens,"24 Glenina Heights, Galway",Ena,Y811152A,,19/01/1939,F,,,,,,,002518
+D,O'Flaherty,"Ballydoite, Belclare, Tuam, Co  Galway",Cian,Y059940A,,05/09/1999,M,,,,,,,002524
+D,De Silva,"Tarmoud, Clarenbridge, Co. Galway",Carol,5838962B,,11/09/1948,F,,,,,,,002596
+D,CROWLEY,"56 GLENBHAN ESTATE, BALLYBANE, GALWAY",Nicole,Y971316A,,13/02/2000,F,,,,,,,002599
+D,DUNLEAVY,"25 Leas na Coille, Ballybane, GALWAY",Benny,M236335B,,29/01/1966,M,,,,,,,002591
+D,Casey,"24 FANA BURCA, BALLYMONEEN, GALWAY",Kyle,5846837A,,05/05/1994,M,,,,,,,002574
+D,CONNEELY,"43 Cnoc an Oir, Letteragh Road, GALWAY",Shauna,5792228A,,19/08/1985,F,,,,,,,002585
+D,O'Connor,"18  Ilaunree Drive, Coolock Rd ., Galway",Philomena,B843741B,,26/07/1940,F,,,,,,,003396
+D,McDonagh,"46 Inishanagh Park, Newcastle, Galway",Frank,5851719B,,06/10/1963,M,,,,,,,003414
+D,Foley,"38 Wellpark Grove, Galway",Mary,5823754A,,27/06/1942,F,,,,,,,003394
+D,Molloy,"114 Corrib Park, Galway",Michael,5806759A,,23/11/1942,M,,,,,,,003376
+D,Fitzpatrick,"4 Colmcille Road, Shantalla, Galway",Anne,5807774B,,17/10/1942,F,,,,,,,003386
+D,McCormack,"5 Na Cuilini, Dr Mannix Road, Salthill, Galway",Michael,Y604503A,,18/06/1944,M,,,,,,,003452
+D,Moran,"Roscahill, Galway",Margaret,D391761B,,02/07/1957,F,,,,,,,003454
+D,Emerson,"22 Threadneedle Road, Salthill, Galway",Emer,0427834A,,18/09/1944,F,,,,,,,003441
+D,McManus,"20 Maunsells Park, Taylors Hill, Galway",Anne,S877788A,,01/12/1939,F,,,,,,,003431
+D,TOWERS,"Doonwood, Mountbellew, Ballinasloe, Co. Galway",Anne,5823409C,,26/04/1942,F,,,,,,,003434
+D,Griffin,"Gentian Hill, Knocknacarra, Co. Galway",Pauline,A268165A,,26/11/1936,F,,,,,,,003317
+D,Nolan,"Keernaun, Headford, Co. Galway",Rhona,R611928A,,08/04/1967,F,,,,,,,003321
+D,Foley,"62 Lower Salthill, Galway",Tadhg,S763110A,,01/02/1944,M,,,,,,,003312
+D,Canny,"Furrymelia West, Barna, Galway",Nicholas,Y094617A,,04/01/1944,M,,,,,,,003284
+D,McGrath,"2 Reddington Rd, Shantalla, Galway",Ellen,0Y64945A,,07/12/1991,F,,,,,,,003289
+D,James Lyons,"Innishfree, Glenreeva, Corrundulla, Galway",Nicholas,0Z92827A,,06/12/1948,M,,,,,,,003346
+D,Donlon,"55 Monalee Manor, Knocknacarra, Galway",Anne,5815572A,,06/07/1952,F,,,,,,,003358
+D,Burke,"Lynburg, Whitestrand Road, Galway",Sean,0C34948A,,17/08/1947,M,,,,,,,003335
+D,Glynn,"7 Lisroe, The Bog Road, Oranmore, Co.Galway",Tony,0R47089A,,10/06/1948,M,,,,,,,003322
+D,McPhilbin,"3 St Ignatius Terrace, Galway",Michael,5826833A,,02/07/1946,M,,,,,,,003327
+D,LAWAL,"82 Sruthan Merlin, Ballybane, Galway.",Zainab,S657027A,,29/08/1999,F,,,,,,,003466
+D,Carroll,"5 Fr Griffin Place, Galway",Rose,A373501A,,16/06/1940,F,,,,,,,003618
+D,Rooney,"Aisling, Rockbarton Nth., Salthill",Billy,5826658A,,15/01/1938,M,,,,,,,003652
+D,Coyne,"107 Ros Ard, Cappagh Road, Galway",Chris,5798755B,,18/09/1967,M,,,,,,,003616
+D,Casserly,"62 Cookes Tce, Bohermore, Galway",John,0G88462A,,20/04/1958,M,,,,,,,003594
+D,Anderson,"169 Coill Tire, Doughiska, Galway",Patricia,R879588A,,06/03/1960,F,,,,,,,003601
+D,Kelly,"23 The Maples, Dr. Mannix Road, Galway",John,5825762A,,17/07/1942,M,,,,,,,003672
+D,Heaton,"58 Cluain Dara, Knocknacarra, Galway",Helen,0Y87976A,,28/06/1964,F,,,,,,,003687
+D,Cleary,"Brenmar, Barna Road, Galway",Brendan,5809632A,,16/04/1934,M,,,,,,,003661
+D,Lafferty,"32 Seaman Drive, Riverside, Galway",Josephine,R230490A,,21/03/1946,F,,,,,,,003656
+D,Lafferty,"32 Seaman Drive, Riverside, Galway",Michael,Y200133A,,15/10/1944,M,,,,,,,003657
+D,Brehony,"95 Fr Griffin Road, Galway",Ann,5817989B,,09/07/1967,F,,,,,,,003525
+D,Markland,"48 Dalysfort Rd., Salthill, Galway",Anne,E883287B,,24/01/1950,F,,,,,,,003546
+D,Heneghan,"37 McDara Rd, Shantalla",Amber,0P48232A,,20/08/1997,F,,,,,,,003520
+D,Roche,"60 Millbrook, Milltown, Tuam, Co. Galway",Michael,5807211A,,22/04/1976,M,,,,,,,003472
+D,Brogan,"14 Maunsells Park, Taylors  Hill, Galway",James,5814620A,,05/02/1997,M,,,,,,,003485
+D,M. O'Brien,"66 Claremont Park, Rahoon, Galway.",Anna,5812405A,,18/01/1965,F,,,,,,,003582
+D,Curran,"24 Bushypark Lawn, Galway",Cian,5840541A,,21/12/1980,M,,,,,,,003585
+D,Kearney,"3 San Antonio Tce., Salthill, Galway.",Evelyn,D087372A,,31/05/1942,F,,,,,,,003580
+D,Heaslip,"Rockbarton Park, Salthill, Galway",Michelle,0S03394A,,06/09/1948,F,,,,,,,003559
+D,Parkinson,"5 Carragh Close, Knocknacarra, Galway",George,A109450A,,25/07/1939,M,,,,,,,003572
+D,Smith,"36 Ashe Road, Shantalla, Galway",Margaret,M284186B,,22/08/1936,F,,,,,,,003279
+D,Slyne,"14 Tudor Close, Ballymoneen Road, Galway",Mary,W276993B,,12/02/1947,F,,,,,,,003044
+D,Burke,"7 Camilaun Park, Newcastle, Galway",Ciara,5815394A,,02/06/1999,F,,,,,,,003061
+D,Quinn,"34 Drom Oir, Clybaun Road, Galway",Clarence,A049645B,,18/05/1939,M,,,,,,,003042
+D,Beatty,"3 Glenavon Drive, Ballybane, Galway",Marian,8154414A,,19/02/1960,F,,,,,,,003022
+D,Lawless,"12 Corrib Park, Newcastle, Galway",Mary,5814909B,,09/02/1943,F,,,,,,,003024
+D,Heaton,"58 Cluain Dara, Knocknacarra, Galway",Teri,5831323A,,09/07/1992,F,,,,,,,003088
+D,O'Flaherty,"Ballydoite, Belclare, Tuam, Co. Galway.",Ryan,0H28711A,,17/01/2002,M,,,,,,,003114
+D,McDonagh,"Presentation Convent, Presentation Rd, Galway.",Kathleen,5816508A,,22/06/1936,F,,,,,,,003081
+D,Ward,"Woodside House, Woodstock, Co. Galway",Mary,M162277B,,07/09/1955,F,,,,,,,003067
+D,KING,"189 BAILE AN CHOISTE, BOTHAR NA GCOISTE, HEADFORD RD, GALWAY",Eoin,1D61822A,,20/08/2003,M,,,,,,,003069
+D,Fitzgerald,"24 An Maolin, Ballymoneen Road, Galway",Ella,0D60598D,,28/04/2004,F,,,,,,,002933
+D,Egan,"71 Fana Burca, Knocknacarra, Galway",Gerry,5833760B,,28/01/1963,M,,,,,,,002943
+D,Fitzgerald,"24 Maoilin, Ballymoneen, Galway",Robyn,1D34417A,,05/03/2001,F,,,,,,,002931
+D,Fitzgerald,"24 Maoilin, Ballymoneen Road, Galway",Bridie,0D60598A,,18/02/1973,F,,,,,,,002929
+D,Fitzgerald,"7 Tor Bui, Cappagh Rd., Galway",Shane,0D60598B,,22/12/1969,M,,,,,,,002930
+D,Langdon,"10 St. Nicholas Rd., Claddagh, Galway",Adam,U682236A,,08/07/1998,M,,,,,,,003009
+D,CASSERLEY,"243 Corrib Park, Galway",Kathleen,M401611A,,13/11/1950,F,,,,,,,003020
+D,Asosa Ogbemudia,"203 Fearann Ri, Doughiska, Galway",Eve,0W67528A,,13/02/2003,F,,,,,,,003008
+D,Herlihy,"11 Roselyn Gardens, Renmore, Galway",Veronica,M285247A,,05/08/1954,F,,,,,,,002998
+D,Fernandes,"181 Rosan Glas, Rahoon, Galway",Derek,R210699B,,25/09/1971,M,,,,,,,003000
+D,Healy,"An Luachan Beag, Menlo Village, Galway",Jackie,W087489A,,31/05/1972,F,,,,,,,003129
+D,Shine,"Sequoia, Menlo, Galway",Marian,A634348A,,23/05/1941,F,,,,,,,003226
+D,Connolly,"12, Gort na Bro, Millers Lane, Co. Galway",John,U297612A,,13/07/1979,M,,,,,,,003227
+D,DEVLIN,"96 PORTACARRON, KNOCKNACARRA, GALWAY",Kealan,B014247A,,18/09/1995,F,,,,,,,003217
+D,Hanley,"65 Thornog, Headford Road, Galway",Keith,5807395C,,07/06/2004,M,,,,,,,003210
+D,Burke,"35 Maunsells Park, Galway",Saoirse,D282087D,,05/06/2004,F,,,,,,,003212
+D,Snee,"51 Monalee Manor, Knocknacarra, Galway",Bridget,R759816A,,20/02/1946,F,,,,,,,003275
+D,Moloney,"85 Tirellan Heights, Headford Road, Galway",Kathleen,Y009000A,,14/06/1941,F,,,,,,,003277
+D,Meehan,"4 Cluain Ard, Ballybrit, Galway, 091450273",Ray,5849095A,,14/08/1968,M,,,,,,,003266
+D,Lawless,"53 Woodlands, Lackagh, Galway",Niamh,E706590A,,12/05/2001,F,,,,,,,003257
+D,Mulry,"12 New Road, Galway.",Tony,R380061B,,08/03/1948,M,,,,,,,003264
+D,Joyce,"Gentian Hill, Galway",Donal,D113679A,,27/06/1942,M,,,,,,,003147
+D,Mannion,"Ballydotia, Belclare, Tuam, Co.Galway",Siobhan,5829943A,,10/11/1983,F,,,,,,,003166
+D,McNulty,"10 Droim Chaoin, Bishop O'Donnell Road, Galway",Aodhnaith,G803043A,,11/11/1997,F,,,,,,,003144
+D,Emerson,"5 St. Anthony's Place, Woodquay, Galway.",Tess,5806184A,,08/06/1932,F,,,,,,,003135
+D,McNulty,"10 Droim Chaoin, Bishop O'Donnell Road, Galway",Lynda,5848814B,,27/01/1962,F,,,,,,,003143
+D,Maughan,"54 Ard Fraoigh, Clybaun road, Galway",Eileen,E876366A,,28/06/1948,F,,,,,,,003188
+D,P Gill,"70 Dun na Mara, Renmore, Galway",Diarmuid,5794831A,,24/05/1961,M,,,,,,,003192
+D,Murphy,"2 New Avenue, Rahoon Road, Galway",Loretta,5827819A,,04/10/1950,F,,,,,,,003186
+D,Bray,"6 Palymra Ave, Raleigh Row, Galway.",Maureen,G103212A,,23/06/1958,F,,,,,,,003168
+D,Lawless,"10 Radharc na Farraige, Ballymoneen Road, Galway",Cathy,D043407A,,07/01/1971,F,,,,,,,003173
+D,STANLEY,"185 AN SEAN BHAILE, DOUGHISKA, GALWAY",Caroline,M330099B,,27/09/1972,F,,,,,,,002331
+D,Parker,"Pillagh, Moycullen, Co. Galway",Michaela,5785608A,,29/03/1979,F,,,,,,,001693
+D,Moran,"69 Cuirt na hAbhainn, Lakeview, Claregalway, Co. Galway",Claire,5817582A,,08/01/1963,F,,,,,,,001697
+D,McNally,"13 Hillcrest Court, Knocknacarra, Galway",Padraic,A416818A,,18/05/1940,M,,,,,,,001688
+D,Flannery,"4 Fr. Griffin Road, Galway",Kathleen,5830270A,,25/07/1938,F,,,,,,,001668
+D,Brogan,"32 Hilltop Cresent, Claremorris, Co. Mayo",Kyle,5812210A,,02/09/2003,M,,,,,,,001683
+D,McNulty,"60 The Maples, Dr. Mannix Road, Salthill, Galway",Ann,0N85996A,,05/08/1965,F,,,,,,,001715
+D,Conneely,"6 Ros Geal, Millers Lane",Geraldine,5814113B,,21/04/1960,F,,,,,,,001723
+D,Moore,"87, Knocknacarra pk., Galway",Jack,1K62605A,,18/02/2004,M,,,,,,,001707
+D,Hynes,"Oirbsean, Moyvilla, Clarenbridge, Co. Galway",Brid,1B79768A,,06/10/1947,F,,,,,,,001703
+D,Hickey,"124 Coillte Mhuirlinne, Ballybane, Galway",Gerard,A666910A,,21/12/1970,M,,,,,,,001704
+D,Liu,"121 Gleann na Ri, Murrough, GALWAY, CO GALWAY",Evan,Y317646A,,27/10/1999,M,,,,,,,001665
+D,Tarr,"5 Rockmount Road, Highfield Park, Galway",Noreen,Y841887B,,09/07/1951,F,,,,,,,001624
+D,Tarr,"5 Rockmount Road, Highfield Park, Galway",Chris,Y841887A,,03/08/1944,M,,,,,,,001625
+D,O'Gorman,"30 Dr.Mannix Road, Galway",Pascal,S882036B,,17/05/1943,M,,,,,,,001604
+D,(Mae) Laverty,"Clooniffe, Moycullen, Co. Galway",Mary,5822699A,,19/02/1942,F,,,,,,,001596
+D,Burke,"43 Coole Park, Bohermore, Galway",Anne,M294408B,,13/05/1941,F,,,,,,,001601
+D,Corley,"18 Upper Friarhill Rd., Galway",Anne,1K91882A,,19/01/1950,F,,,,,,,001656
+D,Noone,"5 Priory Road, Claddagh, Galway",John,5821055A,,15/12/1952,M,,,,,,,001657
+D,GRIFFIN,"39 COLMCILLE RD, SHANTALLA, GALWAY",Annie,8353417B,,27/07/1932,F,,,,,,,001640
+D,Molloy-Johnston,"92 Inishannagh Pk., BISHOP ODONNELL ROAD, GALWAY",Kate,5817574A,,04/12/1987,F,,,,,,,001635
+D,Ryan,"41 Davis Road, Shantalla, Galway",Mary,M003063A,,23/03/1956,F,,,,,,,001639
+D,Kidd,"61 RIAN LUACHRA, BALLYBANE, GALWAY",Daniel,G353745A,,22/06/1997,M,,,,,,,001823
+D,Marie O'Brien,"Rosewood House, Rockbarton North, Salthill, Galway",Anne,8181721B,,17/07/1966,F,,,,,,,001844
+D,MACNALLY,"60 DROIM CHAOIN, BISHOP O DONNELL ROA, GALWAY",Gemma,1J57358A,,06/01/2004,F,,,,,,,001819
+D,ENRIGHT,"18 LUSLEANA, HEADFORD RD, GALWAY",Bernadette,8009988B,,07/09/1963,F,,,,,,,001811
+D,Connolly,"97 Inishannagh Park, Galway",Geraldine,8016216A,,06/01/1967,F,,,,,,,001817
+D,MABASA,"382 Tirellan Heights, Headford Road, Galway",Hadijah,5835885A,,11/11/1979,F,,,,,,,001887
+D,Moosa Mabasa,"382 Tirellan Heights, Headford Road, Galway",Swabur,1J50500A,,29/01/2004,M,,,,,,,3397393
+D,Colgan,"18 Rocklands Ave, Ballybane, Galway .",Gemma,U411210A,,09/05/1983,F,,,,,,,001857
+D,Murray,"27 Clybaun Heights, Galway",Michael,A047629A,,23/06/1940,M,,,,,,,001848
+D,Wynne,"43 Grangemore, Bishop O'Donnell Road, Galway",John,5836671A,,24/06/1958,M,,,,,,,001852
+D,O'Haodha,"23 Oldfield, Kingston, Galway",Donnacha,S962460A,,06/02/1944,M,,,,,,,001807
+D,Madden,"21 Costello Road, Shantalla, Galway",Thomas,8275068A,,29/07/1964,M,,,,,,,001733
+D,Scanlon,"Ashview, Creggcarragh, Cregmore, Claregalway",Laura,B227682D,,18/02/2004,F,,,,,,,001736
+D,O'Kennedy,"8 Shantalla Place, Rahoon Road, Galway",Pearl,5832183A,,24/10/1939,F,,,,,,,001732
+D,Murphy,"29 Na Blatha Creige, Clybaun Road, Galway",Maria,5807016A,,08/12/1972,F,,,,,,,001727
+D,Kirwan,"95 Rahylin Glebe, Ballybane",Sean,B270765A,,26/08/1941,M,,,,,,,001730
+D,Lennon,"11 Hollygrove, Renmore, Galway",Eileen,R822249A,,27/09/1945,F,,,,,,,001780
+D,Geraghty,"18 McHugh Ave., Mervue, Galway.",Mary,5793735A,,10/08/1946,F,,,,,,,001806
+D,Monahan,"1 Dun Daingean, Newcastle, Galway.",Genna,E187074A,,11/04/1997,F,,,,,,,001772
+D,Lawless,"53 Woodlands, Lackagh, Galway",Edel,R944001A,,08/10/1972,F,,,,,,,001742
+D,WALSH,"120 BALLINFOYLE PK, GALWAY",Rita,1E42832A,,22/05/1956,F,,,,,,,001756
+D,Spellman,"7 New Road, Galway",Mary,8053588B,,21/07/1937,F,,,,,,,001391
+D,KING-LEE,"101 Fana Burca, Knocknacarra, Galway",Katelynn,0T12106A,,18/11/2002,F,,,,,,,001398
+D,McGrath,"""Kayros"", Dr. Mannix Road, Salthill, Galway",Rosaleen,5822374A,,06/11/1936,F,,,,,,,001387
+D,Tummon,"5 Loyola Place, Fr. Griffin Road, Galway",Maura,5824955A,,23/08/1946,F,,,,,,,001383
+D,Spellman,"7 New Road, Galway",Damien,5833432A,,27/04/1969,M,,,,,,,001385
+D,Browne,"8 University Road, Galway",Mary,A571204B,,10/12/1938,F,,,,,,,001429
+D,Mulligan,"10 Polnarooma West, Salthill, Galway",Vera,E176562A,,31/10/1946,F,,,,,,,001433
+D,JOYCE,"5 HAWTHORN PLACE, CLYBAUN ROAD, KNOCKNACARRA, GALWAY",Daniel,0R80047A,,06/10/2002,M,,,,,,,001427
+D,Gilroy,"72 Corrach Bui, Rahoon, Co. Galway",Paul,5770743A,,13/03/1951,M,,,,,,,001405
+D,Ward,"Woodside House, Woodstock, Moycullen, Co. Galway",Brendan,M162277A,,14/10/1952,M,,,,,,,001419
+D,Wynne,"43 Grangemore, Bishop O'Donnell Road, Galway",Kathleen,5836671B,,29/06/1959,F,,,,,,,001379
+D,Clune,"45 Inishannagh Pk., Newcastle, Galway",Dorothy,5844384B,,16/11/1966,F,,,,,,,001346
+D,O'Halloran,"12 Menlo Village, Menlo, Galway",Des,5777002B,,11/02/1930,M,,,,,,,001355
+D,Snr McDonogh,"9 Fr. Griffin Avenue, Galway",Thomas,5811433A,,04/06/1935,M,,,,,,,001345
+D,McDonagh,"9 An Leach Leim, Barna, Galway",Martin,Y245916A,,22/12/1943,M,,,,,,,001339
+D,Anderson,"7 Ashe Road, Shantalla, Marie Fox, 0872856229",Teresa,R082314A,,07/05/1925,F,,,,,,,001344
+D,Lawless,"12 Corrib Park, Newcastle, Galway",Nicholas,5814909A,,05/06/1942,M,,,,,,,001376
+D,Diviney,"47 Rahylin Glebe, Ballybane, Galway",Eamonn,5805318A,,13/11/1944,M,,,,,,,001377
+D,Connolly,"50 Tirellan Heights, Headford Road, Galway",Paddy,E194481A,,13/09/1943,M,,,,,,,001368
+D,Connell,"32 Chestnut Close, Lisbeg Lawn, Renmore, Galway",Michael,D759681B,,26/05/1954,M,,,,,,,001357
+D,BREHONY,"2 BEACH AVE, UPPER SALTHILL, GALWAY",Rose,M460065A,,22/10/1936,F,,,,,,,001361
+D,Doyle,"36 Threadneedle Road, Salthill, Galway",Kevin,1h58762a,,28/09/1949,M,,,,,,,001558
+D,MONAHAN,"1 Dun  Daingean, Newcastle, Galway.",Heidi,U312354A,,15/07/1966,F,,,,,,,001561
+D,Mercer,"5 St Pauls Road, Galway",John,S773172B,,26/09/1943,M,,,,,,,001557
+D,Mannion,"Renville West, Oranmore, Galway",Monique,8290350A,,05/05/1950,F,,,,,,,001545
+D,Cunningham,"9 Aughnacurra, Dangan, Co.Galway",Maisie,A664453A,,27/06/1941,F,,,,,,,001546
+D,Mercer,"6 Rian Oisin, Cois Cuain, Salthill, Galway",Phyllis,S773172A,,12/05/1945,F,,,,,,,001578
+D,Cummins,"Waters' Edge, Apt. 4, Lough Atalia Road, Galway",Kathleen,5839658A,,02/10/1956,F,,,,,,,001595
+D,O'Grady,"34 Sli na Sruthan, Clybaun Road, Galway",Saoirse,E158877A,,30/12/2000,F,,,,,,,001576
+D,Burke,"35 Maunsells Park, Galway",Maria,D282087B,,04/12/1971,F,,,,,,,001565
+D,Rice,"34 Sli na Sruthan, Clybaun Road, Knocknacarra, Galway",Grainne,5844419A,,12/02/1968,F,,,,,,,001575
+D,Corcoran,"20 Ballinfoyle Park, Headford Road, Galway",Jane,0S27550A,,01/11/1961,F,,,,,,,001525
+D,Mulry,"12 New Road, Galway",Geraldine,R380061A,,15/06/1950,F,,,,,,,001464
+D,Glynn,"10 Maunsells Road, Galway",Adrian,R075033A,,18/11/1942,M,,,,,,,001473
+D,Connolly,"51A O'Connaire Road, Shantalla, Galway",Brian,5841821A,,23/03/1945,M,,,,,,,001445
+D,Madden,"21 Costello Road, Shantalla, Galway.",Sarah,M124731B,,04/09/1938,F,,,,,,,001436
+D,Hanley,"65 Thornog, Headford Road, Galway",Ceranna,5807395A,,17/07/1988,F,,,,,,,001442
+D,Moran,"Roscahill, Galway",Martin,D391761A,,28/08/1962,M,,,,,,,001511
+D,Black,"23 Fana Bui, Ballymoneen Road, Galway .",Dympna,5789264A,,02/09/1969,F,,,,,,,001521
+D,Mortimer,"83 Mullan Mor, Riverside, Galway",Isabelle,Y764550A,,07/05/1990,F,,,,,,,001503
+D,Ford,"22 Maunsells Park, Galway",Thomas,5812188A,,02/09/1935,M,,,,,,,001479
+D,Whyte,"8 Rivendell, Highfield Park, Galway",Derek,5830206A,,06/06/1947,M,,,,,,,001481
+D,RYAN,"54 CORRACH BUI, RAHOON, GALWAY",Kayleigh,5807784A,,26/08/1988,F,,,,,,,002160
+D,Langdon,"10 St Nicholas Road, The Claddagh, Galway",John,5805516B,,19/05/1939,M,,,,,,,002168
+D,Hession,"11 Carrig Bhan, Menlo, Galway",Ann,W342027A,,26/02/1959,F,,,,,,,002150
+D,Gannon,"7 Lenoboy Avenue, Salthill, Galway",Colm,5840835A,,28/10/1985,M,,,,,,,002145
+D,GALLAGHER,"5 COOLE PARK, BOHERMORE, GALWAY",Declan,5844244A,,25/03/1994,M,,,,,,,002147
+D,Marie Furey,"78 The Meadows, Ballybrit, Galway",Anne,0S34696A,,03/11/1967,F,,,,,,,002186
+D,Kavanagh,"2 Rian Oisin, Cois Cuain, Salthill, Galway",Suzanne,S370062C,,03/03/1975,F,,,,,,,002190
+D,SHEPPARD,"46 DAVIS RD, SHANTALLA, GALWAY",Catherine,M277791B,,23/03/1957,F,,,,,,,002177
+D,Langdon,"10 St Nicholas Road, The Claddagh, Galway",Mary,5805516A,,16/05/1937,F,,,,,,,002169
+D,BINUYO,"145 Tur Uisce, Doughiska, Merlin Park, Galway",Kafilah,1D29998A,,05/08/1972,F,,,,,,,002171
+D,GLOWACKA,"Cornarone West, Inverin, Co. Galway",Messua,D316341A,,03/09/1996,F,,,,,,,002097
+D,Burke,"Lynburg, Whitestrand Road, Galway",Teresa,Y364905A,,10/09/1945,F,,,,,,,002124
+D,Wade,"254 Laurel Park, Newcastle, Galway",Lisa,5846606A,,07/04/1971,F,,,,,,,002092
+D,Fernandes,"Cloonliffe, Moycullen",Nola,A704881A,,19/09/1940,F,,,,,,,002084
+D,GLOWACKA,"42 Sliabh Bhan, Ballybane, Galway",Sabrina,5812256A,,05/02/1989,F,,,,,,,002090
+D,Flynn,"72 Portacarron, Knocknacarra, Co. Galway",David,5808391A,,19/01/1973,M,,,,,,,002138
+D,Wallace,"Letteragh, Rahoon, Galway",Peter,5808377A,,13/04/1944,M,,,,,,,002143
+D,O'Brien,"8 Sylvan Heights, Fairlands Park, Galway",Patricia,5821496A,,12/03/1937,F,,,,,,,002136
+D,Concar-Murphy,"13 Parnell Avenue, Mervue, Galway",Olga,U534366A,,31/05/1979,F,,,,,,,002132
+D,Derham,"Cuileann Ballard East, Barna, Galway",Heather,0J58096A,,25/08/1983,F,,,,,,,002133
+D,McCormack,"10 Rahylin Glebe, Ballbane, Galway.",Breege,B888066A,,28/12/1954,F,,,,,,,002293
+D,O'Connell,"Pollnarooma West, Galway",Pam,E321255A,,30/03/1947,F,,,,,,,002297
+D,MACNALLY,"117 Cartur Mor, Clybaun Road, GALWAY",Chloe,E345042A,,09/08/2000,F,,,,,,,002292
+D,QUINN,"66 Inishannagh Park, Newcastle, GALWAY",LAUREN,Y853632A,,28/01/2000,F,,,,,,,002270
+D,Noone,"22 Beechwood Park, Ballybane, Galway.",Agnes,E891216A,,02/06/1947,F,,,,,,,002277
+D,Andrews,"25 Threadneedle Road, Galway",Rosalie,E449982A,,07/05/1944,F,,,,,,,002327
+D,Oliver,"82 FR BURKE ROAD, FAIRHILL CLADDAGH, GALWAY",Eileen,5834147B,,30/08/1960,F,,,,,,,002330
+D,Letsome,"70 Lower Salthill, Galway",Sean,5776814A,,06/11/1978,M,,,,,,,002326
+D,McGowan,"2 Larchfield Ave., Renmore, Galway",Teresa,B749439A,,19/12/1941,F,,,,,,,002317
+D,O'Grady,"34 Sli na Sruthan, Clybaun Road, Galway",Eabha,1B36847A,,25/06/2003,F,,,,,,,002322
+D,Grealish,"Danmar, 49 Oakfield, Oranmore, Co. Galway.",Mary,5829825A,,12/10/1954,F,,,,,,,002241
+D,Gilroy,"72 Corrach Bui, Rahoon, Co. Galway",Sammy,5814560A,,31/08/1989,M,,,,,,,002245
+D,Costello,"Ballybrone, Turloughmore, Co. GALWAY",Kenny,0L94438A,,16/05/2002,M,,,,,,,002222
+D,Connery,"47 Beach Court, Galway",Una,B616932B,,04/07/1941,F,,,,,,,002209
+D,Howard,"8 Clybaun Road, Knocknacarra, Galway",Catherine,E010530A,,20/10/1952,F,,,,,,,002215
+D,CODYRE,"""Delgany"", Truskey West, Barna, Co. Galway",NIAMH,1C75358A,,12/08/1993,F,,,,,,,002264
+D,CODYRE,"""Delgany"", Truskey West, Barna, Co. Galway",DIARMUID,W254934A,,02/01/1999,M,,,,,,,002269
+D,Molloy,"183 Castlepark, Galway",Jack,1E68887A,,01/09/2003,M,,,,,,,002255
+D,O'Haodha,"23 Oldfield, Kingston, Galway",Maire,R180045A,,28/02/1946,F,,,,,,,002251
+D,Carr,"183 Castlepark, Galway",Siobhan,1D14698A,,18/02/1969,F,,,,,,,002254
+D,Diskin,"1 Ardmore Road, Highfield Park, Galway",James,5806227A,,09/10/1934,M,,,,,,,002077
+D,Ni Dhireain,"12 Frenchville, Claddagh, Co.Galway",Mairead,0U89056A,,21/11/1948,F,,,,,,,001965
+D,McDermott,"25 Upper Fairhill Road, Galway",Rita,5775788B,,20/05/1940,F,,,,,,,001979
+D,Heffernan,"Robinhill, MENLO, GALWAY",Alyssa,0I47530A,,26/02/2002,F,,,,,,,001964
+D,O'Flaherty,"Ballydoite, Belclare, Tuam, Co. Galway",Rebecca,5805616B,,14/03/1973,F,,,,,,,001960
+D,Griffin,"1 Riasc na Ri, Old Rahoon Road, Galway",Colette,5824060B,,29/03/1955,F,,,,,,,001961
+D,Coyne,"107 Ros Ard, Cappagh Road, Galway",Katie,G700380A,,15/10/1997,F,,,,,,,002000
+D,Cummins,"14 Reddington Road, Shantalla, Galway",Bernadette,W378819B,,03/04/1947,F,,,,,,,002003
+D,KING-LEE,"101 Fana Burca, Knocknacarra, Galway",Casey,R673263A,,05/08/2000,F,,,,,,,001990
+D,Binuyo,"145 Tur Uisce, Doughiska, Merlin Park, Galway",Najmuddeen,1F90721A,,06/12/2002,M,,,,,,,001980
+D,OROURKE,"72 CORRIB PK, GALWAY",TERESA,A567397B,,31/03/1936,F,,,,,,,001987
+D,Brennan,"14 Brooklawn, Knocknacarra, Galway",Maeve,0Y00307A,,19/01/1949,F,,,,,,,001957
+D,Muntean,"140 Cluain Riocaird, Headford Rd, Galway",Anatol,5804289A,,07/06/1959,M,,,,,,,001918
+D,Greaney,"Aille, Barna, Co. Galway",Nancy,5821037B,,24/09/1932,F,,,,,,,001920
+D,McMahon,"9 Hollygrove, Renmore, Galway",Della,0R89182A,,30/06/1949,F,,,,,,,001914
+D,HANNIFFY,"BALLINACOURTY, CLARINBRIDGE, CO GALWAY",Breda,5802239B,,13/09/1966,F,,,,,,,001896
+D,HANNIFFY,"BALLINACOURTY, CLARINBRIDGE, CO GALWAY",Diarmuid,0J77140A,,09/03/2002,M,,,,,,,001897
+D,Brehony,"18 Glenard Drive, Galway",Rita,5806068A,,13/04/1934,F,,,,,,,001950
+D,Conneely,"Clydagh, Moycullen, Co.Galway",Marie,5850935A,,11/11/1954,F,,,,,,,001954
+D,Maloney,"Parishtown, Oughterard, Co.Galway",Maura,M079728A,,15/09/1968,F,,,,,,,001947
+D,Hynes,"89 Ballinfoyle Park, Headford Road, Galway",Mary,8239185A,,11/11/1980,F,,,,,,,001923
+D,Roche,"1 Cluainin, Newcastle, Galway",Mary,8397856B,,07/04/1946,F,,,,,,,001934
+D,Akanni,"145 Coillte Mhuirline, Ballybane, Galway",Adeyomi,0R72136A,,07/10/2002,M,,,,,,,002037
+D,Slevin,"St. Ritas, Castlegar, Galway",Vera,5804997A,,01/11/1933,F,,,,,,,002044
+D,Akanni,"145 Coillte Mhuirline, Ballybane, Galway",Adebusola,5785599B,,21/03/1976,F,,,,,,,002036
+D,O'Gorman,"30 Dr. Mannix Road, Galway",Mary,S882036A,,20/10/1943,F,,,,,,,002031
+D,Fitzpatrick,"4 Colmcille Road, Shantalla, Galway",Anthony,5805156A,,31/10/1968,M,,,,,,,002034
+D,Precious AGWARAONYE,"63 Rosan Glas, Rahoon, Galway",Chichi,1K57700a,,28/02/2004,F,,,,,,,002069
+D,Cummins,"14 Reddington Road, Shantalla, Galway",John,W378819A,,04/04/1949,M,,,,,,,002070
+D,MORAN,"46 DAVIS RD, SHANTALLA, GALWAY",Scott,0Q50581A,,06/09/2002,M,,,,,,,002068
+D,Connolly,"40 McDara Road, Shantalla",Anne,W436968A,,14/12/1948,F,,,,,,,002055
+D,Fahy,"Regina Coeli, 18 Merlin Lane, Doughiska, Galway",Ann,5820690A,,13/11/1935,F,,,,,,,002063
+D,Greally,"8 Pinewood Grove, Renmore, Galway",Niall,1B49447A,,16/05/1986,M,,,,,,,002016
+D,Flaherty,"Barrack, Ballinahowen",Josephine,Y442602B,,21/05/1948,F,,,,,,,002020
+D,Moloney,"48 Henry Street, Galway",Nora,5849878A,,17/10/1948,F,,,,,,,002010
+D,Myles,"4 Lough Atalia Grove, Renmore, Galway",Anne,5816910A,,13/05/1945,F,,,,,,,002007
+D,Hehir,"21 Ardilaun Road, Galway",Agnes,Y028107A,,22/06/1943,F,,,,,,,002029
+D,O'Connell,"22 Beach Court, Grattan Road, Galway",Maire,Y490365A,,21/05/1945,F,,,,,,,002030
+D,Mannion,"50 Ard Fraoigh, Clybaun Road, Galway",Mary,S827703A,,29/04/1942,F,,,,,,,002011
+D,Mourao Braga,"An Charraig, San Antonio Terrace, Salthill, Galway",Lorena,E222228B,,12/12/1986,F,,,,,,,0004108
+D,Cunai,"Eglington Hotel, Salthill, Galway",Isabella,1J13402b,,11/11/2011,F,,,,,,,0004106
+D,Haque,"Eglinton Hotel, Salthill, Galway",Mazharu,1D40078A,,01/11/1975,M,,,,,,,0004132
+D,Osei Atiemo,"Eglington Hotel, Salthill, Galway",Josephine,1K98020B,,06/12/1977,F,,,,,,,0004109
+D,Kebude,"65 Country Meadows, Cloontona, Tuam, Galway",Belgin,U655974B,,25/07/1976,F,,,,,,,0004120
+D,Haque,"Eglinton Hotel, Salthill, Galway",Sumaiya,1D40078D,,24/12/2012,F,,,,,,,0004134
+D,Ampofo,"Eglington Hotel, Salthill, Galway",Clinton,1K98020C,,04/05/2012,M,,,,,,,0004114
+D,Scott,"Hawthorn Cottage, Drumsheel, Cong, Co. Mayo",Elizabeth,8564449A,,05/12/1955,F,,,,,,,0004035
+D,Cotter,"60 Fr. Burke Road, Claddagh, Galway",Martha,1M51814A,,10/09/1952,F,,,,,,,001648
+D,Ampofo,"Eglington Hotel, Salthill, Galway",Gilbert,1K98020A,,27/11/1977,M,,,,,,,0004094
+D,Haque,"Eglinton Hotel, Salthill, Galway",Sarah,1D40078C,,22/12/2017,F,,,,,,,0004133
+D,Quinlan,"102 Moylan, Knocknacara, Galway",Frankie,1K26128A,,05/11/2019,M,,,,,,,0004049
+D,Morgan,"31 Dalysfort  Road, Salthill, Galway",Angela,8415633A,,28/05/1960,F,,,,,,,0004101
+D,Agyeiwah Ampofo,"Eglington Hotel, Salthill, Galway",Kylie,1K98020D,,14/04/2009,F,,,,,,,0004102
+D,Rafferty,"Rusheen Lodge, Barna Road, Galway",Marie,5795480B,,11/06/1939,F,,,,,,,0004124
+D,Islam Chadny,"Eglington Hotel, Salthill, Galway",Sadia,1D40078B,,03/01/1993,F,,,,,,,0004131
+D,Akinyomi,"Eglington Hotel, Salthill, Galway",Amoke,5813636C,,26/11/2005,F,,,,,,,005878
+D,(Glaida) Karpov,"Eglington Hotel, Salthill, Galway",Maxim,5814538C,,10/05/1991,M,,,,,,,005911
+D,Hernon,"16 Crescent Green, Galway",Paraic,5792475A,,16/10/1984,M,,,,,,,005561
+D,Fattah Nimer,"Great Western House, Eyre Square, Galway",Abdel,5811832A,,15/03/1966,M,,,,,,,005035
+D,Sweeney,"33b Doughiska Road, Merlin Park, Galway",Ellie,5783500C,,05/04/2005,F,,,,,,,005449
+D,TEST,"TESTING STREET, GALWAY",GALWAY,1254675a,,10/10/1960,F,,,,,,,000001

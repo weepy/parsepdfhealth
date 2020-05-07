@@ -1,41 +1,34 @@
 const  fs = require('fs')
-const Patient = require('../Patient.js')
+const Patient = require('../src/Patient.js')
 const xlsx = require('node-xlsx').default
 
 const {
     convertAddress,
-    convertDateOfBirth,
-    convertCategory
-} = require('../utils.js')
+    convertDateOfBirth
+} = require('../src/utils.js')
 
 
 function parse(practiceId, inputFile, outputFile) {
     const workSheetsFromFile = xlsx.parse(inputFile);
     const dataFromFile = workSheetsFromFile[0].data
-    const data = dataFromFile.slice(3)
+    const data = dataFromFile.slice(1)
 
-    // console.log(dataFromFile[2])
-    // return
+
     const fields = [
-        "__distanceCode",
-        "__ageGroup", 
-        "category", 
-        "cardNumber", 
+        // "__empty",
         "lastname", 
         "firstname", 
-        "gender", 
-        "dateOfBirth",
-        "address1",
-        "address2",
-        "address3",
-        "address4",
-        "ppsNumber",
-        "__dispensingCode",
+        "dateOfBirth", 
+        "address1", 
+        "address2", 
+        "address3", 
+        "gender",
         "cardType",
-        "__expiryDate"
+        "cardNumber"
     ]
 
-
+    
+    
     const patients = data.map(d => {
     
         const o = { practiceId }
@@ -48,7 +41,6 @@ function parse(practiceId, inputFile, outputFile) {
         
         convertAddress(o)
         convertDateOfBirth(o)
-        convertCategory(o)
         
         o.gender = o.gender.slice(0,1).toUpperCase()
         return new Patient(o)

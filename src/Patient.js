@@ -69,6 +69,9 @@ const fields = [
     {
         name:'registrationDate',
         regex: DateRegex
+    },
+    {
+        name:'uniqueId'
     }
 ]
 
