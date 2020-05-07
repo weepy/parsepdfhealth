@@ -1,21 +1,14 @@
 const  fs = require('fs')
-const Patient = require('./Patient.js')
+const Patient = require('./src/Patient.js')
 const xlsx = require('node-xlsx').default
 const { getJsDateFromExcel } = require("excel-date-to-js");
 
 function parse(inputFile, outputFile) {
     const workSheetsFromFile = xlsx.parse(inputFile);
 
-    // console.log(workSheetsFromFile)
-
-    function getDataRows(data) {
-        const index = data.findIndex(r => r[0] == 'Distance Code' && r[1] == 'Age Group')
-    
-        return data.slice(index+1)
-    }
-    
-    
-    const data = getDataRows(workSheetsFromFile[0].data)
+    const dataFromFile = workSheetsFromFile[0].data
+    const index = data.findIndex(r => r[0] == 'Distance Code' && r[1] == 'Age Group')
+    const data = dataFromFile.slice(index+1)
     
     const fields = [
         "distanceCode", 
@@ -35,8 +28,6 @@ function parse(inputFile, outputFile) {
         "cardType",
         "expiryDate"
     ]
-    
-    //Distance Code,Age Group,Category,Medical Card,Surname,Firstname,Sex,Date of Birth,Address 1,Address 2,Address 3,Address 4,PPSN,Dispensing Code,Card Type,Expiry Date
     
     const patients = data.map(d => {
     
@@ -67,30 +58,15 @@ function parse(inputFile, outputFile) {
             const d = getJsDateFromExcel(o.dateOfBirth) 
             o.dateOfBirth = ("0" + d.getDate()).slice(-2) + "/" + ("0"+(d.getMonth()+1)).slice(-2) + "/" + d.getFullYear()
         }
-    
 
-        
     
         const p = new Patient(o)
         
         return p
     })
     
-    
-    
-    const tsv = Patient.createTable(patients)
-
-    
-    fs.writeFileSync(outputFile, tsv)
-        
-    // const strings = patients.map(p =>  p.toRow().join("\t"))    
-    
-    // const header = Patient.fields.map(f => f.name).join("\t")
-    // strings.unshift(header)
-
-    
-    // fs.writeFileSync(outputFile, strings.join('\n'))
-    
+    const csv = Patient.createTable(patients)    
+    fs.writeFileSync(outputFile, csv)
 }
 
 
